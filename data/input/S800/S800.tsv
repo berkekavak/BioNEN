@@ -1,0 +1,3708 @@
+5833	species001:21183147	32	52	Plasmodium falciparum
+5833	species001:21183147	377	397	Plasmodium falciparum
+5833	species001:21183147	835	846	P falciparum
+5833	species001:21183147	1036	1047	P falciparum
+5833	species001:21183147	1288	1299	P falciparum
+4929	species002:21807108	31	52	Candida guilliermondii
+4929	species002:21807108	57	78	Candida guilliermondii
+4932	species002:21807108	169	173	yeast
+4929	species002:21807108	455	471	C. guilliermondii
+4929	species002:21807108	627	643	C. guilliermondii
+4929	species002:21807108	932	948	C. guilliermondii
+4929	species002:21807108	1054	1070	C. guilliermondii
+4929	species002:21807108	1274	1290	C. guilliermondii
+4929	species002:21807108	1401	1417	C. guilliermondii
+4932	species002:21807108	1567	1571	yeast
+39416	species004:20961294	72	89	Tuber melanosporum
+39416	species004:20961294	110	127	Tuber melanosporum
+39416	species004:20961294	1119	1133	T. melanosporum
+162425	species005:21807107	35	54	Aspergillus nidulans
+162425	species005:21807107	70	89	Aspergillus nidulans
+162425	species006:20797444	98	117	Aspergillus nidulans
+162425	species006:20797444	278	297	Aspergillus nidulans
+247150	species007:21565476	1238	1247	D. derouxi
+1046030	species008:21565477	226	249	Geleia sinica spec. nov.
+653507	species008:21565477	294	302	K. flavus
+653508	species008:21565477	308	318	K. gracilis
+1046030	species008:21565477	404	427	Geleia sinica spec. nov.
+219838	species008:21565477	979	1014	Geleia simplex (Faure-Fremiet, 1951)
+653507	species008:21565477	1109	1153	Kentrophoros flavus Raikov and Kovaleva, 1968
+653508	species008:21565477	1335	1368	Kentrophoros gracilis Raikov, 1963
+4097	species010:20951091	126	132	tobacco
+485	species011:21075927	121	141	Neisseria gonorrhoeae
+487	species011:21075927	215	236	Neisseria meningitidis
+487	species011:21075927	1634	1646	meningococcal
+75485	species012:21182519	361	382	black-legged kittiwake
+746128	species013:21073976	589	609	Aspergillus fumigatus
+5476	species013:21073976	615	630	Candida albicans
+3329	species015:20840508	311	323	Norway spruce
+3329	species015:20840508	326	336	Picea abies
+58325	species016:21303365	785	803	Leuciscus leuciscus
+4081	species018:20955222	111	130	Solanum lycopersicum
+4081	species018:20955222	275	280	tomato
+4081	species018:20955222	425	430	tomato
+4081	species018:20955222	646	651	potato
+4081	species018:20955222	1448	1453	tomato
+3047	species019:20955223	942	963	Dunaliella tertiolecta
+4031	species020:20955224	72	93	Pelargonium x hortorum
+4031	species020:20955224	556	577	Pelargonium x hortorum
+4513	species021:20955225	19	24	barley
+4513	species021:20955225	405	410	barley
+4513	species021:20955225	575	580	barley
+3702	species022:20955226	459	478	Arabidopsis thaliana
+4522	species023:20955227	463	476	Lolium perenne
+870602	species024:20971620	0	44	Cotterillia bromelicola nov. gen., nov. spec.
+870602	species024:20971620	175	219	Cotterillia bromelicola nov. gen., nov. spec.
+294059	species024:20971620	274	296	Tillandsia heterophylla
+870602	species024:20971620	377	387	Cotterillia
+870602	species024:20971620	487	497	Cotterillia
+870602	species024:20971620	799	821	Cotterillia bromelicola
+870602	species024:20971620	1053	1063	Cotterillia
+870602	species024:20971620	1290	1300	Cotterillia
+69820	species025:20955241	465	491	Spodoptera litura Fabricius
+69820	species025:20955241	726	734	S. litura
+110108	species026:20840555	1090	1105	Rana limnocharis
+718362	species027:20932726	0	17	Oramoeba fumarolia
+63595	species027:20932726	587	612	Stachyamoeba sp. ATCC50324
+660567	species027:20932726	659	677	Vrihiamoeba italica
+4530	species027:20932726	704	707	rice
+718362	species027:20932726	1057	1074	Oramoeba fumarolia
+5476	species028:20637818	4	19	Candida albicans
+5476	species028:20637818	325	340	Candida albicans
+5476	species028:20637818	532	542	C. albicans
+4932	species028:20637818	615	638	Saccharomyces cerevisiae
+5476	species028:20637818	1278	1288	C. albicans
+11320	species029:20951165	98	113	influenza A H1N1
+11320	species029:20951165	724	742	influenza A viruses
+11320	species029:20951165	772	787	influenza A H1N1
+11320	species029:20951165	830	845	influenza A H1N1
+11320	species029:20951165	947	957	influenza A
+11320	species029:20951165	960	975	influenza A H1N1
+11320	species029:20951165	1024	1039	influenza A H1N1
+11176	species030:20951166	19	41	Newcastle disease virus
+9031	species030:20951166	70	76	chicken
+11176	species030:20951166	141	163	Newcastle disease virus
+11176	species030:20951166	166	168	NDV
+9031	species030:20951166	236	242	poultry
+11176	species030:20951166	968	970	NDV
+9031	species030:20951166	1019	1025	chicken
+11176	species030:20951166	1276	1278	NDV
+11176	species030:20951166	1319	1321	NDV
+3760	species031:20951167	719	723	peach
+5039	species033:20854921	1109	1132	Blastomyces dermatitidis
+38033	species033:20854921	1339	1357	Chaetomium globosum
+5207	species034:20971202	56	78	Cryptococcus neoformans
+5207	species034:20971202	357	379	Cryptococcus neoformans
+4932	species034:20971202	572	595	Saccharomyces cerevisiae
+5207	species034:20971202	602	614	C. neoformans
+5207	species034:20971202	834	843	serotype A
+5207	species034:20971202	849	872	serotype D C. neoformans
+5270	species034:20971202	1381	1395	Ustilago maydis
+5207	species034:20971202	1437	1449	C. neoformans
+5207	species034:20971202	1564	1576	C. neoformans
+77748	species036:21323922	728	750	Bythotrephes longimanus
+77711	species036:21323922	867	885	Holopedium gibberum
+38942	species037:21323923	570	573	oaks
+38942	species037:21323923	576	588	Quercus robur
+4577	species039:20840609	48	52	maize
+4577	species039:20840609	273	277	maize
+50389	species040:20840610	455	474	Diabrotica virgifera
+4577	species040:20840610	544	551	Zea mays
+50389	species040:20840610	556	575	Diabrotica virgifera
+7109	species040:20840610	671	691	Spodoptera littoralis
+7109	species040:20840610	1003	1015	S. littoralis
+5141	species041:21220038	12	28	Neurospora crassa
+162425	species041:21220038	118	137	Aspergillus nidulans
+162425	species041:21220038	149	168	Aspergillus nidulans
+5141	species041:21220038	174	190	Neurospora crassa
+162425	species041:21220038	376	386	A. nidulans
+5141	species041:21220038	412	420	N. crassa
+162425	species041:21220038	738	748	A. nidulans
+5141	species041:21220038	759	767	N. crassa
+162425	species041:21220038	1078	1088	A. nidulans
+8032	species042:21426342	11	21	brown trout
+8032	species042:21426342	497	507	brown trout
+8032	species042:21426342	510	521	Salmo trutta
+126302	species042:21426342	566	583	roundhead galaxias
+126302	species042:21426342	586	602	Galaxias anomalus
+8032	species042:21426342	866	876	brown trout
+126302	species042:21426342	918	935	roundhead galaxias
+126302	species042:21426342	1028	1042	native galaxias
+8032	species042:21426342	1097	1101	trout
+8032	species042:21426342	1181	1185	trout
+8032	species042:21426342	1328	1332	trout
+126302	species042:21426342	1477	1484	galaxias
+8032	species042:21426342	1557	1561	trout
+126302	species042:21426342	1622	1629	galaxias
+126302	species042:21426342	1655	1662	galaxias
+126302	species042:21426342	1727	1734	galaxias
+8032	species042:21426342	1740	1744	trout
+8032	species042:21426342	1754	1758	trout
+126302	species042:21426342	1808	1815	galaxias
+126302	species042:21426342	1836	1843	galaxias
+126302	species042:21426342	1868	1875	galaxias
+156563	species043:21426343	754	762	blue tits
+85471	species043:21426343	1060	1078	Plasmodium relictum
+1075167	species043:21426343	1166	1180	P. circumflexum
+111991	species044:21426344	1071	1084	Tiaris bicolor
+87177	species044:21426344	1087	1102	Coereba flaveola
+111865	species044:21426344	1108	1123	Loxigilla noctis
+1036802	species044:21426344	1125	1135	barbadensis
+111991	species044:21426344	1647	1660	Tiaris bicolor
+279896	species045:21199018	41	64	Maize mosaic rhabdovirus
+222432	species045:21199018	90	106	Peregrinus maidis
+222432	species045:21199018	180	195	corn planthopper
+222432	species045:21199018	198	214	Peregrinus maidis
+279896	species045:21199018	270	299	Maize mosaic rhabdovirus (MMV)
+279896	species045:21199018	337	339	MMV
+279896	species045:21199018	569	571	MMV
+222432	species045:21199018	693	701	P. maidis
+222432	species045:21199018	755	763	P. maidis
+222432	species045:21199018	968	976	P. maidis
+222432	species045:21199018	1036	1044	P. maidis
+108931	species045:21199018	1111	1127	brown planthopper
+108931	species045:21199018	1129	1146	Nilaparvata lugens
+222432	species045:21199018	1167	1175	P. maidis
+222432	species045:21199018	1405	1413	P. maidis
+108931	species045:21199018	1536	1545	Ni. lugens
+7029	species045:21199018	1801	1819	Acyrthosiphon pisum
+222432	species045:21199018	1866	1874	P. maidis
+1071257	species046:21199019	44	62	Megaphorura arctica
+1071257	species046:21199019	112	128	Arctic springtail
+1071257	species046:21199019	131	149	Megaphorura arctica
+1071257	species046:21199019	363	372	M. arctica
+7111	species047:21199020	300	314	Trichoplusia ni
+7091	species047:21199020	320	330	Bombyx mori
+7091	species047:21199020	337	343	B. mori
+7111	species047:21199020	669	673	T. ni
+7111	species047:21199020	698	702	T. ni
+32264	species048:21199022	80	98	Tetranychus urticae
+44947	species049:21353502	316	335	Eichhornia crassipes
+44947	species049:21353502	997	1008	E. crassipes
+37087	species053:21366563	94	112	blue-footed boobies
+37087	species053:21366563	527	543	blue-footed booby
+37087	species053:21366563	545	557	Sula nebouxii
+37087	species053:21366563	1898	1916	blue-footed boobies
+595671	species054:20173001	0	44	Amnibacterium kyonggiense gen. nov., sp. nov.
+595671	species054:20173001	145	159	KSL51201-037(T)
+595671	species054:20173001	338	352	KSL51201-037(T)
+595671	species054:20173001	472	503	Labedella gwakjiensis KSW2-17(T)
+381665	species054:20173001	516	543	Leifsonia ginsengi wged11(T)
+412690	species054:20173001	559	592	Microterricola viridarii KV-677(T)
+595671	species054:20173001	652	666	KSL51201-037(T)
+595671	species054:20173001	1060	1074	KSL51201-037(T)
+595671	species054:20173001	1169	1213	Amnibacterium kyonggiense gen. nov., sp. nov.
+595671	species054:20173001	1267	1281	KSL51201-037(T)
+710190	species055:20173004	0	37	Methanobacterium petrolearium sp. nov.
+710191	species055:20173004	43	78	Methanobacterium ferruginis sp. nov.
+59277	species055:20173004	976	1004	Methanobacterium subterraneum
+710190	species055:20173004	1322	1359	Methanobacterium petrolearium sp. nov.
+710191	species055:20173004	1365	1400	Methanobacterium ferruginis sp. nov.
+702383	species056:20173006	0	25	Jiangella muralis sp. nov.
+702383	species056:20173006	126	137	15-Je-017(T)
+702383	species056:20173006	345	356	15-Je-017(T)
+561176	species056:20173006	433	459	Jiangella alba YIM 61503(T)
+419479	species056:20173006	505	534	Jiangella alkaliphila D8-87(T)
+281473	species056:20173006	549	579	Jiangella gansuensis YIM 002(T)
+702383	species056:20173006	1184	1195	15-Je-017(T)
+702383	species056:20173006	1319	1330	15-Je-017(T)
+702383	species056:20173006	1399	1410	15-Je-017(T)
+702383	species056:20173006	1480	1505	Jiangella muralis sp. nov.
+702383	species056:20173006	1525	1536	15-Je-017(T)
+676201	species057:20173007	0	16	Miniimonas arenae
+676201	species057:20173007	184	190	YM18-15
+676201	species057:20173007	281	287	YM18-15
+676201	species057:20173007	924	930	YM18-15
+556530	species057:20173007	955	976	Serinibacter salmoneus
+120377	species057:20173007	979	996	Salana multivorans
+84757	species057:20173007	1002	1022	Beutenbergia cavernae
+676201	species057:20173007	1032	1038	YM18-15
+676201	species057:20173007	1234	1240	YM18-15
+676201	species057:20173007	1342	1358	Miniimonas arenae
+676201	species057:20173007	1432	1438	YM18-15
+4959	species058:20601040	89	109	Debaryomyces hansenii
+4959	species058:20601040	114	134	Debaryomyces hansenii
+4959	species058:20601040	356	366	D. hansenii
+634770	species059:20173009	0	31	Nocardioides caricicola sp. nov.
+538521	species059:20173009	85	101	Carex scabrifolia
+634770	species059:20173009	189	194	YC6903
+538521	species059:20173009	238	254	Carex scabrifolia
+634770	species059:20173009	398	403	YC6903
+634770	species059:20173009	525	530	YC6903
+634770	species059:20173009	607	612	YC6903
+109465	species059:20173009	645	676	Nocardioides pyridinolyticus OS4
+203799	species059:20173009	725	755	Nocardioides dokdonensis FR1436
+203799	species059:20173009	770	797	Nocardioides aquiterrae GW-9
+443157	species059:20173009	815	845	Nocardioides hankookensis DS-30
+634770	species059:20173009	1032	1037	YC6903
+109465	species059:20173009	1046	1067	N. pyridinolyticus OS4
+634770	species059:20173009	1136	1141	YC6903
+634770	species059:20173009	1280	1285	YC6903
+634770	species059:20173009	1363	1394	Nocardioides caricicola sp. nov.
+634770	species059:20173009	1428	1433	YC6903
+151	species060:20173011	1149	1169	Spirochaeta litoralis
+150	species060:20173011	1172	1185	S. isovalerica
+504483	species060:20173011	1191	1208	S. cellobiosiphila
+408753	species061:20173012	574	605	Clostridiisalibacter paucivorans
+4932	species061:20173012	1196	1200	yeast
+408753	species061:20173012	1728	1759	Clostridiisalibacter paucivorans
+99594	species061:20173012	1784	1809	Thermohalobacter berrensis
+116090	species061:20173012	1835	1861	Caloranaerobacter azorensis
+4081	species062:20173013	111	116	tomato
+4081	species062:20173013	219	224	tomato
+4113	species062:20173013	380	385	potato
+4932	species062:20173013	405	409	yeast
+562	species062:20173013	785	800	Escherichia coli
+287	species062:20173013	803	824	Pseudomonas aeruginosa
+1423	species062:20173013	827	843	Bacillus subtilis
+5476	species062:20173013	848	863	Candida albicans
+5077	species062:20173013	911	930	Penicillium citrinum
+1970	species062:20173013	1027	1050	Streptomyces morookaense
+1970	species062:20173013	1052	1064	ATCC 19166(T)
+67315	species062:20173013	1090	1118	Streptomyces lavenduligriseus
+67315	species062:20173013	1120	1132	ATCC 13306(T)
+1970	species062:20173013	1322	1335	S. morookaense
+5476	species063:21272794	298	313	Candida albicans
+5478	species063:21272794	345	360	Candida glabrata
+4909	species063:21272794	366	379	Candida krusei
+11676	species063:21272794	992	994	HIV
+9606	species063:21272794	1543	1547	human
+9785	species066:21418208	36	43	elephant
+9785	species066:21418208	439	454	African elephant
+9785	species066:21418208	737	744	elephant
+9785	species066:21418208	968	975	elephant
+9785	species066:21418208	1139	1146	elephant
+9785	species066:21418208	1252	1259	Elephant
+9785	species066:21418208	1437	1444	Elephant
+162715	species066:21418208	1501	1521	Colophospermum mopane
+162715	species066:21418208	1681	1689	C. mopane
+9785	species066:21418208	2074	2081	elephant
+8496	species067:21418209	66	84	American alligators
+8496	species067:21418209	544	562	American alligators
+8496	species067:21418209	565	590	Alligator mississippiensis
+121573	species068:21418210	422	442	African striped mouse
+121573	species068:21418210	445	461	Rhabdomys pumilio
+562	species069:21131491	96	111	Escherichia coli
+562	species069:21131491	119	134	Escherichia coli
+1280	species071:21131496	0	20	Staphylococcus aureus
+1280	species071:21131496	84	89	newman
+1280	species071:21131496	132	137	UAMS-1
+1280	species071:21131496	153	158	Newman
+1280	species071:21131496	333	353	Staphylococcus aureus
+1280	species071:21131496	481	489	S. aureus
+1280	species071:21131496	560	568	S. aureus
+1280	species071:21131496	667	672	Newman
+1280	species071:21131496	932	937	Newman
+1280	species071:21131496	1288	1293	UAMS-1
+1280	species071:21131496	1431	1436	Newman
+1280	species071:21131496	1636	1641	Newman
+1280	species071:21131496	1650	1655	UAMS-1
+1280	species071:21131496	1736	1741	Newman
+1280	species071:21131496	1791	1796	UAMS-1
+5207	species074:20044015	67	89	Cryptococcus neoformans
+9606	species074:20044015	124	128	human
+5207	species074:20044015	146	168	Cryptococcus neoformans
+5207	species074:20044015	701	713	C. neoformans
+4932	species074:20044015	730	753	Saccharomyces cerevisiae
+5207	species074:20044015	836	848	C. neoformans
+4567	species075:21029104	306	316	durum wheat
+4567	species075:21029104	319	332	Triticum durum
+9696	species076:21338353	474	489	Florida panthers
+9696	species076:21338353	492	510	Puma concolor coryi
+9696	species076:21338353	642	657	P. c. stanleyana
+1428	species077:22182611	46	84	Bacillus thuringiensis var. israelensis
+7370	species077:22182611	151	165	Musca domestica
+7370	species077:22182611	237	247	house flies
+7370	species077:22182611	250	264	Musca domestica
+1428	species077:22182611	358	399	Bacillus thuringiensis variety israelensis
+1428	species077:22182611	402	404	Bti
+7370	species077:22182611	552	563	M. domestica
+9031	species077:22182611	604	611	chickens
+7370	species077:22182611	708	719	M. domestica
+1428	species077:22182611	766	768	Bti
+1428	species077:22182611	857	859	Bti
+1428	species077:22182611	949	951	Bti
+1428	species077:22182611	1063	1065	Bti
+1428	species077:22182611	1176	1178	Bti
+9031	species077:22182611	1183	1189	chicken
+7370	species077:22182611	1266	1276	house flies
+117187	species078:20887797	113	136	Fusarium verticillioides
+117187	species078:20887797	141	164	Fusarium verticillioides
+4577	species078:20887797	245	249	maize
+9606	species078:20887797	311	315	human
+117187	species078:20887797	451	468	F. verticillioides
+117187	species078:20887797	696	713	F. verticillioides
+5507	species078:20887797	748	759	F. oxysporum
+5518	species078:20887797	774	787	F. graminearum
+4577	species078:20887797	1012	1015	corn
+4577	species078:20887797	1184	1187	corn
+3885	species079:21029116	481	498	Phaseolus vulgaris
+4232	species080:21029117	456	464	sunflower
+4232	species080:21029117	467	483	Helianthus annuus
+44416	species082:21498113	161	178	Eimeria nieschulzi
+84963	species082:21498113	196	214	Eimeria falciformis
+8032	species084:21463300	308	318	brown trout
+8032	species084:21463300	321	332	Salmo trutta
+8036	species084:21463300	344	355	Arctic charr
+8036	species084:21463300	358	375	Salvelinus alpines
+8036	species084:21463300	461	472	Arctic charr
+8036	species084:21463300	495	501	charr's
+8036	species084:21463300	528	532	charr
+8036	species084:21463300	681	685	charr
+148596	species085:21463301	837	853	Mauritius kestrel
+5207	species088:21111055	26	48	Cryptococcus neoformans
+5207	species088:21111055	104	126	Cryptococcus neoformans
+4932	species088:21111055	188	192	yeast
+5207	species088:21111055	284	296	C. neoformans
+5207	species088:21111055	700	712	C. neoformans
+4932	species088:21111055	740	763	Saccharomyces cerevisiae
+5270	species088:21111055	774	788	Ustilago maydis
+5207	species088:21111055	969	981	C. neoformans
+67593	species089:21109013	30	47	Phytophthora sojae
+67593	species089:21109013	426	443	Phytophthora sojae
+3847	species089:21109013	788	794	soybean
+7539	species090:22182617	389	410	Colorado potato beetle
+7539	species090:22182617	413	443	Leptinotarsa decemlineata (Say)
+122892	species090:22182617	461	473	plum curculio
+122892	species090:22182617	476	506	Conotrachelus nenuphar (Herbst)
+50389	species090:22182617	528	548	western corn rootworm
+50389	species090:22182617	551	590	Diabrotica virgifera virgifera (LeConte)
+7539	species090:22182617	708	730	Colorado potato beetles
+122892	species090:22182617	849	862	plum curculios
+50389	species090:22182617	868	889	western corn rootworms
+122892	species090:22182617	945	957	plum curculio
+50389	species090:22182617	1348	1368	western corn rootworm
+63687	species091:21205278	76	93	poplar leaf beetle
+63687	species091:21205278	95	113	Chrysomela tremulae
+63687	species091:21205278	234	244	C. tremulae
+63687	species091:21205278	322	332	C. tremulae
+63687	species091:21205278	751	761	C. tremulae
+1428	species091:21205278	763	784	Bacillus thuringiensis
+1428	species091:21205278	787	788	Bt
+1428	species091:21205278	812	813	Bt
+3641	species092:22182619	98	112	Theobroma Cacao
+3641	species092:22182619	223	227	cacao
+3641	species092:22182619	236	250	Theobroma cacao
+3641	species092:22182619	302	306	cacao
+3641	species092:22182619	438	442	cacao
+3641	species092:22182619	1577	1581	cacao
+3641	species092:22182619	1728	1732	cacao
+615	species093:20971912	108	126	Serratia marcescens
+615	species093:20971912	420	438	Serratia marcescens
+615	species093:20971912	993	1005	S. marcescens
+3702	species094:20840499	31	50	Arabidopsis thaliana
+3702	species094:20840499	300	319	Arabidopsis thaliana
+366454	species095:21083871	62	65	hihi
+366454	species095:21083871	670	673	hihi
+366454	species095:21083871	676	693	Notiomystis cincta
+9606	species096:21496127	383	388	humans
+7159	species096:21496127	436	448	Aedes aegypti
+11034	species096:21496127	575	581	Sindbis
+11034	species096:21496127	625	628	SINV
+7047	species097:21496128	25	42	Sitophilus zeamais
+7047	species097:21496128	125	136	maize weevil
+7047	species097:21496128	139	156	Sitophilus zeamais
+7047	species097:21496128	671	680	S. zeamais
+7047	species097:21496128	840	849	S. zeamais
+7047	species097:21496128	989	998	S. zeamais
+7047	species097:21496128	1182	1191	S. zeamais
+7047	species097:21496128	1492	1501	S. zeamais
+746128	species098:21184840	66	86	Aspergillus fumigatus
+746128	species098:21184840	200	220	Aspergillus fumigatus
+746128	species098:21184840	600	611	A. fumigatus
+35005	species100:21182520	79	90	garter snake
+35005	species100:21182520	93	110	Thamnophis elegans
+35005	species100:21182520	565	576	garter snake
+35005	species100:21182520	578	595	Thamnophis elegans
+162425	species101:20633690	37	56	Aspergillus nidulans
+162425	species101:20633690	143	162	Aspergillus nidulans
+162425	species101:20633690	348	358	A. nidulans
+162425	species101:20633690	581	591	A. nidulans
+162425	species101:20633690	819	829	A. nidulans
+5270	species102:21073977	75	89	Ustilago maydis
+5270	species102:21073977	94	108	Ustilago maydis
+5270	species102:21073977	134	142	corn smut
+5270	species102:21073977	471	485	Ustilago maydis
+5270	species102:21073977	999	1007	U. maydis
+746128	species102:21073977	1540	1560	Aspergillus fumigatus
+38033	species102:21073977	1563	1581	Chaetomium globosum
+40559	species102:21073977	1587	1608	Botryotinia fuckeliana
+10041	species103:20796206	89	105	white-footed mice
+10041	species103:20796206	407	423	white-footed mice
+10041	species103:20796206	426	444	Peromyscus leucopus
+139	species103:20796206	514	533	Borrelia burgdorferi
+10041	species103:20796206	536	552	White-footed mice
+10041	species103:20796206	740	756	white-footed mice
+9606	species103:20796206	966	970	human
+10041	species103:20796206	2071	2087	white-footed mice
+318829	species104:21600998	100	118	rice blast pathogen
+318829	species104:21600998	120	137	Magnaporthe oryzae
+318829	species104:21600998	177	194	Magnaporthe oryzae
+4530	species104:21600998	223	226	rice
+318829	species104:21600998	457	464	M.oryzae
+318829	species104:21600998	606	614	M. oryzae
+318829	species104:21600998	704	713	ATMT0225B6
+318829	species104:21600998	716	729	MoCDC15(T-DNA)
+4932	species104:21600998	811	815	yeast
+4932	species104:21600998	995	999	yeast
+318829	species104:21600998	1173	1181	M. oryzae
+318829	species104:21600998	1418	1434	wild type MoCDC15
+318829	species104:21600998	1579	1587	M. oryzae
+4876	species105:21907817	95	113	Glomus intraradices
+4876	species105:21907817	371	389	Glomus intraradices
+4876	species105:21907817	539	558	G. intraradicesNH(4)
+4932	species105:21907817	592	596	Yeast
+746128	species106:21907818	43	69	Aspergillus fumigatuscyp51A
+746128	species106:21907818	239	259	Aspergillus fumigatus
+746128	species106:21907818	696	707	A. fumigatus
+746128	species106:21907818	1306	1317	A. fumigatus
+56324	species107:21039479	751	767	red-backed shrike
+56324	species107:21039479	769	783	Lanius collurio
+56324	species107:21039479	1908	1924	red-backed shrike
+562	species108:20971900	27	42	Escherichia coli
+487	species109:20971901	15	36	Neisseria meningitidis
+487	species109:20971901	202	223	Neisseria meningitidis
+9606	species109:20971901	328	332	human
+487	species109:20971901	387	401	N. meningitidis
+9986	species109:20971901	1140	1145	rabbit
+95486	species110:20971902	4	27	Burkholderia cenocepacia
+95486	species110:20971902	157	180	Burkholderia cenocepacia
+107832	species110:20971902	1454	1471	Rhizoctonia solani
+644	species111:20971903	141	160	Aeromonas hydrophila
+1773	species112:20971904	111	136	Mycobacterium tuberculosis
+1773	species112:20971904	465	479	M. tuberculosis
+1773	species112:20971904	936	950	M. tuberculosis
+1772	species112:20971904	1044	1055	M. smegmatis
+1773	species112:20971904	1289	1303	M. tuberculosis
+1772	species112:20971904	1318	1329	M. smegmatis
+1773	species112:20971904	1351	1365	M. tuberculosis
+1772	species112:20971904	1389	1400	M. smegmatis
+1773	species112:20971904	1522	1536	M. tuberculosis
+1772	species112:20971904	1578	1589	M. smegmatis
+1773	species112:20971904	1842	1856	M. tuberculosis
+348824	species113:20971905	47	72	Rhizobium sp. strain LPU83
+348824	species113:20971905	662	687	Rhizobium sp. strain LPU83
+3879	species113:20971905	733	739	alfalfa
+3866	species113:20971905	752	771	Leucena leucocephala
+3879	species113:20971905	896	902	alfalfa
+382	species113:20971905	925	946	Sinorhizobium meliloti
+110321	species113:20971905	952	972	Sinorhizobium medicae
+57676	species113:20971905	1074	1103	Rhizobium mongolense USDA 1844
+348824	species113:20971905	1127	1131	LPU83
+348824	species113:20971905	1228	1232	LPU83
+57676	species113:20971905	1254	1271	R. mongolense 1844
+348824	species113:20971905	1314	1339	Rhizobium sp. strain LPU83
+3879	species113:20971905	1366	1372	alfalfa
+348824	species113:20971905	1630	1634	LPU83
+348824	species113:20971905	1748	1754	LPU83-H
+348824	species113:20971905	1851	1855	LPU83
+3879	species113:20971905	1878	1884	alfalfa
+1390	species114:20971906	77	108	Bacillus amyloliquefaciens FZB42
+1390	species114:20971906	186	217	Bacillus amyloliquefaciens FZB42
+1390	species114:20971906	471	496	B. amyloliquefaciens FZB42
+1423	species115:20971907	51	67	Bacillus subtilis
+1423	species115:20971907	431	484	strain Bacillus subtilis YB955 (hisC952 metB5 leuC427)
+1423	species115:20971907	846	866	MutSL knockout strain
+1423	species115:20971907	1552	1562	B. subtilis
+1496	species116:20971909	44	64	Clostridium difficile
+1496	species116:20971909	90	110	Clostridium difficile
+1496	species116:20971909	162	173	C. difficile
+1496	species116:20971909	303	314	C. difficile
+1496	species116:20971909	438	449	C. difficile
+1496	species116:20971909	684	695	C. difficile
+1496	species116:20971909	1217	1228	C. difficile
+1496	species116:20971909	1260	1271	C. difficile
+1496	species116:20971909	1584	1595	C. difficile
+1496	species116:20971909	1631	1642	C. difficile
+1392	species117:20971910	64	81	Bacillus anthracis
+1392	species117:20971910	129	146	Bacillus anthracis
+1392	species117:20971910	1465	1476	B. anthracis
+1392	species118:20971911	32	49	Bacillus anthracis
+1392	species118:20971911	232	249	Bacillus anthracis
+1392	species118:20971911	275	281	anthrax
+1392	species118:20971911	502	513	B. anthracis
+1392	species118:20971911	943	961	B. anthracis strain
+10090	species118:20971911	1034	1038	mouse
+1392	species118:20971911	1223	1234	B. anthracis
+294	species120:20971913	73	103	Pseudomonas fluorescens Q8r1-96
+294	species120:20971913	108	138	Pseudomonas fluorescens Q8r1-96
+294	species120:20971913	419	425	Q8r1-96
+317	species120:20971913	591	610	Pseudomonas syringae
+294	species120:20971913	665	686	P. fluorescens strains
+294	species120:20971913	744	750	Q8r1-96
+317	species120:20971913	836	846	P. syringae
+317	species120:20971913	1057	1067	P. syringae
+294	species120:20971913	1073	1079	Q8r1-96
+294	species120:20971913	1092	1098	Q8r1-96
+294	species120:20971913	1231	1237	Q8r1-96
+210	species121:20971914	117	135	Helicobacter pylori
+210	species121:20971914	202	220	Helicobacter pylori
+837	species122:20971915	77	100	Porphyromonas gingivalis
+837	species122:20971915	105	128	Porphyromonas gingivalis
+837	species122:20971915	571	583	P. gingivalis
+1148	species123:20971916	94	126	Synechocystis sp. strain PCC 6803
+1148	species123:20971916	375	407	Synechocystis sp. strain PCC 6803
+91734	species124:21377422	417	436	Diplonema papillatum
+91734	species124:21377422	876	888	D. papillatum
+459342	species126:21561747	237	247	P. penardii
+622781	species126:21561747	253	259	P. niei
+622781	species126:21561747	782	788	P. niei
+622781	species126:21561747	1059	1065	P. niei
+369451	species127:21526932	71	87	sycamore lace bug
+369451	species127:21526932	90	107	Corythucha ciliata
+369451	species127:21526932	116	132	sycamore lace bug
+369451	species127:21526932	135	152	Corythucha ciliata
+369451	species127:21526932	348	357	C. ciliata
+369451	species127:21526932	499	508	C. ciliata
+140101	species127:21526932	530	546	London plane tree
+140101	species127:21526932	549	569	Platanus x acerifolia
+369451	species127:21526932	981	990	C. ciliata
+369451	species127:21526932	1639	1648	C. ciliata
+369451	species127:21526932	1770	1779	C. ciliata
+4577	species128:21526933	204	216	Zea mays (L.)
+4558	species128:21526933	243	262	Sorghum bicolor (L.)
+4577	species128:21526933	673	677	maize
+89807	species128:21526933	853	878	Cotesia sesamiae (Cameron)
+89805	species128:21526933	884	902	C. flavipes Cameron
+9606	species129:21526934	29	33	human
+115425	species129:21526934	57	76	New World screw-worm
+115425	species129:21526934	79	101	Cochliomyia hominivorax
+9606	species129:21526934	241	245	human
+115425	species129:21526934	290	312	Cochliomyia hominivorax
+115425	species129:21526934	568	581	C. hominivorax
+12049	species130:20933015	337	355	Soybean dwarf virus
+12049	species130:20933015	358	361	SbDV
+12041	species130:20933015	365	383	Bean leafroll virus
+12041	species130:20933015	386	389	BLRV
+131082	species130:20933015	393	412	Beet chlorosis virus
+131082	species130:20933015	415	418	BChV
+156690	species130:20933015	422	446	Beet mild yellowing virus
+156690	species130:20933015	449	452	BMYV
+12042	species130:20933015	456	481	Beet western yellows virus
+12042	species130:20933015	484	487	BWYV
+191217	species130:20933015	491	519	Cereal yellow dwarf virus-RPV
+191217	species130:20933015	522	529	CYDV-RPV
+91753	species130:20933015	533	566	Cucurbit aphid-borne yellows virus
+91753	species130:20933015	569	573	CABYV
+12045	species130:20933015	577	597	Potato leafroll virus
+12045	species130:20933015	600	603	PLRV
+131083	species130:20933015	610	629	Turnip yellows virus
+131083	species130:20933015	632	635	TuYV
+191217	species130:20933015	1141	1148	CYDV-RPV
+131083	species130:20933015	1154	1157	TuYV
+12049	species130:20933015	1222	1225	SbDV
+12041	species130:20933015	1228	1231	BLRV
+131082	species130:20933015	1234	1237	BChV
+156690	species130:20933015	1240	1243	BMYV
+91753	species130:20933015	1246	1250	CABYV
+12045	species130:20933015	1263	1266	PLRV
+12042	species130:20933015	1271	1274	BWYV
+9612	species131:20933017	28	33	canine
+9612	species131:20933017	200	205	canine
+981317	species133:21295519	675	691	Tremula longifila
+985835	species133:21295519	810	829	Micrometopion nutans
+981233	species133:21295519	905	924	Minimassisteria diva
+981321	species133:21295519	991	1014	Peregrinia clavideferens
+985833	species133:21295519	1145	1161	Nudifila producta
+985831	species133:21295519	1547	1561	Ovulinata parva
+3081	species134:21696928	103	123	Chlorella minutissima
+3081	species134:21696928	276	296	Chlorella minutissima
+3081	species134:21696928	845	861	Chlorella strains
+5894	species135:20708435	495	516	Tetrahymena canadensis
+5923	species135:20708435	519	540	Tetrahymena hegewischi
+5908	species135:20708435	543	564	Tetrahymena pyriformis
+5909	species135:20708435	567	586	Tetrahymena rostrata
+5911	species135:20708435	589	611	Tetrahymena thermophila
+5912	species135:20708435	618	639	Tetrahymena tropicalis
+746128	species138:21195204	93	113	Aspergillus fumigatus
+746128	species138:21195204	208	228	Aspergillus fumigatus
+28950	species140:21039558	76	93	Nothofagus pumilio
+28950	species140:21039558	413	430	Nothofagus pumilio
+28950	species140:21039558	1280	1289	N. pumilio
+4577	species141:21039559	76	80	maize
+5270	species141:21039559	123	137	Ustilago maydis
+4577	species141:21039559	155	159	maize
+4577	species141:21039559	162	169	Zea mays
+4577	species141:21039559	188	191	corn
+5270	species141:21039559	205	219	Ustilago maydis
+4577	species141:21039559	445	449	maize
+4577	species141:21039559	564	568	maize
+5270	species141:21039559	631	639	U. maydis
+4577	species141:21039559	740	744	maize
+5270	species141:21039559	799	807	U. maydis
+5270	species141:21039559	913	921	U. maydis
+5270	species141:21039559	1031	1039	U. maydis
+4577	species141:21039559	1304	1308	maize
+5270	species141:21039559	1350	1358	U. maydis
+3702	species142:21039560	35	45	Arabidopsis
+12045	species142:21039560	344	365	Potato leaf roll virus
+3702	species142:21039560	392	402	Arabidopsis
+3702	species142:21039560	596	606	Arabidopsis
+12230	species142:21039560	763	781	Turnip mosaic virus
+3702	species142:21039560	1506	1516	Arabidopsis
+127405	species143:21039561	499	507	leafminer
+127405	species143:21039561	510	531	Liriomyza huidobrensis
+58748	species143:21039561	552	555	wasp
+58748	species143:21039561	558	571	Opius dissitus
+4081	species143:21039561	583	588	tomato
+4081	species143:21039561	603	622	wild-type (WT) plant
+4081	species143:21039561	627	655	JA biosynthesis (spr2) mutant
+4081	species143:21039561	664	698	JA-overexpression 35S::prosys plant
+127405	species143:21039561	839	848	leafminers
+4081	species143:21039561	895	912	spr2 mutant plants
+127405	species143:21039561	967	976	leafminers
+4081	species143:21039561	1063	1071	WT plants
+4081	species143:21039561	1122	1138	35S::prosys plant
+4565	species144:21039562	148	158	bread wheat
+4565	species144:21039562	412	416	wheat
+4565	species144:21039562	595	605	bread wheat
+4565	species144:21039562	1227	1231	wheat
+4547	species146:21039564	78	86	sugarcane
+4547	species146:21039564	98	106	sugarcane
+15819	species146:21039564	109	122	Saccharum spp.
+4547	species146:21039564	382	395	S. officinarum
+62335	species146:21039564	401	413	S. spontaneum
+435893	species147:20961741	356	379	Omegastrombidium elegans
+3702	species148:21039566	98	117	Arabidopsis thaliana
+3702	species148:21039566	412	431	Arabidopsis thaliana
+3702	species148:21039566	1000	1010	A. thaliana
+4530	species149:21039568	138	149	Oryza sativa
+4530	species149:21039568	158	161	rice
+4530	species149:21039568	171	210	Oryza sativa short postembryonic roots 1
+4530	species149:21039568	213	218	Osspr1
+4530	species149:21039568	364	369	OsSPR1
+4530	species149:21039568	794	799	OsSPR1
+4530	species149:21039568	877	882	OsSPR1
+39416	species150:21039570	75	92	Tuber melanosporum
+39416	species150:21039570	351	368	Tuber melanosporum
+39416	species150:21039570	880	894	T. melanosporum
+39416	species150:21039570	1645	1659	T. melanosporum
+39416	species151:21176788	40	57	Tuber melanosporum
+39416	species151:21176788	471	488	Tuber melanosporum
+4932	species151:21176788	611	616	yeasts
+4932	species151:21176788	1051	1056	yeasts
+40559	species152:21176789	49	64	Botrytis cinerea
+40559	species152:21176789	610	625	Botrytis cinerea
+9606	species153:21074391	653	657	human
+515216	species155:20796205	317	334	Bathygobius fuscus
+166741	species155:20796205	337	358	Chaenogobius annularis
+646541	species155:20796205	364	373	C. gulosus
+515216	species155:20796205	1098	1106	B. fuscus
+505693	species156:20643580	107	120	Chromera velia
+505693	species156:20643580	125	138	Chromera velia
+505693	species156:20643580	404	411	C. velia
+505693	species156:20643580	518	525	C. velia
+505693	species156:20643580	788	795	C. velia
+905828	species159:20863856	45	59	duck astrovirus
+905828	species159:20863856	102	116	Duck astrovirus
+905828	species159:20863856	119	123	DAstV
+562	species159:20863856	350	365	Escherichia coli
+691956	species159:20863856	590	611	duck hepatitis A virus
+104388	species159:20863856	614	636	duck plague herpesvirus
+38170	species159:20863856	639	651	duck reovirus
+11176	species159:20863856	654	676	Newcastle disease virus
+34085	species159:20863856	683	712	Riemerella anatipestifer 12/19
+34085	species159:20863856	726	730	26/51
+905828	species159:20863856	790	794	DAstV
+905828	species159:20863856	850	854	DAstV
+905828	species159:20863856	901	905	DAstV
+905828	species159:20863856	1082	1086	DAstV
+171271	species160:21244418	781	788	redshank
+171271	species160:21244418	790	803	Tringa totanus
+211598	species160:21244418	828	848	Eurasian sparrowhawks
+211598	species160:21244418	850	864	Accipiter nisus
+171271	species160:21244418	1001	1008	redshank
+211598	species160:21244418	1312	1322	Sparrowhawk
+171271	species160:21244418	1401	1409	redshanks
+211598	species160:21244418	1412	1422	Sparrowhawk
+171271	species160:21244418	1720	1728	Redshanks
+106198	species161:21244419	435	447	Myrmica rubra
+67767	species161:21244419	453	464	Lasius niger
+106198	species161:21244419	1063	1070	M. rubra
+67767	species161:21244419	1083	1090	L. niger
+106198	species161:21244419	1374	1381	M. rubra
+55661	species162:21244420	706	719	common cuckoos
+55661	species162:21244420	721	735	Cuculus canorus
+55661	species162:21244420	888	893	cuckoo
+55661	species162:21244420	1005	1010	cuckoo
+55661	species162:21244420	1251	1256	cuckoo
+55661	species162:21244420	1385	1391	cuckoos
+55661	species162:21244420	1499	1504	cuckoo
+55661	species162:21244420	1634	1639	cuckoo
+55661	species162:21244420	1805	1810	cuckoo
+746128	species163:20619350	69	89	Aspergillus fumigatus
+746128	species163:20619350	136	156	Aspergillus fumigatus
+4922	species163:20619350	343	356	Pichiapastoris
+746128	species164:21840411	55	75	Aspergillus fumigatus
+746128	species164:21840411	99	119	Aspergillus fumigatus
+746128	species164:21840411	247	258	A. fumigatus
+746128	species164:21840411	931	942	A. fumigatus
+5141	species165:21840412	91	107	Neurospora crassa
+5141	species165:21840412	225	241	Neurospora crassa
+5141	species165:21840412	281	289	N. crassa
+4896	species165:21840412	643	667	Schizosaccharomyces pombe
+5141	species165:21840412	823	831	N. crassa
+5141	species165:21840412	1143	1151	N. crassa
+5141	species165:21840412	1322	1330	N. crassa
+746128	species166:21840413	67	87	Aspergillus fumigatus
+9606	species166:21840413	127	131	human
+746128	species166:21840413	151	171	Aspergillus fumigatus
+746128	species166:21840413	428	439	A. fumigatus
+746128	species166:21840413	711	722	A. fumigatus
+746128	species166:21840413	952	963	A. fumigatus
+7370	species167:21711401	87	101	Musca domestica
+7370	species167:21711401	312	319	housefly
+7370	species167:21711401	321	335	Musca domestica
+7370	species167:21711401	393	400	housefly
+59312	species167:21711401	641	663	Sarcophaga crassipalpis
+7370	species167:21711401	759	766	housefly
+562	species167:21711401	891	906	Escherichia coli
+47911	species169:21641778	88	106	Entodinium caudatum
+47892	species169:21641778	109	128	Eudiplodinium maggii
+300017	species169:21641778	135	153	Epidinium ecaudatum
+47911	species169:21641778	326	344	Entodinium caudatum
+47892	species169:21641778	350	369	Eudiplodinium maggii
+47911	species169:21641778	514	524	E. caudatum
+47892	species169:21641778	673	681	E. maggii
+300017	species169:21641778	888	906	Epidinium ecaudatum
+47911	species169:21641778	1102	1112	E. caudatum
+47892	species169:21641778	1115	1123	E. maggii
+300017	species169:21641778	1130	1141	E. ecaudatum
+9796	species170:21641779	57	73	Turk rahvan horse
+9796	species170:21641779	75	88	Equus caballus
+9796	species170:21641779	213	230	Turk rahvan horses
+9796	species170:21641779	393	410	Turk rahvan horses
+9796	species170:21641779	627	632	horses
+176275	species172:21529147	21	38	Beauveria bassiana
+74065	species172:21529147	95	109	corn leafhopper
+74065	species172:21529147	112	126	Dalbulus maidis
+1032455	species172:21529147	149	168	Delphacodes kuscheli
+4577	species172:21529147	251	254	corn
+176275	species172:21529147	1070	1087	Beauveria bassiana
+74065	species172:21529147	1215	1223	D. maidis
+1032455	species172:21529147	1229	1239	D. kuscheli
+176275	species172:21529147	1336	1346	B. bassiana
+176275	species172:21529147	1403	1413	B. bassiana
+74065	species172:21529147	1448	1456	D. maidis
+176275	species172:21529147	1503	1513	B. bassiana
+1032455	species172:21529147	1540	1550	D. kuscheli
+1428	species172:21529147	1616	1637	Bacillus thuringiensis
+1423	species172:21529147	1679	1689	B. subtilis
+1405	species172:21529147	1709	1719	B. mycoides
+1404	species172:21529147	1747	1759	B. megaterium
+1408	species172:21529147	1787	1795	B.pumilus
+1402	species172:21529147	1832	1847	B. licheniformis
+1423	species172:21529147	1890	1900	B. subtilis
+13686	species175:21529150	46	63	Solenopsis invicta
+13686	species175:21529150	401	418	Solenopsis invicta
+73399	species175:21529150	427	437	Hymenoptera
+33431	species176:21529151	85	100	Heliconius erato
+33431	species176:21529151	940	955	Heliconius erato
+33431	species176:21529151	991	998	H. erato
+2850	species179:21600845	121	145	Phaeodactylum tricornutum
+2850	species179:21600845	172	196	Phaeodactylum tricornutum
+2850	species179:21600845	572	585	P. tricornutum
+2850	species179:21600845	1350	1363	P. tricornutum
+1002334	species180:21398102	438	458	Almophrya bivacuolata
+1002332	species180:21398102	461	483	Eudrilophrya complanata
+1002335	species180:21398102	534	560	Metaracoelophrya intermedia
+1002226	species180:21398102	583	600	Njinella prolifera
+1002223	species180:21398102	603	645	Paraclausilocola constricta n. gen., n. sp.
+1002222	species180:21398102	652	683	Paraclausilocola elongata n. sp.
+11082	species181:20974180	70	78	West Nile
+11082	species181:20974180	157	164	WN virus
+11072	species181:20974180	405	431	Japanese encephalitis virus
+11082	species181:20974180	493	494	WN
+11082	species181:20974180	682	683	WN
+11082	species181:20974180	899	901	WNV
+11082	species181:20974180	1265	1267	WNV
+11072	species181:20974180	1274	1276	JEV
+1001742	species182:21459562	35	58	Parasterkiella thompsoni
+1001742	species182:21459562	195	218	Parasterkiella thompsoni
+1001742	species182:21459562	1394	1405	P. thompsoni
+1001742	species182:21459562	1517	1536	Sterkiella thompsoni
+10258	species183:20980501	298	306	orf virus
+10258	species183:20980501	309	312	ORFV
+10258	species183:20980501	331	334	ORFV
+162425	species185:20654725	20	39	Aspergillus nidulans
+162425	species185:20654725	427	446	Aspergillus nidulans
+33178	species186:21324422	404	422	Aspergillus terreus
+5061	species186:21324422	1276	1292	Aspergillus niger
+33178	species186:21324422	1403	1412	A. terreus
+121225	species187:21895817	19	33	human body lice
+121225	species187:21895817	574	582	body lice
+31931	species189:21047954	246	255	retroviral
+11786	species189:21047954	640	669	murine leukemia virus (F-MuLV)
+693997	species190:21047955	17	51	transmissible gastroenteritis virus
+9986	species190:21047955	163	168	rabbit
+693997	species190:21047955	213	247	transmissible gastroenteritis virus
+693997	species190:21047955	250	253	TGEV
+694009	species190:21047955	366	410	severe acute respiratory syndrome coronavirus
+693997	species190:21047955	436	439	TGEV
+693997	species190:21047955	530	533	TGEV
+9986	species190:21047955	650	655	rabbit
+693997	species190:21047955	812	815	TGEV
+127875	species191:20880020	50	70	white-throated dipper
+127875	species191:20880020	72	86	Cinclus cinclus
+127875	species191:20880020	212	232	white-throated dipper
+127875	species191:20880020	234	248	Cinclus cinclus
+11320	species192:21047957	43	59	influenza A virus
+11320	species192:21047957	203	219	influenza A virus
+11320	species192:21047957	439	447	influenza
+11320	species192:21047957	449	482	A/Duck/Hubei/L-1/2004 (H5N1) virus
+9606	species192:21047957	499	503	human
+11320	species192:21047957	603	606	H5N1
+11320	species192:21047957	861	877	influenza A virus
+9606	species192:21047957	890	894	human
+11320	species192:21047957	1031	1075	swine-origin influenza A virus (S-OIV) (H1N1)
+11320	species192:21047957	1301	1317	influenza A virus
+10535	species193:21047958	49	64	human adenovirus
+10535	species193:21047958	93	116	Human adenoviruses (Ads)
+10535	species193:21047958	1367	1376	adenovirus
+10535	species193:21047958	1565	1574	adenovirus
+10535	species193:21047958	1758	1767	adenoviral
+162425	species195:20955810	48	67	Aspergillus nidulans
+162425	species195:20955810	152	171	Aspergillus nidulans
+162425	species195:20955810	1530	1540	A. nidulans
+5518	species196:20955812	26	45	Fusarium graminearum
+5518	species196:20955812	153	172	Fusarium graminearum
+4113	species196:20955812	434	439	potato
+5518	species196:20955812	1036	1049	F. graminearum
+5518	species196:20955812	1298	1311	F. graminearum
+4565	species197:20955813	33	37	wheat
+4513	species197:20955813	43	48	barley
+34373	species197:20955813	183	214	Blumeria graminis f. sp. tritici
+34373	species197:20955813	217	228	B.g. tritici
+34373	species197:20955813	235	240	hordei
+34373	species197:20955813	243	253	B.g. hordei
+4565	species197:20955813	293	297	wheat
+4513	species197:20955813	302	307	barley
+34373	species197:20955813	601	612	B.g. tritici
+34373	species197:20955813	682	692	B.g. hordei
+34373	species197:20955813	928	939	B.g. tritici
+34373	species197:20955813	945	955	B.g. hordei
+34373	species197:20955813	1061	1072	B.g. tritici
+34373	species197:20955813	1078	1088	B.g. hordei
+4565	species197:20955813	1162	1166	wheat
+4513	species197:20955813	1172	1177	barley
+34373	species197:20955813	1213	1224	B.g. tritici
+34373	species197:20955813	1230	1240	B.g. hordei
+11309	species199:20980508	413	427	influenza virus
+9606	species199:20980508	493	497	human
+11309	species199:20980508	1630	1644	influenza virus
+11103	species199:20980508	1656	1672	hepatitis C virus
+9606	species199:20980508	1816	1820	human
+4565	species200:21062315	75	79	wheat
+4565	species200:21062315	148	152	wheat
+4565	species200:21062315	468	472	wheat
+4100	species201:21062316	285	305	Nicotiana benthamiana
+12183	species201:21062316	333	346	Potato virus X
+12183	species201:21062316	349	351	PVX
+4567	species202:21062317	118	128	durum wheat
+4565	species202:21062317	470	474	wheat
+4565	species202:21062317	746	750	wheat
+3702	species203:21062318	91	101	Arabidopsis
+3702	species203:21062318	461	471	Arabidopsis
+7091	species206:21435060	91	98	silkmoth
+7091	species206:21435060	262	272	Bombyx mori
+562	species206:21435060	439	454	Escherichia coli
+7460	species207:21435061	19	27	honeybees
+7460	species207:21435061	30	43	Apis mellifera
+7460	species207:21435061	102	110	Honeybees
+7460	species207:21435061	711	731	Africanized honeybees
+329032	species208:21435062	100	107	bean bug
+329032	species208:21435062	109	127	Riptortus pedestris
+329032	species208:21435062	562	569	bean bug
+329032	species208:21435062	571	589	Riptortus pedestris
+31276	species209:20650682	111	127	Perkinsus marinus
+31276	species209:20650682	237	253	Perkinsus marinus
+763037	species210:20650683	129	130	T4
+12110	species211:20951743	122	151	foot-and-mouth disease virus O
+12110	species211:20951743	154	154	A
+12110	species211:20951743	160	165	Asia 1
+12110	species211:20951743	242	269	foot-and-mouth disease virus
+12110	species211:20951743	272	275	FMDV
+12110	species211:20951743	288	288	O
+12110	species211:20951743	291	291	A
+12110	species211:20951743	297	302	Asia 1
+9986	species211:20951743	330	336	rabbits
+12110	species211:20951743	405	412	O/CHA/99
+12110	species211:20951743	415	424	A/GS/LX/66
+12110	species211:20951743	427	439	Asia 1/CHN/05
+10090	species211:20951743	455	459	mouse
+12110	species211:20951743	484	492	O/AV99(L)
+12110	species211:20951743	495	503	A/AV88(L)
+12110	species211:20951743	506	519	Asia 1/YNBS/58
+12110	species211:20951743	627	627	O
+12110	species211:20951743	630	630	A
+12110	species211:20951743	636	641	Asia 1
+12110	species211:20951743	1081	1084	FMDV
+12110	species211:20951743	1096	1096	O
+12110	species211:20951743	1099	1099	A
+12110	species211:20951743	1105	1110	Asia 1
+12110	species211:20951743	1232	1247	FMDV type Asia 1
+11320	species212:20951745	30	53	pandemic influenza virus
+11320	species212:20951745	254	270	Influenza A virus
+5062	species213:21277379	66	83	Aspergillus oryzae
+5062	species213:21277379	88	105	Aspergillus oryzae
+5059	species213:21277379	184	201	Aspergillus flavus
+5062	species213:21277379	278	286	A. oryzae
+5062	species213:21277379	453	461	A. oryzae
+5059	species213:21277379	559	567	A. flavus
+5062	species213:21277379	653	661	A. oryzae
+5062	species213:21277379	1264	1272	A. oryzae
+746128	species213:21277379	1275	1295	Aspergillus fumigatus
+162425	species213:21277379	1301	1320	Aspergillus nidulans
+33408	species214:21668550	129	149	Asian rice gall midge
+33408	species214:21668550	152	166	Orseolia oryzae
+33408	species214:21668550	175	195	Asian rice gall midge
+33408	species214:21668550	198	212	Orseolia oryzae
+7159	species214:21668550	959	971	Aedes aegypti
+367774	species215:22182604	34	53	Eupolyphaga sinensis
+367774	species215:22182604	594	613	Eupolyphaga sinensis
+367774	species215:22182604	870	880	E. sinensis
+367774	species215:22182604	1741	1751	E. sinensis
+13642	species216:21316301	80	103	Polysphondylium pallidum
+13642	species216:21316301	167	190	Polysphondylium pallidum
+4232	species217:22182606	905	921	Helianthus annuus
+73302	species217:22182606	924	935	H. nuttallii
+382521	species217:22182606	938	951	H. pauciflorus
+4234	species217:22182606	958	970	H. petiolaris
+4232	species217:22182606	1016	1024	H. annuus
+4232	species217:22182606	1477	1485	H. annuus
+4234	species217:22182606	1491	1503	H. petiolaris
+73302	species217:22182606	1604	1615	H. nuttallii
+382521	species217:22182606	1620	1633	H. pauciflorus
+4234	species217:22182606	1724	1736	H. petiolaris
+4232	species217:22182606	1743	1751	H. annuus
+197043	species218:22182607	52	77	Glassy-Winged Sharpshooter
+197043	species218:22182607	80	102	Homalodisca vitripennis
+197043	species218:22182607	137	162	glassy-winged sharpshooter
+197043	species218:22182607	165	196	Homalodisca vitripennis (Germar)
+197043	species218:22182607	282	295	H. vitripennis
+2371	species218:22182607	479	504	Xylella fastidiosa (Wells)
+197043	species218:22182607	619	632	H. vitripennis
+197043	species218:22182607	1156	1169	H. vitripennis
+4093	species219:22182609	77	93	Nicotiana rustica
+27380	species219:22182609	657	673	Glomus etunicatum
+77855	species219:22182609	707	726	silver leaf whitefly
+77855	species219:22182609	729	748	Bemisia argentifolii
+272444	species219:22182609	818	837	Eretmocerus eremicus
+192188	species220:22182610	131	148	Grapholita molesta
+3760	species220:22182610	180	184	Peach
+3760	species220:22182610	570	574	peach
+3760	species220:22182610	577	602	Prunus persica (L.) Batcsh
+192188	species220:22182610	668	686	oriental fruit moth
+192188	species220:22182610	689	714	Grapholita molesta (Busck)
+192188	species220:22182610	741	750	G. molesta
+3760	species220:22182610	762	766	peach
+192188	species220:22182610	919	928	G. molesta
+43066	species220:22182610	1039	1066	Trichogramma minutum (Riley)
+192188	species220:22182610	1107	1116	G. molesta
+192188	species220:22182610	1455	1464	G. molesta
+3750	species221:20837155	115	119	apple
+5025	species221:20837155	127	145	Venturia inaequalis
+5025	species221:20837155	168	181	Spilocaea pomi
+3750	species221:20837155	219	223	apple
+3750	species221:20837155	517	521	apple
+5025	species221:20837155	670	682	V. inaequalis
+106549	species221:20837155	1186	1205	Malus baccata jackii
+147045	species221:20837155	1208	1220	M. micromalus
+176275	species222:22182612	71	88	Beauveria bassiana
+500148	species222:22182612	94	113	Metarhizium brunneum
+176275	species222:22182612	144	161	Beauveria bassiana
+500148	species222:22182612	187	206	Metarhizium brunneum
+176275	species222:22182612	370	380	B. bassiana
+176275	species222:22182612	607	617	B. bassiana
+500148	species222:22182612	821	831	M. brunneum
+176275	species222:22182612	947	957	B. bassiana
+500148	species222:22182612	963	973	M. brunneum
+176275	species222:22182612	1420	1430	B. bassiana
+500148	species222:22182612	1504	1514	M. brunneum
+176275	species222:22182612	1655	1665	B. bassiana
+500148	species222:22182612	1780	1790	M. brunneum
+7137	species222:22182612	2204	2219	greater wax moth
+7137	species222:22182612	2222	2240	Galleria mellonella
+176275	species222:22182612	2430	2440	B. bassiana
+500148	species222:22182612	2446	2456	M. brunneum
+378805	species223:22182614	40	60	Pseudacteon tricuspis
+378805	species223:22182614	772	792	Pseudacteon tricuspis
+378805	species223:22182614	1141	1152	P. tricuspis
+378805	species223:22182614	1237	1248	P. tricuspis
+378805	species223:22182614	1580	1591	P. tricuspis
+7070	species224:22182615	38	56	Tribolium castaneum
+7070	species224:22182615	154	181	Tribolium castaneum (Herbst)
+7070	species224:22182615	1051	1062	T. castaneum
+35570	species225:22182616	80	89	stable fly
+162946	species225:22182616	152	169	Spalangia cameroni
+162947	species225:22182616	180	195	Spalangia endius
+51938	species225:22182616	209	232	Muscidifurax raptorellus
+35570	species225:22182616	272	281	stable fly
+35570	species225:22182616	357	366	stable fly
+35570	species225:22182616	720	729	stable fly
+51938	species225:22182616	901	914	M. raptorellus
+162946	species225:22182616	989	999	S. cameroni
+162947	species225:22182616	1005	1013	S. endius
+51938	species225:22182616	1109	1122	M. raptorellus
+9823	species226:20962084	43	47	swine
+12845	species226:20962084	73	87	influenza virus
+11320	species226:20962084	148	159	H1N1 viruses
+11320	species226:20962084	261	297	swine-origin influenza A (H1N1) virus
+12845	species226:20962084	386	400	influenza virus
+9606	species226:20962084	416	420	human
+9823	species226:20962084	500	504	swine
+11320	species226:20962084	756	765	H9N2 virus
+9031	species226:20962084	890	897	chickens
+9823	species226:20962084	1043	1047	swine
+11320	species226:20962084	1072	1099	A/turkey/OH/313053/04 (H3N2)
+11320	species226:20962084	1334	1337	H1N1
+9606	species226:20962084	2082	2087	humans
+527671	species228:22182620	75	93	Elatobium abietinum
+3332	species228:22182620	327	338	Sitka spruce
+527671	species228:22182620	370	381	E. abietinum
+527671	species228:22182620	671	682	E. abietinum
+527671	species228:22182620	1053	1064	E. abietinum
+7038	species229:22182622	81	94	Bemisia tabaci
+7038	species229:22182622	162	181	sweetpotato whitefly
+7038	species229:22182622	184	197	Bemisia tabaci
+7038	species229:22182622	258	266	B. tabaci
+7038	species229:22182622	1543	1551	B. tabaci
+7038	species230:22182623	35	48	Bemisia tabaci
+88556	species230:22182623	64	88	Trialeurodes vaporariorum
+7038	species230:22182623	118	131	Bemisia tabaci
+88556	species230:22182623	159	183	Trialeurodes vaporariorum
+7038	species230:22182623	305	313	B. tabaci
+88556	species230:22182623	418	432	T. vaporariorum
+4081	species230:22182623	618	623	tomato
+7038	species230:22182623	678	686	B. tabaci
+4081	species230:22182623	827	832	tomato
+3635	species230:22182623	835	840	cotton
+4097	species230:22182623	847	853	tobacco
+7038	species230:22182623	856	864	B. tabaci
+88556	species230:22182623	993	1007	T. vaporariorum
+7038	species230:22182623	1070	1078	B. tabaci
+88556	species230:22182623	1083	1097	T. vaporariorum
+7038	species230:22182623	1153	1161	B. tabaci
+88556	species230:22182623	1197	1211	T. vaporariorum
+4081	species230:22182623	1216	1221	tomato
+7038	species230:22182623	1283	1291	B. tabaci
+7038	species230:22182623	1382	1390	B. tabaci
+88556	species230:22182623	1407	1421	T. vaporariorum
+7038	species230:22182623	1659	1667	B. tabaci
+9606	species231:20980518	26	30	human
+10335	species231:20980518	84	105	varicella-zoster virus
+10335	species231:20980518	144	146	VZV
+10335	species231:20980518	322	324	VZV
+10335	species231:20980518	696	706	VZV-induced
+12238	species232:20933014	155	182	Odontoglossum ringspot virus
+12238	species232:20933014	197	224	Odontoglossum ringspot virus
+12238	species232:20933014	227	230	ORSV
+12238	species232:20933014	352	355	ORSV
+562	species232:20933014	385	400	Escherichia coli
+12238	species232:20933014	529	532	ORSV
+12238	species232:20933014	754	757	ORSV
+12238	species232:20933014	1087	1090	ORSV
+12238	species232:20933014	1130	1133	ORSV
+12238	species232:20933014	1282	1285	ORSV
+4932	species233:20728557	71	75	yeast
+4932	species233:20728557	126	130	yeast
+4932	species233:20728557	226	249	Saccharomyces cerevisiae
+4932	species233:20728557	1525	1529	yeast
+7038	species234:21521136	71	84	Bemisia tabaci
+88556	species234:21521136	100	124	Trialeurodes vaporariorum
+7038	species234:21521136	129	142	Bemisia tabaci
+88556	species234:21521136	170	194	Trialeurodes vaporariorum
+7038	species234:21521136	322	330	B. tabaci
+88556	species234:21521136	363	377	T. vaporariorum
+88556	species234:21521136	412	426	T. vaporariorum
+88556	species234:21521136	637	651	T. vaporariorum
+88556	species234:21521136	918	932	T. vaporariorum
+88556	species234:21521136	1071	1085	T. vaporariorum
+4081	species234:21521136	1155	1160	tomato
+4081	species234:21521136	1195	1200	tomato
+3635	species234:21521136	1205	1210	cotton
+3712	species234:21521136	1216	1222	cabbage
+88556	species234:21521136	1346	1360	T. vaporariorum
+4081	species234:21521136	1601	1606	tomato
+3635	species234:21521136	1612	1617	cotton
+88556	species234:21521136	1704	1718	T. vaporariorum
+88556	species234:21521136	1867	1881	T. vaporariorum
+88556	species234:21521136	1919	1933	T. vaporariorum
+58886	species235:21521138	46	63	Mexican palo verde
+58886	species235:21521138	66	85	Parkinsonia aculeata
+58886	species235:21521138	234	251	Mexican palo verde
+58886	species235:21521138	254	273	Parkinsonia aculeata
+708047	species235:21521138	583	600	Platynota stultana
+58886	species235:21521138	1025	1035	P. aculeata
+58886	species235:21521138	1270	1280	P. aculeata
+7091	species236:21521139	116	123	silkworm
+7091	species236:21521139	126	136	Bombyx mori
+7091	species236:21521139	150	157	Silkworm
+7091	species236:21521139	340	352	Bombyx mori L
+7091	species236:21521139	756	763	silkworm
+7091	species236:21521139	927	934	silkworm
+7091	species236:21521139	1138	1145	silkworm
+7091	species236:21521139	1486	1493	silkworm
+7091	species236:21521139	1495	1505	Bombyx mori
+7102	species237:21521140	751	769	Heliothis virescens
+669555	species238:21521141	113	125	Mygona irmina
+669555	species238:21521141	192	204	Mygona irmina
+48992	species238:21521141	365	386	Chusquea c.f. scandens
+9157	species239:21521142	717	726	great tits
+9157	species239:21521142	729	742	Parus major L.
+51531	species240:21521143	98	117	Toxoneuron nigriceps
+51531	species240:21521143	299	318	Toxoneuron nigriceps
+51531	species240:21521143	550	561	T. nigriceps
+51531	species240:21521143	734	745	T. nigriceps
+7102	species240:21521143	763	777	tobacco budworm
+7102	species240:21521143	780	798	Heliothis virescens
+51531	species240:21521143	920	931	T. nigriceps
+51531	species240:21521143	1403	1414	T. nigriceps
+7067	species241:21521145	354	369	Tenebrio molitor
+176275	species241:21521145	477	494	Beauveria bassiana
+5530	species241:21521145	563	584	Metarhizium anisopliae
+40383	species241:21521145	660	685	lsaria (=Paecilomyces) sp.
+176275	species241:21521145	719	729	B. bassiana
+5530	species241:21521145	801	813	M. anisopliae
+59752	species241:21521145	1044	1062	Cuban laurel thrips
+88556	species241:21521145	1135	1153	greenhouse whitefly
+88556	species241:21521145	1156	1180	Trialeurodes vaporariorum
+176275	species241:21521145	1219	1229	B. bassiana
+176275	species241:21521145	1488	1498	B. bassiana
+5530	species241:21521145	1504	1516	M. anisopliae
+29057	species242:21672063	93	111	European corn borer
+29057	species242:21672063	114	131	Ostrinia nubilalis
+29057	species242:21672063	359	376	Ostrinia nubilalis
+10390	species243:20962090	0	27	Marek's disease virus type 1
+9606	species243:20962090	236	240	human
+10390	species243:20962090	552	574	Marek's disease virus 1
+10390	species243:20962090	577	580	MDV1
+9031	species243:20962090	586	592	chicken
+9031	species243:20962090	666	673	chickens
+10390	species243:20962090	812	815	MDV1
+10390	species243:20962090	818	821	MDV1
+10390	species243:20962090	932	935	MDV1
+7091	species244:21349119	34	41	silkworm
+7091	species244:21349119	426	433	silkworm
+7091	species244:21349119	449	456	silkworm
+121225	species246:21349121	526	535	human lice
+11320	species247:20980523	35	75	lethal 2009 pandemic H1N1 influenza virus
+11309	species247:20980523	144	158	influenza virus
+11309	species247:20980523	309	323	influenza virus
+11320	species247:20980523	424	437	H1N1 influenza
+11320	species247:20980523	524	535	H1N1 viruses
+11320	species247:20980523	598	616	2009 pandemic virus
+11309	species247:20980523	797	798	H1
+11320	species247:20980523	804	821	H3 influenza virus
+11320	species247:20980523	884	909	2009 H1N1 A/CA/04/09 virus
+11309	species247:20980523	981	982	H1
+11320	species247:20980523	1489	1517	pandemic H1N1 influenza virus
+242549	species248:21429718	0	25	Dermamoeba algensis n. sp.
+242549	species248:21429718	366	383	D. algensis n. sp.
+242549	species248:21429718	1043	1053	D. algensis
+1280	species249:21371655	23	43	Staphylococcus aureus
+1280	species249:21371655	59	79	Staphylococcus aureus
+1280	species249:21371655	355	362	S aureus
+1280	species249:21371655	637	644	S aureus
+1280	species249:21371655	731	738	S aureus
+1280	species249:21371655	1116	1123	S aureus
+12721	species250:21371656	1520	1522	HIV
+11676	species251:20980524	91	95	HIV-1
+11676	species251:20980524	274	276	HIV
+11676	species251:20980524	461	465	HIV-1
+11676	species251:20980524	512	516	HIV-1
+9606	species251:20980524	600	604	human
+11676	species251:20980524	716	720	HIV-1
+11676	species251:20980524	750	754	HIV-1
+11676	species251:20980524	892	896	HIV-1
+11676	species251:20980524	1060	1064	HIV-1
+11676	species251:20980524	1563	1565	HIV
+11676	species251:20980524	1626	1628	HIV
+11676	species251:20980524	1693	1697	HIV-1
+196	species252:21115658	46	82	Campylobacter fetus subsp. venerealis
+196	species252:21115658	215	233	Campylobacter fetus
+195	species252:21115658	262	279	Campylobacter coli
+562	species252:21115658	357	372	Escherichia coli
+196	species252:21115658	378	385	C. fetus
+196	species252:21115658	577	602	C. fetus subsp. venerealis
+196	species252:21115658	700	707	C. fetus
+196	species252:21115658	1040	1047	C. fetus
+9606	species252:21115658	1155	1159	human
+196	species252:21115658	1474	1481	C. fetus
+1078471	species253:20118285	0	29	Serinicoccus profundi sp. nov.
+1078471	species253:20118285	214	225	MCCC 1A05965
+247333	species253:20118285	402	421	Serinicoccus marinus
+1078471	species253:20118285	843	854	MCCC 1A05965
+1078471	species253:20118285	1323	1334	MCCC 1A05965
+1078471	species253:20118285	1455	1483	Serinicoccus profundi sp. nov
+11676	species254:20980495	223	257	human immunodeficiency virus type 1
+11676	species254:20980495	260	264	HIV-1
+138950	species255:20980499	0	9	Poliovirus
+138950	species255:20980499	122	131	poliovirus
+138950	species255:20980499	773	782	poliovirus
+4932	species256:20962094	0	4	Yeast
+12721	species256:20962094	44	46	HIV
+4932	species256:20962094	500	523	Saccharomyces cerevisiae
+9986	species256:20962094	615	621	rabbits
+4932	species256:20962094	629	633	yeast
+4932	species256:20962094	870	874	yeast
+4932	species256:20962094	1443	1447	yeast
+28304	species257:20980502	410	428	rat cytomegalovirus
+28304	species257:20980502	431	434	RCMV
+28304	species257:20980502	765	768	RCMV
+28304	species257:20980502	954	957	RCMV
+10366	species257:20980502	1048	1068	mouse cytomegalovirus
+28304	species257:20980502	1170	1173	RCMV
+28304	species257:20980502	1423	1426	RCMV
+28304	species257:20980502	1617	1620	RCMV
+10090	species258:20980504	1232	1235	mice
+10359	species259:20980505	81	101	human cytomegalovirus
+10298	species259:20980505	248	274	herpes simplex virus type 1
+37296	species259:20980505	313	340	Kaposi's sarcoma herpesvirus
+10359	species259:20980505	382	402	human cytomegalovirus
+10359	species259:20980505	405	408	HCMV
+10359	species259:20980505	508	511	HCMV
+10359	species259:20980505	807	810	HCMV
+9606	species259:20980505	829	833	human
+10359	species259:20980505	1190	1193	HCMV
+10359	species259:20980505	1215	1218	HCMV
+10359	species259:20980505	1777	1780	HCMV
+10359	species259:20980505	1867	1870	HCMV
+10376	species260:20980506	15	32	Epstein-Barr virus
+10376	species260:20980506	144	161	Epstein-Barr virus
+10376	species260:20980506	164	166	EBV
+10376	species260:20980506	243	245	EBV
+10090	species260:20980506	311	315	mouse
+9606	species260:20980506	338	342	human
+10376	species260:20980506	435	437	EBV
+10376	species260:20980506	962	964	EBV
+10090	species260:20980506	1000	1003	mice
+10376	species260:20980506	1384	1386	EBV
+10090	species261:20980507	52	55	mice
+694009	species261:20980507	117	161	severe acute respiratory syndrome coronavirus
+9606	species261:20980507	284	289	humans
+694009	species261:20980507	389	433	severe acute respiratory syndrome coronavirus
+694009	species261:20980507	436	443	SARS-CoV
+11036	species261:20980507	861	896	Venezuelan equine encephalitis virus
+11036	species261:20980507	899	901	VEE
+11036	species261:20980507	1076	1078	VEE
+10090	species261:20980507	1124	1127	mice
+694009	species261:20980507	1159	1166	SARS-CoV
+694009	species261:20980507	1250	1257	SARS-CoV
+11082	species261:20980507	1916	1930	West Nile virus
+11103	species262:20962076	32	48	hepatitis C virus
+11103	species262:20962076	97	99	HCV
+11103	species262:20962076	352	359	anti-HCV
+11103	species262:20962076	619	621	HCV
+11103	species262:20962076	704	706	HCV
+351073	species263:20980509	157	181	Mammalian orthoreoviruses
+10090	species263:20980509	1291	1295	mouse
+37124	species264:20962078	0	16	Chikungunya virus
+37124	species264:20962078	125	141	Chikungunya virus
+37124	species264:20962078	144	148	CHIKV
+37124	species264:20962078	393	397	CHIKV
+37124	species264:20962078	499	503	CHIKV
+9606	species264:20962078	508	512	human
+37124	species264:20962078	603	607	CHIKV
+37124	species264:20962078	1213	1217	CHIKV
+37124	species264:20962078	1545	1549	CHIKV
+37124	species264:20962078	1791	1795	CHIKV
+11276	species265:20980511	110	135	Vesicular stomatitis virus
+11276	species265:20980511	138	140	VSV
+11276	species265:20980511	261	263	VSV
+11276	species265:20980511	481	483	VSV
+11276	species265:20980511	1508	1510	VSV
+11276	species265:20980511	1669	1671	VSV
+11676	species266:20980512	117	121	HIV-1
+11676	species266:20980512	134	138	HIV-1
+10335	species267:20962081	0	21	Varicella-zoster virus
+9606	species267:20962081	95	99	human
+10335	species267:20962081	131	152	Varicella-zoster virus
+10335	species267:20962081	155	157	VZV
+10335	species267:20962081	195	197	VZV
+9606	species267:20962081	212	216	human
+10335	species267:20962081	364	366	VZV
+10385	species267:20962081	788	790	VZV
+10385	species267:20962081	1934	1936	VZV
+11620	species268:20980514	20	30	Lassa virus
+11620	species268:20980514	302	312	Lassa virus
+11620	species268:20980514	620	633	Lassa virus AV
+11620	species268:20980514	1439	1449	Lassa virus
+11676	species269:20962083	29	63	human immunodeficiency virus type 1
+11676	species269:20962083	110	144	Human immunodeficiency virus type 1
+11676	species269:20962083	147	151	HIV-1
+11676	species269:20962083	271	275	HIV-1
+11676	species269:20962083	590	594	HIV-1
+11676	species269:20962083	675	679	HIV-1
+11676	species269:20962083	783	787	HIV-1
+11676	species269:20962083	930	934	HIV-1
+11676	species269:20962083	1037	1041	HIV-1
+11676	species269:20962083	1184	1188	HIV-1
+11676	species269:20962083	1303	1307	HIV-1
+11676	species269:20962083	1418	1422	HIV-1
+11676	species269:20962083	1580	1584	HIV-1
+10090	species270:20980516	384	387	Mice
+10407	species271:20962085	31	47	hepatitis B virus
+10407	species271:20962085	230	246	hepatitis B virus
+10407	species271:20962085	249	251	HBV
+138950	species272:20962086	0	9	Poliovirus
+138950	species272:20962086	272	281	Poliovirus
+138950	species272:20962086	284	285	PV
+138950	species272:20962086	387	388	PV
+138950	species272:20962086	490	491	PV
+138950	species272:20962086	658	659	PV
+138950	species272:20962086	1347	1348	PV
+138950	species272:20962086	1480	1489	poliovirus
+10090	species273:20962087	48	51	mice
+9606	species273:20962087	280	284	human
+10090	species273:20962087	789	792	mice
+11320	species273:20962087	1276	1279	H5N1
+10090	species273:20962087	1360	1363	mice
+11320	species273:20962087	1547	1558	H5N1 viruses
+204711	species275:20962089	154	188	Theiler's murine encephalitis virus
+204711	species275:20962089	191	194	TMEV
+10090	species275:20962089	277	280	mice
+10090	species275:20962089	382	385	mice
+10090	species275:20962089	514	517	mice
+10090	species275:20962089	860	863	mice
+11676	species276:20980522	25	59	human immunodeficiency virus type 1
+11676	species276:20980522	198	232	human immunodeficiency virus type 1
+11676	species276:20980522	235	239	HIV-1
+11676	species276:20980522	320	324	HIV-1
+11676	species276:20980522	380	384	HIV-1
+11676	species276:20980522	1075	1079	HIV-1
+11676	species276:20980522	1715	1719	HIV-1
+11723	species277:20962091	100	128	simian immunodeficiency virus
+12721	species277:20962091	133	160	Human immunodeficiency virus
+12721	species277:20962091	163	165	HIV
+12721	species277:20962091	275	277	HIV
+9544	species277:20962091	511	532	Indian rhesus macaques
+11723	species277:20962091	674	688	virus SIVmac239
+11723	species277:20962091	1318	1346	simian immunodeficiency virus
+11723	species277:20962091	1349	1351	SIV
+38942	species278:20796204	648	660	Quercus robur
+683971	species278:20796204	1065	1085	Tischeria ekebladella
+683971	species278:20796204	1400	1413	T. ekebladella
+683971	species278:20796204	1419	1432	T. ekebladella
+683971	species278:20796204	1607	1620	T. ekebladella
+4896	species279:20980525	97	121	Schizosaccharomyces pombe
+4896	species279:20980525	325	349	Schizosaccharomyces pombe
+12637	species280:20980526	50	61	dengue virus
+12637	species280:20980526	92	105	dengue viruses
+12637	species280:20980526	395	400	Dengue
+12637	species280:20980526	451	456	dengue
+12637	species280:20980526	545	550	dengue
+12637	species280:20980526	855	866	dengue virus
+12637	species280:20980526	1214	1219	dengue
+12637	species280:20980526	1405	1410	dengue
+12637	species280:20980526	1661	1666	dengue
+12637	species280:20980526	1691	1696	dengue
+11723	species281:20962096	83	111	simian immunodeficiency virus
+11723	species281:20962096	127	137	SIVagmTan-1
+31931	species281:20962096	142	151	Retroviral
+11723	species281:20962096	409	437	simian immunodeficiency virus
+11723	species281:20962096	440	442	SIV
+11723	species281:20962096	634	646	SIV(agmTan-1)
+10407	species283:20962099	46	62	hepatitis B virus
+10407	species283:20962099	92	102	hepatitis B
+12475	species283:20962099	108	130	hepatitis delta viruses
+10407	species283:20962099	135	151	Hepatitis B virus
+10407	species283:20962099	154	156	HBV
+12475	species283:20962099	163	183	hepatitis delta virus
+12475	species283:20962099	186	188	HDV
+10407	species283:20962099	281	283	HBV
+10407	species283:20962099	415	417	HBV
+12475	species283:20962099	507	509	HDV
+10407	species283:20962099	524	526	HBV
+12475	species283:20962099	536	538	HDV
+12475	species283:20962099	607	609	HDV
+10407	species283:20962099	678	680	HBV
+10407	species283:20962099	774	776	HBV
+12475	species283:20962099	885	887	HDV
+12475	species283:20962099	1056	1058	HDV
+10407	species283:20962099	1125	1127	HBV
+10407	species283:20962099	1269	1271	HBV
+12475	species283:20962099	1327	1329	HDV
+12475	species283:20962099	1395	1397	HDV
+12475	species283:20962099	1583	1585	HDV
+12475	species283:20962099	1615	1617	HDV
+10407	species283:20962099	1772	1774	HBV
+9606	species283:20962099	1824	1828	human
+11103	species284:20962101	0	16	Hepatitis C virus
+11103	species284:20962101	168	184	hepatitis C virus
+11103	species284:20962101	187	189	HCV
+11103	species284:20962101	346	348	HCV
+104176	species285:21037015	75	111	Oscillochloris trichoides subsp. DG-6
+104176	species285:21037015	116	140	Oscillochloris trichoides
+104176	species285:21037015	405	441	Oscillochloris trichoides subsp. DG-6
+189839	species286:21521214	1063	1076	Baetis rhodani
+189839	species286:21521214	2188	2197	B. rhodani
+64717	species287:21521215	367	376	root voles
+64717	species287:21521215	379	396	Microtus oeconomus
+3077	species289:20884291	10	27	Chlorella vulgaris
+74790	species289:20884291	44	62	Paramecium bursaria
+74790	species289:20884291	179	197	Paramecium bursaria
+74790	species289:20884291	569	579	P. bursaria
+229204	species290:20190020	324	359	Flavobacterium frigoris LMG 21922(T)
+415425	species290:20190020	371	402	Flavobacterium terrae R2A1-13(T)
+206041	species290:20190020	417	455	Flavobacterium gelidilacus LMG 21477(T)
+3712	species292:20880203	27	34	broccoli
+3712	species292:20880203	126	133	broccoli
+3712	species292:20880203	136	165	Brassica oleracea var. italica
+3712	species292:20880203	632	639	broccoli
+3712	species292:20880203	737	744	broccoli
+3712	species292:20880203	1346	1353	broccoli
+9606	species292:20880203	1477	1481	human
+4577	species293:20880205	75	79	maize
+4097	species293:20880205	110	116	tobacco
+4097	species293:20880205	335	341	tobacco
+4097	species293:20880205	344	360	Nicotiana tabacum
+4577	species293:20880205	455	459	maize
+4577	species293:20880205	462	469	Zea mays
+4097	species293:20880205	674	680	tobacco
+4097	species293:20880205	1060	1066	tobacco
+4097	species293:20880205	1311	1317	tobacco
+88167	species294:21334865	75	103	Poterioochromonas malhamensis
+88167	species294:21334865	218	246	Poterioochromonas malhamensis
+88167	species294:21334865	969	982	P. malhamensis
+88167	species294:21334865	1226	1239	P. malhamensis
+7091	species295:20825506	139	146	silkworm
+7091	species295:20825506	149	159	Bombyx mori
+7091	species295:20825506	167	177	Bombyx mori
+4651	species296:20880223	427	432	fungal
+3880	species296:20880223	479	497	Medicago truncatula
+4039	species296:20880223	503	515	Daucus carota
+3880	species296:20880223	992	1004	M. truncatula
+3702	species297:20880224	0	19	Arabidopsis thaliana
+3702	species297:20880224	588	607	Arabidopsis thaliana
+3702	species297:20880224	643	653	A. thaliana
+3702	species297:20880224	1649	1659	Arabidopsis
+1423	species298:21097616	377	393	Bacillus subtilis
+3311	species299:20880226	55	67	Ginkgo biloba
+3311	species299:20880226	142	154	Ginkgo biloba
+3311	species299:20880226	1291	1299	G. biloba
+39407	species300:20888422	46	51	morels
+39407	species300:20888422	173	178	morels
+368404	species300:20888422	1219	1239	Morchella rufobrunnea
+39930	species300:20888422	1279	1290	black morels
+39407	species300:20888422	1322	1334	yellow morels
+39407	species300:20888422	1842	1847	Morels
+59799	species301:21420905	959	974	Crithidia deanei
+59800	species301:21420905	980	990	C. desouzai
+5657	species301:21420905	1050	1068	Crithidia oncopelti
+28005	species301:21420905	1074	1096	Blastocrithidia culicis
+129951	species302:20863853	41	58	human adenoviruses
+10632	species302:20863853	64	80	JC polyomaviruses
+129951	species302:20863853	333	350	human adenoviruses
+10632	species302:20863853	371	387	JC polyomaviruses
+9606	species302:20863853	981	985	human
+138949	species304:21029747	84	100	coxsackievirus B3
+138949	species304:21029747	633	649	coxsackievirus B3
+138949	species304:21029747	652	655	CVB3
+9606	species304:21029747	707	712	humans
+138949	species304:21029747	907	910	CVB3
+138949	species304:21029747	1349	1352	CVB3
+11320	species305:21029748	80	109	pandemic influenza A/H1N1 2009
+11320	species305:21029748	112	136	seasonal influenza A/H1N1
+11320	species305:21029748	143	175	seasonal influenza A/H3N2 viruses
+11320	species305:21029748	180	227	Pandemic influenza A/H1N1 2009 (A/H1N1pdm) virus
+11320	species305:21029748	359	373	A/H1N1pdm virus
+11320	species305:21029748	534	548	A/H1N1pdm virus
+9606	species305:21029748	600	604	human
+11320	species305:21029748	606	620	seasonal A/H1N1
+11320	species305:21029748	645	668	A/H3N2 influenza viruses
+11320	species305:21029748	992	1017	viral strains of A/H1N1pdm
+11320	species305:21029748	1028	1053	A/Aichi/472/2009 (H1N1)pdm
+11320	species305:21029748	1059	1083	A/Sakai/89/2009 (H1N1)pdm
+11320	species305:21029748	1378	1384	A/H1pdm
+11320	species305:21029748	1387	1390	A/H3
+11320	species305:21029748	1397	1400	A/H1
+11320	species305:21029748	1452	1470	influenza A viruses
+11309	species305:21029748	1610	1626	influenza viruses
+11309	species305:21029748	1662	1678	influenza viruses
+4932	species306:21801845	32	55	Saccharomyces cerevisiae
+4926	species306:21801845	91	112	Pichia membranifaciens
+4926	species306:21801845	136	157	Pichia membranifaciens
+4932	species306:21801845	219	224	yeasts
+4932	species306:21801845	918	941	Saccharomyces cerevisiae
+4932	species306:21801845	1393	1405	S. cerevisiae
+282786	species307:21029750	13	40	infectious myonecrosis virus
+282786	species307:21029750	210	237	infectious myonecrosis virus
+282786	species307:21029750	240	243	IMNV
+562	species307:21029750	549	560	BL21 E. coli
+282786	species307:21029750	936	939	IMNV
+342409	species307:21029750	1115	1139	white spot syndrome virus
+342409	species307:21029750	1142	1145	WSSV
+96491	species307:21029750	1149	1165	yellow head virus
+96491	species307:21029750	1168	1170	YHV
+142102	species307:21029750	1174	1193	Taura syndrome virus
+142102	species307:21029750	1196	1198	TSV
+259389	species307:21029750	1202	1237	Penaeus monodon nucleopolyhedrovirus
+259389	species307:21029750	1240	1246	PemoNPV
+282786	species307:21029750	1791	1794	IMNV
+10266	species308:21029751	167	180	sheep poxvirus
+10266	species308:21029751	183	186	SPPV
+186805	species308:21029751	190	202	goat poxvirus
+186805	species308:21029751	205	208	GTPV
+59509	species308:21029751	215	238	lumpy skin disease virus
+59509	species308:21029751	241	244	LSDV
+9940	species308:21029751	257	261	sheep
+9925	species308:21029751	264	268	goats
+9913	species308:21029751	274	279	cattle
+9940	species308:21029751	340	344	sheep
+9925	species308:21029751	350	354	goats
+186805	species308:21029751	513	519	goatpox
+10266	species308:21029751	525	540	sheeppox viruses
+12110	species309:21029752	37	75	serotype A foot-and-mouth disease virus
+12110	species309:21029752	285	287	FMD
+12110	species309:21029752	949	951	FMD
+13632	species310:21166911	58	73	Lucilia sericata
+7227	species310:21166911	188	210	Drosophila melanogaster
+13632	species310:21166911	319	334	Lucilia sericata
+7227	species310:21166911	351	360	Drosophila
+13632	species310:21166911	366	376	L. sericata
+7227	species310:21166911	498	512	D. melanogaster
+13632	species310:21166911	554	564	L. sericata
+13632	species310:21166911	684	694	L. sericata
+7227	species310:21166911	730	744	D. melanogaster
+13632	species310:21166911	766	776	L. sericata
+7227	species310:21166911	819	828	Drosophila
+9606	species312:21474174	507	511	human
+4097	species312:21474174	792	798	tobacco
+4097	species312:21474174	1137	1143	tobacco
+4097	species312:21474174	1215	1221	tobacco
+39416	species313:20884368	4	25	Perigord black truffle
+39416	species313:20884368	127	144	Tuber melanosporum
+678932	species314:20190019	0	41	Auritidibacter ignavus gen. nov., sp. nov.
+678932	species314:20190019	387	401	IMMIB L-1656(T)
+678932	species314:20190019	543	557	IMMIB L-1656(T)
+678932	species314:20190019	721	735	IMMIB L-1656(T)
+678932	species314:20190019	1300	1314	IMMIB L-1656(T)
+678932	species314:20190019	1380	1421	Auritidibacter ignavus gen. nov., sp. nov.
+678932	species314:20190019	1622	1643	Auritidibacter ignavus
+678932	species314:20190019	1648	1662	IMMIB L-1656(T)
+678932	species314:20190019	1666	1677	DSM 45359(T)
+678932	species314:20190019	1680	1692	CCUG 57943(T)
+369960	species316:20933542	35	63	porcine endogenous retrovirus
+369960	species316:20933542	166	196	Porcine endogenous retroviruses
+369960	species316:20933542	199	203	PERVs
+9606	species316:20933542	314	318	human
+9823	species316:20933542	381	384	pigs
+369960	species316:20933542	394	398	PERVs
+31931	species316:20933542	630	639	retroviral
+369960	species316:20933542	665	668	PERV
+369960	species316:20933542	787	792	PERV-B
+31931	species316:20933542	909	918	retroviral
+369960	species316:20933542	984	989	PERV-B
+369960	species316:20933542	1135	1140	PERV-A
+5062	species318:22008745	153	170	Aspergillus oryzae
+5062	species318:22008745	706	723	Aspergillus oryzae
+4932	species318:22008745	1404	1408	Yeast
+5062	species318:22008745	1600	1608	A. oryzae
+9178	species319:21054379	66	85	grey-crowned babbler
+9178	species319:21054379	558	577	grey-crowned babbler
+9178	species319:21054379	580	602	Pomatostomus temporalis
+9178	species319:21054379	979	999	grey-crowned babblers
+37360	species321:21183405	582	605	Plasmodiophora brassicae
+70186	species321:21183405	611	633	Spongospora subterranea
+3711	species321:21183405	670	682	Brassica rapa
+4113	species321:21183405	688	704	Solanum tuberosum
+70186	species321:21183405	923	936	S. subterranea
+70186	species321:21183405	1172	1185	S. subterranea
+107758	species323:20829107	1080	1094	L. chlorophorum
+107758	species323:20829107	1478	1492	L. chlorophorum
+162425	species325:20816830	95	114	Aspergillus nidulans
+162425	species325:20816830	529	548	Aspergillus nidulans
+91943	species326:21281727	126	142	Hortaea werneckii
+4932	species326:21281727	150	173	Saccharomyces cerevisiae
+91943	species326:21281727	465	481	Hortaea werneckii
+4932	species326:21281727	640	651	S. cerevisae
+4932	species326:21281727	756	768	S. cerevisiae
+4932	species326:21281727	855	867	S. cerevisiae
+4932	species326:21281727	959	971	S. cerevisiae
+4932	species326:21281727	1177	1189	S. cerevisiae
+91943	species326:21281727	1245	1256	H. werneckii
+4932	species326:21281727	1310	1322	S. cerevisiae
+5346	species327:21281729	111	129	Coprinopsis cinerea
+5346	species327:21281729	203	221	Coprinopsis cinerea
+5270	species327:21281729	1574	1588	Ustilago maydis
+1313	species328:21097633	53	76	Streptococcus pneumoniae
+1313	species328:21097633	101	124	Streptococcus pneumoniae
+1313	species328:21097633	252	264	S. pneumoniae
+70805	species329:21054410	117	136	Leavenworthia crassa
+3702	species329:21054410	228	247	Arabidopsis thaliana
+3702	species329:21054410	561	571	A. thaliana
+3702	species329:21054410	1280	1290	A. thaliana
+70805	species329:21054410	1296	1304	L. crassa
+181267	species330:21251019	690	703	Lotus creticus
+47247	species330:21251019	805	822	Lotus corniculatus
+347996	species330:21251019	828	839	Lotus tenuis
+181267	species330:21251019	842	852	L. creticus
+181267	species330:21251019	1302	1312	L. creticus
+11320	species331:20970456	41	51	type A H1N1
+11520	species331:20970456	57	84	type B human influenza virus
+11320	species331:20970456	129	139	type A H1N1
+11520	species331:20970456	145	172	type B human influenza virus
+11320	species331:20970456	323	333	type A H1N1
+11520	species331:20970456	339	362	type B influenza viruses
+11520	species331:20970456	668	682	influenza virus
+9606	species331:20970456	692	697	humans
+138948	species332:20970457	40	57	Coxsackievirus A16
+138948	species332:20970457	84	101	Coxsackievirus A16
+138948	species332:20970457	104	107	CA16
+138948	species332:20970457	366	369	CA16
+138948	species332:20970457	430	433	CA16
+138948	species332:20970457	495	498	CA16
+138948	species332:20970457	697	700	CA16
+138948	species332:20970457	1062	1065	CA16
+138948	species332:20970457	1140	1143	CA16
+138948	species332:20970457	1215	1218	CA16
+7029	species334:21382108	17	25	pea aphid
+138074	species334:21382108	81	99	Serratia symbiotica
+7029	species334:21382108	130	139	pea aphids
+7029	species334:21382108	142	160	Acyrthosiphon pisum
+138074	species334:21382108	422	434	S. symbiotica
+7029	species334:21382108	589	597	pea aphid
+138074	species334:21382108	728	740	S. symbiotica
+138074	species334:21382108	932	944	S. symbiotica
+138074	species334:21382108	1082	1094	S. symbiotica
+7461	species335:21382109	77	94	Apis cerana cerana
+7461	species335:21382109	372	395	Apis cerana cerana (Acc)
+7461	species335:21382109	701	716	worker honeybees
+7461	species335:21382109	1072	1080	honeybees
+4577	species336:21054434	27	31	maize
+4577	species336:21054434	555	559	maize
+4577	species336:21054434	562	569	Zea mays
+28930	species337:21054435	146	160	Fagus sylvatica
+3329	species337:21054435	178	188	Picea abies
+28930	species337:21054435	521	535	Fagus sylvatica
+28930	species337:21054435	538	551	European beech
+3329	species337:21054435	569	579	Picea abies
+3329	species337:21054435	582	594	Norway spruce
+3329	species338:21054436	75	87	Norway spruce
+3329	species338:21054436	387	399	Norway spruce
+3659	species339:21054437	113	120	cucumber
+3659	species339:21054437	278	285	cucumber
+7460	species341:21410804	57	65	honey bee
+7460	species341:21410804	68	81	Apis mellifera
+7460	species341:21410804	645	653	honey bee
+7460	species341:21410804	882	891	honey bees
+7227	species341:21410804	904	913	Drosophila
+358	species342:21396477	0	25	Agrobacterium tumefasciens
+4808	species342:21396477	73	97	Blastocladiella emersonii
+358	species342:21396477	102	126	Agrobacterium tumefaciens
+4932	species342:21396477	223	227	yeast
+9606	species342:21396477	257	261	human
+4808	species342:21396477	371	395	Blastocladiella emersonii
+162425	species342:21396477	735	754	Aspergillus nidulans
+358	species342:21396477	926	950	Agrobacterium tumefsciens
+5076	species343:21146624	40	62	Penicillium chrysogenum
+5076	species343:21146624	221	243	Penicillium chrysogenum
+5076	species343:21146624	431	445	Strains G203R-T
+5076	species343:21146624	509	517	Deltapga1
+5076	species343:21146624	842	875	strains with the pga1(G42R) allele
+5076	species343:21146624	1263	1289	strains with an active Pga1
+5207	species344:21067947	55	77	Cryptococcus neoformans
+5207	species344:21067947	487	509	Cryptococcus neoformans
+5207	species344:21067947	712	724	C. neoformans
+5207	species344:21067947	835	847	C. neoformans
+5207	species344:21067947	1427	1439	C. neoformans
+5207	species344:21067947	1815	1827	C. neoformans
+7159	species345:21699592	69	89	yellow fever mosquito
+7159	species345:21699592	92	104	Aedes aegypti
+7159	species345:21699592	347	359	Aedes aegypti
+9606	species345:21699592	403	407	human
+7159	species345:21699592	875	885	Ae. aegypti
+5141	species346:21070858	51	67	Neurospora crassa
+5141	species346:21070858	75	90	Neurosporacrassa
+6999	species347:21699597	125	143	Gryllus bimaculatus
+6999	species347:21699597	389	414	Gryllus bimaculatus DeGeer
+162425	species348:20433937	1771	1790	Aspergillus nidulans
+4565	species352:21216300	126	130	wheat
+9606	species352:21216300	256	261	humans
+5518	species352:21216300	817	830	F. graminearum
+1352	species357:21148730	75	94	Enterococcus faecium
+1352	species357:21148730	130	149	Enterococcus faecium
+1352	species357:21148730	495	510	E. faecium E1162
+1352	species357:21148730	513	517	E1162
+1352	species357:21148730	592	596	E1162
+1352	species357:21148730	1109	1118	E. faecium
+5885	species358:21277756	30	48	Paramecium caudatum
+5885	species358:21277756	617	635	Paramecium caudatum
+287	species359:21148734	36	57	Pseudomonas aeruginosa
+287	species359:21148734	265	286	Pseudomonas aeruginosa
+287	species359:21148734	289	301	P. aeruginosa
+287	species359:21148734	654	679	P. aeruginosa strain PA103
+10090	species359:21148734	1839	1843	mouse
+287	species359:21148734	2137	2149	P. aeruginosa
+1307	species361:21148736	99	116	Streptococcus suis
+9823	species361:21148736	545	549	swine
+1307	species361:21148736	560	577	Streptococcus suis
+1307	species361:21148736	943	964	S. suis strain 89/1591
+3349	species363:20880225	453	468	Pinus sylvestris
+213866	species369:21388371	474	490	Eciton burchellii
+9852	species371:21388373	669	679	Alces alces
+10245	species374:20943971	9	22	vaccinia virus
+10090	species374:20943971	115	118	mice
+10245	species374:20943971	423	436	vaccinia virus
+10245	species374:20943971	439	440	VV
+10245	species374:20943971	668	669	VV
+10090	species374:20943971	683	687	mouse
+10090	species374:20943971	750	753	mice
+10245	species374:20943971	807	808	VV
+10245	species374:20943971	811	812	VV
+10090	species374:20943971	870	874	mouse
+10090	species374:20943971	991	994	mice
+10090	species374:20943971	1058	1061	mice
+10090	species374:20943971	1181	1184	mice
+10090	species374:20943971	1233	1236	mice
+10090	species374:20943971	1335	1338	mice
+10090	species374:20943971	1485	1489	mouse
+4932	species375:20817000	138	161	Saccharomyces cerevisiae
+4932	species375:20817000	396	419	Saccharomyces cerevisiae
+4932	species375:20817000	497	509	S. cerevisiae
+56636	species376:21097609	40	55	Aeropyrum pernix
+56636	species376:21097609	199	214	Aeropyrum pernix
+56636	species376:21097609	314	329	Aeropyrum pernix
+2287	species376:21097609	1698	1720	Sulfolobus solfataricus
+85698	species377:21097610	70	98	Achromobacter xylosoxidans A8
+85698	species377:21097610	103	138	Achromobacter xylosoxidans strain A8
+85698	species377:21097610	420	434	A. xylosoxidans
+1423	species379:21097612	26	42	Bacillus subtilis
+1423	species379:21097612	159	175	Bacillus subtilis
+1423	species379:21097612	1815	1825	B. subtilis
+621	species380:21057010	122	136	Shigella boydii
+9606	species380:21057010	517	521	human
+9606	species380:21057010	556	561	humans
+621	species380:21057010	581	595	Shigella boydii
+621	species380:21057010	802	816	Shigella boydii
+562	species380:21057010	1050	1065	Escherichia coli
+1423	species381:21097618	71	87	Bacillus subtilis
+1423	species381:21097618	92	108	Bacillus subtilis
+813	species382:21057008	52	72	Chlamydia trachomatis
+562	species383:21097626	47	62	Escherichia coli
+562	species383:21097626	541	556	Escherichia coli
+562	species383:21097626	858	864	E. coli
+562	species383:21097626	1230	1240	K-12 strain
+562	species383:21097626	1270	1277	B strain
+562	species383:21097626	1397	1404	B strain
+562	species384:21097627	92	107	Escherichia coli
+562	species384:21097627	521	536	Escherichia coli
+562	species384:21097627	732	738	E. coli
+562	species384:21097627	1493	1499	E. coli
+198240	species385:21097629	43	62	methanogenic archaea
+198240	species385:21097629	112	131	methanogenic archaea
+2190	species385:21097629	134	162	Methanocaldococcus jannaschii
+145262	species385:21097629	203	241	Methanothermobacter thermoautotrophicus
+198240	species385:21097629	309	328	methanogenic archaea
+2214	species385:21097629	364	389	Methanosarcina acetivorans
+39152	species385:21097629	395	419	Methanococcus maripaludis
+2214	species385:21097629	440	453	M. acetivorans
+39152	species385:21097629	606	619	M. maripaludis
+39152	species385:21097629	1487	1500	M. maripaludis
+39152	species385:21097629	1586	1599	M. maripaludis
+10359	species387:20962080	46	66	human cytomegalovirus
+10359	species387:20962080	87	107	Human cytomegalovirus
+10359	species387:20962080	110	113	HCMV
+10359	species387:20962080	372	375	HCMV
+10359	species387:20962080	619	622	HCMV
+4932	species387:20962080	646	650	yeast
+10359	species387:20962080	840	843	HCMV
+10359	species387:20962080	1164	1167	HCMV
+10359	species387:20962080	1246	1249	HCMV
+10359	species387:20962080	1309	1312	HCMV
+287	species388:21097632	63	84	Pseudomonas aeruginosa
+287	species388:21097632	129	150	Pseudomonas aeruginosa
+287	species388:21097632	325	337	P. aeruginosa
+562	species388:21097632	1154	1169	Escherichia coli
+12475	species389:21511329	0	20	Hepatitis delta virus
+12475	species389:21511329	24	44	Hepatitis delta virus
+12475	species389:21511329	47	49	HDV
+10407	species389:21511329	126	142	hepatitis B virus
+10407	species389:21511329	145	147	HBV
+12475	species389:21511329	244	246	HDV
+12475	species389:21511329	334	344	hepatitis D
+10407	species389:21511329	378	380	HBV
+12475	species389:21511329	536	538	HDV
+10407	species389:21511329	595	597	HBV
+12475	species389:21511329	823	825	HDV
+12475	species389:21511329	945	947	HDV
+12475	species389:21511329	1071	1073	HDV
+562	species390:21097634	29	44	Escherichia coli
+562	species390:21097634	74	89	Escherichia coli
+287	species391:21097635	64	85	Pseudomonas aeruginosa
+287	species391:21097635	117	138	Pseudomonas aeruginosa
+38018	species391:21097635	570	582	bacteriophage
+9606	species392:21269674	0	4	Human
+9606	species392:21269674	1672	1676	human
+11103	species394:21029749	56	72	hepatitis C virus
+11103	species394:21029749	149	151	HCV
+11103	species394:21029749	195	197	HCV
+11103	species394:21029749	336	338	HCV
+11103	species394:21029749	358	360	HCV
+11103	species394:21029749	853	855	HCV
+11103	species394:21029749	883	885	HCV
+11103	species394:21029749	980	982	HCV
+11103	species394:21029749	1006	1008	HCV
+11103	species394:21029749	1405	1407	HCV
+11103	species394:21029749	1489	1491	HCV
+5147	species397:21134480	29	47	Sordaria macrospora
+5147	species397:21134480	98	116	Sordaria macrospora
+5147	species397:21134480	321	333	S. macrospora
+5518	species398:22004876	236	263	Fusarium graminearum complex
+5518	species398:22004876	266	269	FGSC
+5518	species398:22004876	541	544	FGSC
+5518	species398:22004876	847	858	FGSC species
+5518	species398:22004876	861	878	Fusarium nepalense
+5518	species398:22004876	918	955	Fusarium ussurianum+Fusarium asiaticum
+5518	species398:22004876	989	992	FGSC
+5518	species398:22004876	995	1015	Fusarium louisianense
+5518	species398:22004876	1081	1113	Fusarium gerlachii+F. graminearum
+5518	species398:22004876	1296	1309	F. graminearum
+5518	species398:22004876	1428	1439	F. nepalense
+5518	species398:22004876	1445	1459	F. louisianense
+9852	species400:21105872	1260	1264	moose
+9852	species400:21105872	1266	1276	Alces alces
+4577	species402:20946131	88	92	maize
+4577	species402:20946131	555	559	maize
+4577	species402:20946131	562	569	Zea mays
+4577	species402:20946131	623	627	maize
+4577	species402:20946131	1183	1187	maize
+4577	species402:20946131	1413	1417	maize
+5476	species403:20817114	114	129	Candida albicans
+9606	species403:20817114	275	280	humans
+5476	species403:20817114	283	298	Candida albicans
+5476	species403:20817114	546	556	C. albicans
+5476	species403:20817114	742	752	C. albicans
+5476	species403:20817114	819	829	C. albicans
+5476	species403:20817114	1019	1029	C. albicans
+5476	species403:20817114	1346	1356	C. albicans
+746128	species404:20817115	56	76	Aspergillus fumigatus
+162425	species404:20817115	82	101	Aspergillus nidulans
+746128	species404:20817115	275	295	Aspergillus fumigatus
+162425	species404:20817115	301	320	Aspergillus nidulans
+746128	species404:20817115	383	394	A. fumigatus
+162425	species404:20817115	400	410	A. nidulans
+162425	species404:20817115	495	505	A. nidulans
+746128	species404:20817115	572	583	A. fumigatus
+746128	species404:20817115	779	790	A. fumigatus
+162425	species404:20817115	797	807	A. nidulans
+746128	species404:20817115	853	864	A. fumigatus
+162425	species404:20817115	980	990	A. nidulans
+4932	species404:20817115	1278	1282	yeast
+162425	species404:20817115	1609	1619	A. nidulans
+360690	species405:21632222	855	870	Ploesoma hudsoni
+63137	species406:21632223	100	115	Colpoda cucullus
+63137	species406:21632223	144	159	Colpoda cucullus
+162425	species408:21419234	45	64	Aspergillus nidulans
+162425	species408:21419234	155	174	Aspergillus nidulans
+162425	species408:21419234	744	754	A. nidulans
+9157	species410:21488872	86	94	great tit
+9157	species410:21488872	918	926	great tit
+9157	species410:21488872	928	938	Parus major
+5911	species411:21601521	59	81	Tetrahymena thermophila
+5911	species411:21601521	233	255	Tetrahymena thermophila
+9606	species413:21118200	2150	2154	human
+43138	species414:21282046	16	37	Paramecium pentaurelia
+43138	species414:21282046	119	140	Paramecium pentaurelia
+43138	species414:21282046	445	458	P. pentaurelia
+4932	species415:20139282	67	71	yeast
+4932	species415:20139282	283	287	yeast
+4932	species415:20139282	645	650	yeasts
+4932	species415:20139282	1176	1180	yeast
+85708	species416:20923690	87	111	porcine circovirus type 2
+85708	species416:20923690	233	264	porcine circovirus type 2 (PCV2)
+9823	species416:20923690	789	791	pig
+9823	species416:20923690	1092	1095	pigs
+9823	species416:20923690	1115	1117	pig
+9823	species416:20923690	1210	1212	pig
+5061	species417:21277986	60	76	Aspergillus niger
+5061	species417:21277986	109	125	Aspergillus niger
+5061	species417:21277986	231	238	A. niger
+746128	species417:21277986	1051	1062	A. fumigatus
+5061	species417:21277986	1535	1542	A. niger
+511117	species420:20923688	470	487	narcissus bulb fly
+511117	species420:20923688	489	505	Merodon equestris
+7370	species420:20923688	515	523	house fly
+7370	species420:20923688	525	539	Musca domestica
+7398	species420:20923688	786	805	Glossinia pallidipes
+7370	species420:20923688	820	834	Musca domestica
+37360	species423:21497131	65	88	Plasmodiophora brassicae
+37360	species423:21497131	179	202	Plasmodiophora brassicae
+37360	species423:21497131	616	627	P. brassicae
+891400	species424:21497133	64	90	Gymnodinium myriopyrenoides
+891400	species424:21497133	201	227	Gymnodinium myriopyrenoides
+891400	species424:21497133	826	843	G. myriopyrenoides
+891395	species424:21497133	943	967	Amphidinium poecilochroum
+891394	species424:21497133	973	992	Gymnodinium acidotum
+891400	species424:21497133	1154	1171	G. myriopyrenoides
+891400	species424:21497133	1457	1474	G. myriopyrenoides
+5062	species425:20849972	129	146	Aspergillus oryzae
+5062	species425:20849972	194	211	Aspergillus oryzae
+12814	species426:21435708	351	377	respiratory syncytial virus
+162145	species426:21435708	392	412	human metapneumovirus
+329641	species426:21435708	415	429	human bocavirus
+562	species427:21169483	61	76	Escherichia coli
+584	species427:21169483	82	98	Proteus mirabilis
+562	species427:21169483	306	321	Escherichia coli
+584	species427:21169483	468	484	Proteus mirabilis
+562	species427:21169483	490	496	E. coli
+562	species427:21169483	968	974	E. coli
+562	species427:21169483	1092	1098	E. coli
+584	species427:21169483	1104	1115	P. mirabilis
+96047	species428:20964685	666	683	Ammophila arenaria
+96047	species428:20964685	1633	1643	A. arenaria
+43687	species429:21169486	64	84	Metallosphaera sedula
+43687	species429:21169486	89	109	Metallosphaera sedula
+64391	species430:20964687	435	458	Callosobruchus maculatus
+287	species431:21169488	112	133	Pseudomonas aeruginosa
+287	species431:21169488	138	159	Pseudomonas aeruginosa
+287	species431:21169488	546	558	P. aeruginosa
+287	species431:21169488	955	967	P. aeruginosa
+9606	species431:21169488	1027	1031	human
+9606	species432:21418211	147	151	human
+3055	species433:20964692	90	114	Chlamydomonas reinhardtii
+3055	species433:20964692	168	192	Chlamydomonas reinhardtii
+3522	species434:20964693	295	310	Casaurina glauca
+34297	species434:20964693	316	332	Datisca glomerata
+3880	species434:20964693	351	369	Medicago truncatula
+3880	species434:20964693	743	755	M. truncatula
+382	species434:20964693	800	821	Sinorhizobium meliloti
+3880	species434:20964693	1076	1088	M. truncatula
+382	species434:20964693	1198	1208	S. meliloti
+78719	species435:20964694	102	125	Cephalanthera damasonium
+78719	species435:20964694	652	675	Cephalanthera damasonium
+78719	species435:20964694	868	880	C. damasonium
+78719	species435:20964694	1340	1352	C. damasonium
+372086	species436:21071191	882	902	Paracercomonas marina
+39717	species436:21071191	908	931	Paulinella chromatophora
+536288	species436:21071191	980	996	Filoreta japonica
+60197	species437:20888926	53	87	Cronartium quercuum f.sp. fusiforme
+60197	species437:20888926	171	205	Cronartium quercuum f.sp. fusiforme
+3352	species437:20888926	313	325	loblolly pine
+5518	species438:21601644	16	51	Fusarium graminearum species complex
+4565	species438:21601644	58	62	wheat
+4513	species438:21601644	65	70	barley
+4577	species438:21601644	76	80	maize
+5518	species438:21601644	243	278	Fusarium graminearum species complex
+5518	species438:21601644	281	284	FGSC
+4565	species438:21601644	311	315	wheat
+4513	species438:21601644	318	323	barley
+4577	species438:21601644	329	333	maize
+5518	species438:21601644	656	659	FGSC
+4577	species438:21601644	715	719	maize
+4565	species438:21601644	766	770	wheat
+4513	species438:21601644	775	780	barley
+5518	species438:21601644	796	809	F. graminearum
+5518	species438:21601644	846	849	FGSC
+4565	species438:21601644	883	887	wheat
+4513	species438:21601644	893	898	barley
+4577	species438:21601644	963	967	maize
+282271	species438:21601644	1077	1091	Fusariumboothii
+5518	species438:21601644	1097	1110	F. graminearum
+4577	species438:21601644	1120	1124	maize
+282271	species438:21601644	1166	1175	F. boothii
+5518	species438:21601644	1198	1211	F. graminearum
+282271	species438:21601644	1261	1270	F. boothii
+5518	species438:21601644	1451	1454	FGSC
+5518	species438:21601644	1477	1490	F. graminearum
+4577	species438:21601644	1527	1531	maize
+5518	species438:21601644	1564	1567	FGSC
+103385	species439:21889597	62	83	Amylostereum areolatum
+103385	species439:21889597	732	753	Amylostereum areolatum
+103385	species439:21889597	1384	1395	A. areolatum
+7175	species440:21118326	66	88	northern house mosquito
+7175	species440:21118326	91	103	Culex pipiens
+7175	species440:21118326	257	279	northern house mosquito
+7175	species440:21118326	282	294	Culex pipiens
+7175	species440:21118326	523	532	C. pipiens
+7227	species440:21118326	694	716	Drosophila melanogaster
+7091	species440:21118326	843	853	Bombyx mori
+88552	species442:21349764	31	45	Amoebophrya sp.
+71861	species442:21349764	113	135	Scrippsiella trochoidea
+88552	species442:21349764	350	365	Amoebophrya spp.
+88552	species442:21349764	750	764	Amoebophrya sp.
+71861	species442:21349764	797	819	Scrippsiella trochoidea
+5067	species444:20519149	690	712	Aspergillus parasiticus
+9606	species444:20519149	814	819	humans
+51655	species446:21029103	276	291	diamondback moth
+51655	species446:21029103	294	296	DBM
+51655	species446:21029103	300	318	Plutella xylostella
+51655	species446:21029103	569	571	DBM
+50459	species446:21029103	598	614	Barbarea vulgaris
+51655	species446:21029103	1504	1506	DBM
+4232	species447:20831646	83	91	sunflower
+4232	species447:20831646	296	304	sunflower
+4232	species447:20831646	307	323	Helianthus annuus
+45157	species449:20663713	217	239	Cyanidioschyzon merolae
+4530	species449:20663713	443	446	rice
+5911	species449:20663713	837	859	Tetrahymena thermophila
+3702	species449:20663713	1208	1218	Arabidopsis
+10116	species449:20663713	1281	1283	rat
+4790	species450:20663714	45	67	Phytophthora nicotianae
+4790	species450:20663714	368	390	Phytophthora nicotianae
+2986	species450:20663714	1274	1290	Ochromonas danica
+44056	species450:20663714	1293	1319	Aureococcus anophagefferens
+27967	species450:20663714	1325	1346	Scytosiphon lomentaria
+35128	species450:20663714	1364	1387	Thalassiosira pseudonana
+67004	species450:20663714	1393	1406	T. weissflogii
+5885	species451:21497073	70	88	Paramecium caudatum
+5885	species451:21497073	115	133	Paramecium caudatum
+5885	species451:21497073	743	753	P. caudatum
+5885	species451:21497073	1161	1171	P. caudatum
+357595	species452:20825517	742	751	ring ouzel
+357595	species452:20825517	754	769	Turdus torquatus
+8019	species457:21466553	97	107	coho salmon
+8022	species457:21466553	113	127	steelhead trout
+8022	species457:21466553	1072	1080	steelhead
+8019	species457:21466553	1086	1096	coho salmon
+8022	species457:21466553	1400	1414	steelhead trout
+8019	species457:21466553	1420	1430	coho salmon
+8022	species457:21466553	1499	1507	steelhead
+8019	species457:21466553	1574	1577	coho
+8022	species457:21466553	1806	1814	steelhead
+8038	species457:21466553	1950	1960	brook trout
+8030	species457:21466553	1966	1980	Atlantic salmon
+8038	species457:21466553	1986	1996	brook trout
+111821	species458:21466554	419	428	tawny owls
+111821	species458:21466554	630	639	tawny owls
+111821	species458:21466554	1714	1723	tawny owls
+258703	species461:21272001	462	478	Formica aquilonia
+258703	species461:21272001	698	709	F. aquilonia
+36169	species461:21272001	774	795	Camponotus herculeanus
+258703	species461:21272001	973	984	F. aquilonia
+258703	species461:21272001	1154	1165	F. aquilonia
+258703	species461:21272001	1300	1311	F. aquilonia
+258703	species461:21272001	1804	1815	F. aquilonia
+5518	species462:21126599	92	111	Fusarium graminearum
+5518	species462:21126599	367	386	Fusarium graminearum
+5518	species462:21126599	519	532	F. graminearum
+5518	species462:21126599	640	653	F. graminearum
+5518	species462:21126599	1092	1105	F. graminearum
+3330	species466:21118421	44	55	white spruce
+3330	species466:21118421	58	69	Picea glauca
+3330	species466:21118421	275	286	white spruce
+3330	species466:21118421	288	315	[Picea glauca (Moench) Voss]
+3330	species466:21118421	1537	1548	white spruce
+3695	species467:21118422	204	234	Populus trichocarpa x deltoides
+3694	species468:21118423	589	607	Populus trichocarpa
+7227	species470:21091811	207	229	Drosophila melanogaster
+7109	species470:21091811	341	361	Spodoptera littoralis
+7227	species470:21091811	419	433	D. melanogaster
+7091	species470:21091811	439	449	Bombyx mori
+7091	species470:21091811	684	690	B. mori
+7227	species470:21091811	696	710	D. melanogaster
+7109	species470:21091811	1012	1024	S. littoralis
+66636	species472:20825578	65	81	Larrea tridentata
+66636	species472:20825578	407	423	Larrea tridentata
+66636	species472:20825578	1394	1406	L. tridentata
+573	species474:21057007	38	58	Klebsiella pneumoniae
+573	species474:21057007	129	149	Klebsiella pneumoniae
+3702	species475:21241328	49	59	Arabidopsis
+3702	species475:21241328	331	341	Arabidopsis
+3879	species476:21057009	281	295	Medicago sativa
+4565	species478:20946419	171	175	wheat
+9606	species478:20946419	245	249	human
+4565	species478:20946419	586	590	wheat
+4565	species478:20946419	593	609	Triticum aestivum
+4565	species478:20946419	1323	1327	wheat
+4530	species479:20946420	89	92	rice
+4530	species479:20946420	95	106	Oryza sativa
+4530	species479:20946420	176	185	Asian rice
+4530	species479:20946420	188	199	Oryza sativa
+562	species479:20946420	400	415	Escherichia coli
+4530	species479:20946420	507	510	rice
+4530	species479:20946420	646	649	rice
+4529	species479:20946420	691	705	Oryza rufipogon
+4530	species479:20946420	1258	1261	rice
+4529	species479:20946420	1383	1404	tropical japonica rice
+50023	species480:20735493	73	87	citrus red mite
+50023	species480:20735493	89	104	Panonychus citri
+32264	species480:20735493	316	334	Tetranychus urticae
+50023	species480:20735493	508	523	Panonychus citri
+50023	species480:20735493	648	655	P. citri
+8469	species482:21517842	1008	1020	green turtles
+8469	species482:21517842	1023	1036	Chelonia mydas
+8469	species482:21517842	1140	1152	green turtles
+5518	species484:21237280	75	89	Gibberella zeae
+5518	species484:21237280	389	403	Gibberella zeae
+9606	species485:20962093	0	4	Human
+11676	species485:20962093	76	80	HIV-1
+11676	species485:20962093	431	435	HIV-1
+11676	species485:20962093	503	507	HIV-1
+9606	species485:20962093	595	599	human
+11676	species485:20962093	904	908	HIV-1
+11676	species485:20962093	969	973	HIV-1
+11676	species485:20962093	1071	1075	HIV-1
+11676	species485:20962093	1376	1380	HIV-1
+11676	species486:21429803	50	54	HIV-1
+12721	species486:21429803	242	244	HIV
+12721	species486:21429803	346	348	HIV
+12721	species486:21429803	446	448	HIV
+12721	species486:21429803	687	689	HIV
+12721	species486:21429803	1444	1446	HIV
+12721	species486:21429803	1550	1552	HIV
+34869	species488:21073455	77	83	chamois
+34869	species488:21073455	635	641	chamois
+34869	species488:21073455	644	662	Rupicapra rupicapra
+34869	species488:21073455	1488	1494	chamois
+35608	species489:20874804	126	147	Artemisia annua plants
+35608	species489:20874804	270	291	Artemisia annua plants
+35608	species489:20874804	514	521	A. annua
+35608	species489:20874804	1598	1612	A. annua plants
+5141	species491:22056520	139	155	Neurospora crassa
+40127	species491:22056520	188	201	N. tetrasperma
+5141	species491:22056520	398	414	Neurospora crassa
+40127	species491:22056520	1473	1494	Neurospora tetrasperma
+5476	species492:22056521	28	43	Candida albicans
+5476	species492:22056521	105	120	Candida albicans
+5476	species492:22056521	252	262	C. albicans
+562	species492:22056521	478	482	yeast
+5476	species492:22056521	579	589	C. albicans
+5476	species492:22056521	1278	1288	C. albicans
+243206	species493:22056522	46	65	Leptogium saturninum
+243206	species493:22056522	332	351	Leptogium saturninum
+29892	species493:22056522	919	944	Auricularia auricula-judae
+37727	species493:22056522	1204	1224	Penicillium marneffei
+36630	species493:22056522	1230	1249	Neosartorya fischeri
+933863	species494:20964686	597	615	Metaphycus luteolus
+933863	species494:20964686	990	1000	M. luteolus
+933863	species494:20964686	1947	1957	M. luteolus
+30195	species495:20958807	68	84	Bombus terrestris
+30195	species495:20958807	203	219	Bombus terrestris
+30195	species495:20958807	343	355	B. terrestris
+7159	species496:20958808	280	292	Aedes aegypti
+7159	species496:20958808	308	320	Aedes aegypti
+7165	species496:20958808	323	339	Anopheles gambiae
+7166	species496:20958808	346	370	Anopheles quadrimaculatus
+7159	species496:20958808	780	790	Ae. aegypti
+7165	species496:20958808	799	809	An. gambiae
+3175	species497:21333593	104	126	Klebsormidium flaccidum
+184584	species497:21333593	129	144	K. subtilissimum
+37433	species497:21333593	147	169	Stichococcus bacillaris
+413990	species497:21333593	175	188	S. chloranthus
+3175	species497:21333593	324	346	Klebsormidium flaccidum
+184584	species497:21333593	349	364	K. subtilissimum
+37433	species497:21333593	367	389	Stichococcus bacillaris
+413990	species497:21333593	395	408	S. chloranthus
+4530	species498:21039565	28	31	rice
+4530	species498:21039565	160	163	rice
+4530	species498:21039565	166	177	Oryza sativa
+4530	species498:21039565	314	317	rice
+4530	species498:21039565	671	674	rice
+4530	species498:21039565	795	798	rice
+8030	species499:21155770	100	114	Atlantic salmon
+8030	species499:21155770	523	537	Atlantic salmon
+8030	species499:21155770	2136	2150	Atlantic salmon
+749231	species500:20708961	34	66	Pirum gemmata gen. nov., sp. nov.
+749232	species500:20708961	73	111	Abeoforma whisleri, gen. nov., sp. nov.
+749231	species500:20708961	728	740	Pirum gemmata
+749232	species500:20708961	746	763	Abeoforma whisleri
+749232	species500:20708961	766	776	A. whisleri
+749231	species500:20708961	1000	1009	P. gemmata
+749231	species500:20708961	1211	1220	P. gemmata
+749232	species500:20708961	1226	1236	A. whisleri
+749231	species500:20708961	1352	1361	P. gemmata
+749232	species500:20708961	1367	1377	A. whisleri
+7116	species501:21155771	79	94	Pieris brassicae
+7116	species501:21155771	808	823	Pieris brassicae
+3712	species501:21155771	839	845	cabbage
+7102	species502:20946532	58	72	tobacco budworm
+7102	species502:20946532	74	92	Heliothis virescens
+7102	species502:20946532	130	148	Heliothis virescens
+7102	species502:20946532	616	627	H. virescens
+7102	species502:20946532	777	788	H. virescens
+7102	species502:20946532	820	831	H. virescens
+4932	species503:21784165	132	136	yeast
+4932	species503:21784165	138	161	Saccharomyces cerevisiae
+7102	species504:20946534	419	437	Heliothis virescens
+7102	species504:20946534	440	441	Hv
+38041	species504:20946534	448	465	Heliothis subflexa
+38041	species504:20946534	468	469	Hs
+38041	species504:20946534	982	992	H. subflexa
+562	species505:20870768	79	94	Escherichia coli
+5037	species506:20682355	460	481	Histoplasma capsulatum
+121759	species506:20682355	487	515	Paracoccidioides brasiliensis
+5039	species506:20682355	643	666	Blastomyces dermatitidis
+73231	species506:20682355	672	685	Emmonsia parva
+5039	species506:20682355	845	859	B. dermatitidis
+73231	species506:20682355	862	869	E. parva
+121759	species506:20682355	875	905	P. brasiliensis species complex
+562	species506:20682355	959	974	Escherichia coli
+5141	species507:22001287	106	122	Neurospora crassa
+5141	species507:22001287	410	426	Neurospora crassa
+5141	species507:22001287	1648	1656	N. crassa
+162425	species507:22001287	1692	1711	Aspergillus nidulans
+5141	species508:22001288	218	234	Neurospora crassa
+5141	species508:22001288	1156	1164	N. crassa
+121759	species509:21945996	69	97	Paracoccidioides brasiliensis
+121759	species509:21945996	158	186	Paracoccidioides brasiliensis
+121759	species509:21945996	881	911	P. brasiliensis species complex
+1048829	species509:21945996	966	988	Paracoccidioides lutzii
+5207	species510:20719250	77	105	Cryptococcus neoformans JEC21
+5207	species510:20719250	285	289	JEC21
+5207	species510:20719250	306	310	JEC21
+5207	species510:20719250	464	468	JEC21
+5207	species510:20719250	594	598	JEC21
+5207	species510:20719250	873	875	H99
+5207	species510:20719250	911	913	H99
+5207	species510:20719250	997	1001	JEC21
+5207	species510:20719250	1050	1054	JEC21
+318829	species511:20719251	84	101	Magnaporthe oryzae
+4530	species511:20719251	192	195	rice
+318829	species511:20719251	503	520	Magnaporthe oryzae
+4097	species514:20946589	74	80	tobacco
+4097	species514:20946589	455	461	tobacco
+9606	species515:21376670	702	706	human
+29058	species517:21585579	324	343	Helicoverpa armigera
+9606	species518:21163702	121	125	human
+7159	species522:21114562	76	99	Aedes aegypti mosquitoes
+7159	species522:21114562	278	290	Aedes aegypti
+7159	species522:21114562	769	779	Ae. aegypti
+7159	species522:21114562	995	1005	Ae. aegypti
+171254	species523:20807371	286	304	Citrus volkameriana
+162425	species525:20713166	24	43	Aspergillus nidulans
+162425	species525:20713166	224	243	Aspergillus nidulans
+562	species525:20713166	294	309	Escherichia coli
+4932	species525:20713166	465	469	yeast
+4932	species525:20713166	471	494	Saccharomyces cerevisiae
+162425	species525:20713166	530	540	A. nidulans
+162425	species525:20713166	952	962	A. nidulans
+162425	species525:20713166	1292	1302	A. nidulans
+746128	species525:20713166	1307	1327	Aspergillus fumigatus
+4530	species526:20807375	28	31	rice
+4530	species526:20807375	97	100	Rice
+347	species526:20807375	335	363	Xanthomonas oryzae pv. oryzae
+347	species526:20807375	366	368	Xoo
+4530	species526:20807375	1388	1391	rice
+4530	species526:20807375	1422	1425	rice
+347	species526:20807375	1427	1429	Xoo
+91021	species527:20854480	80	99	Antheraea assamensis
+91021	species527:20854480	159	178	Antheraea assamensis
+466588	species527:20854480	403	418	Persea bombycina
+344080	species527:20854480	465	481	Litsea monopetala
+466588	species527:20854480	937	948	P. bombycina
+344080	species527:20854480	1044	1056	L. monopetala
+91021	species527:20854480	1306	1318	A. assamensis
+7227	species528:20854481	97	119	Drosophila melanogaster
+7227	species528:20854481	1122	1144	Drosophila melanogaster
+34631	species529:20854482	106	133	Rhipicephalus appendiculatus
+34631	species529:20854482	359	386	Rhipicephalus appendiculatus
+6941	species529:20854482	453	487	Rhipicephalus (Boophilus) microplus
+34631	species529:20854482	494	510	R. appendiculatus
+108931	species530:21929695	113	129	brown planthopper
+108931	species530:21929695	132	149	Nilaparvata lugens
+108931	species530:21929695	158	174	brown planthopper
+108931	species530:21929695	177	194	Nilaparvata lugens
+4530	species530:21929695	236	239	rice
+108931	species530:21929695	386	394	N. lugens
+108931	species530:21929695	710	718	N. lugens
+108931	species530:21929695	1032	1040	N. lugens
+108931	species530:21929695	1233	1241	N. lugens
+108931	species530:21929695	1392	1400	N. lugens
+1718	species532:21075922	173	200	Corynebacterium glutamicum R
+1718	species532:21075922	205	232	Corynebacterium glutamicum R
+1681	species533:21037011	28	54	Bifidobacterium bifidum S17
+1681	species533:21037011	129	151	Bifidobacterium bifidum
+1681	species533:21037011	161	174	B. bifidum S17
+3983	species534:20923689	49	55	cassava
+478098	species534:20923689	177	193	Manihot glaziovii
+3983	species534:20923689	212	218	cassava
+137758	species534:20923689	343	368	Cassava brown streak virus
+137758	species534:20923689	371	374	CBSV
+946046	species534:20923689	382	415	Ugandan cassava brown streak virus
+946046	species534:20923689	418	422	UCBSV
+137758	species534:20923689	647	650	CBSV
+946046	species534:20923689	656	660	UCBSV
+946046	species534:20923689	852	856	UCBSV
+137758	species534:20923689	1018	1021	CBSV
+946046	species534:20923689	1027	1031	UCBSV
+3983	species534:20923689	1055	1061	cassava
+137758	species534:20923689	1093	1096	CBSV
+478098	species534:20923689	1141	1157	Manihot glaziovii
+3983	species534:20923689	1253	1259	cassava
+137758	species534:20923689	1290	1293	CBSV
+946046	species534:20923689	1299	1303	UCBSV
+3983	species534:20923689	1401	1407	cassava
+68481	species535:21198588	97	114	Seychelles warbler
+68481	species535:21198588	117	141	Acrocephalus sechellensis
+68481	species535:21198588	921	938	Seychelles warbler
+68481	species535:21198588	941	965	Acrocephalus sechellensis
+68481	species535:21198588	972	989	Seychelles warbler
+505693	species536:20643581	54	67	Chromera velia
+505693	species536:20643581	128	141	Chromera velia
+505693	species536:20643581	221	229	Ch. velia
+505693	species536:20643581	372	380	Ch. velia
+505693	species536:20643581	644	652	Ch. velia
+505693	species536:20643581	695	703	Ch. velia
+234065	species536:20643581	736	750	Colpodella edax
+505693	species536:20643581	824	832	Ch. velia
+505693	species536:20643581	1454	1462	Ch. velia
+12721	species538:21126914	56	58	HIV
+12721	species538:21126914	131	133	HIV
+9606	species538:21126914	266	270	human
+11676	species538:21126914	344	348	HIV-1
+9598	species538:21126914	353	363	chimpanzees
+11676	species538:21126914	434	438	HIV-1
+11676	species538:21126914	818	822	HIV-1
+9606	species538:21126914	875	879	human
+11676	species538:21126914	1151	1155	HIV-1
+34305	species539:20868395	27	41	Lotus japonicus
+34305	species539:20868395	338	352	Lotus japonicus
+381	species539:20868395	470	487	Mesorhizobium loti
+34305	species539:20868395	628	639	L. japonicus
+381	species539:20868395	1080	1086	M. loti
+34305	species539:20868395	1241	1252	L. japonicus
+9606	species540:21037014	703	707	human
+318829	species541:21241815	79	95	Magnaporth oryzae
+318829	species541:21241815	484	501	Magnaporthe oryzae
+4530	species541:21241815	503	514	Oryza sativa
+318829	species541:21241815	641	649	M. oryzae
+318829	species541:21241815	882	890	M. oryzae
+161767	species542:21284624	423	440	Amphiprion percula
+38281	species542:21284624	516	535	Heteractis magnifica
+161767	species542:21284624	590	599	A. percula
+11176	species544:21034772	60	66	class I
+11176	species544:21034772	72	105	class II Newcastle disease viruses
+11176	species544:21034772	180	186	class I
+11176	species544:21034772	192	240	class II strains of Newcastle disease virus (NDV)
+11176	species544:21034772	371	373	NDV
+11176	species544:21034772	599	601	NDV
+11176	species544:21034772	651	653	NDV
+11176	species544:21034772	682	688	class I
+11176	species544:21034772	738	744	class I
+11176	species544:21034772	822	830	NDV09-034
+11176	species544:21034772	869	889	class II NDV isolates
+11176	species544:21034772	1488	1499	NDV isolates
+9606	species545:21034773	236	240	human
+1314	species545:21034773	340	361	Streptococcus pyogenes
+446	species545:21034773	389	410	Legionella pneumophila
+11320	species545:21034773	463	485	human influenza virus A
+12814	species545:21034773	520	546	respiratory syncytial virus
+446	species545:21034773	1038	1051	L. pneumophila
+1314	species545:21034773	1178	1188	S. pyogenes
+11320	species545:21034773	1332	1352	human influenza virus
+12814	species545:21034773	1358	1384	respiratory syncytial virus
+12275	species546:21034774	13	35	Tomato black ring virus
+12275	species546:21034774	156	178	Tomato black ring virus
+12275	species546:21034774	181	184	TBRV
+12275	species546:21034774	422	425	TBRV
+12275	species546:21034774	612	615	TBRV
+11103	species547:21034775	32	34	HCV
+9606	species547:21034775	52	56	human
+11103	species547:21034775	84	86	HCV
+11103	species547:21034775	309	311	HCV
+11103	species547:21034775	353	355	HCV
+11103	species547:21034775	471	473	HCV
+11103	species547:21034775	579	581	HCV
+9606	species547:21034775	1133	1137	human
+9606	species547:21034775	1276	1280	human
+11676	species548:21034776	120	124	HIV-1
+11676	species548:21034776	146	150	HIV-1
+11676	species548:21034776	310	314	HIV-1
+11676	species548:21034776	439	443	HIV-1
+12721	species548:21034776	809	811	HIV
+7852	species549:21366562	889	897	threshers
+263686	species549:21366562	1033	1052	Blacktip reef sharks
+358766	species550:20154331	0	39	Methanoregula boonei gen. nov., sp. nov.
+358766	species550:20154331	172	174	6A8
+358766	species550:20154331	772	774	6A8
+358766	species550:20154331	1030	1069	Methanoregula boonei gen. nov., sp. nov.
+358766	species550:20154331	1090	1109	Methanoregula boonei
+358766	species550:20154331	1114	1116	6A8
+932662	species552:20850479	68	89	mud crab dicistrovirus
+932662	species552:20850479	94	115	Mud crab dicistrovirus
+932662	species552:20850479	118	121	MCDV
+6761	species552:20850479	244	251	mud crab
+932662	species552:20850479	281	284	MCDV
+932662	species552:20850479	333	336	MCDV
+932662	species552:20850479	1063	1066	MCDV
+932662	species552:20850479	1138	1141	MCDV
+932662	species552:20850479	1245	1248	MCDV
+4932	species554:21362491	301	313	S. cerevisiae
+358	species555:21362493	552	575	Agrobacteriumtumefaciens
+27337	species555:21362493	1530	1549	Verticillium dahliae
+247546	species558:21145409	117	142	Trichoderma brevicompactum
+247546	species558:21145409	147	172	Trichoderma brevicompactum
+29916	species558:21145409	343	354	Fusarium spp
+247546	species558:21145409	553	569	T. brevicompactum
+247546	species558:21145409	1111	1127	T. brevicompactum
+4932	species558:21145409	1200	1223	Saccharomyces cerevisiae
+4911	species558:21145409	1226	1248	Kluyveromyces marxianus
+5476	species558:21145409	1251	1266	Candida albicans
+5478	species558:21145409	1269	1284	Candida glabrata
+5482	species558:21145409	1287	1304	Candida tropicalis
+746128	species558:21145409	1310	1330	Aspergillus fumigatus
+247546	species558:21145409	1546	1562	T. brevicompactum
+63402	species559:21145410	784	802	Microsporum gypseum
+5551	species559:21145410	844	862	Trichophyton rubrum
+7137	species559:21145410	1246	1264	Galleria mellonella
+7137	species559:21145410	1267	1274	wax moth
+10469	species562:21477200	0	10	Baculovirus
+10469	species562:21477200	256	266	baculovirus
+749652	species562:21477200	335	356	Chrysodeixis chalcites
+7107	species562:21477200	359	375	Spodoptera exigua
+7111	species562:21477200	381	395	Trichoplusia ni
+10469	species562:21477200	449	459	baculovirus
+10469	species562:21477200	594	606	baculoviruses
+359919	species562:21477200	732	751	Spodoptera litura GV
+9606	species563:21477201	29	33	human
+9627	species563:21477201	381	387	red fox
+9627	species563:21477201	813	821	red foxes
+9627	species563:21477201	1030	1038	red foxes
+9870	species563:21477201	1063	1070	reindeer
+10058	species563:21477201	1270	1274	voles
+9627	species563:21477201	1354	1362	red foxes
+9870	species563:21477201	1716	1723	reindeer
+7137	species565:21907298	0	18	Galleria mellonella
+5507	species565:21907298	65	82	Fusarium oxysporum
+5507	species565:21907298	87	104	Fusarium oxysporum
+9606	species565:21907298	231	236	humans
+5507	species565:21907298	239	287	F. oxysporum f. sp. lycopersici isolate FGSC 9935
+4081	species565:21907298	312	324	tomato plants
+10090	species565:21907298	346	349	mice
+5507	species565:21907298	483	491	FGSC 9935
+7137	species565:21907298	517	532	greater wax moth
+7137	species565:21907298	534	552	Galleria mellonella
+9606	species565:21907298	629	633	human
+7137	species565:21907298	723	735	G. mellonella
+5507	species565:21907298	859	883	F. oxysporum transformant
+7137	species565:21907298	968	980	G. mellonella
+4081	species565:21907298	1101	1106	tomato
+10090	species565:21907298	1128	1132	mouse
+10090	species565:21907298	1213	1217	mouse
+5507	species565:21907298	1329	1340	F. oxysporum
+30195	species567:20977508	109	125	Bombus terrestris
+30195	species567:20977508	130	146	Bombus terrestris
+30195	species567:20977508	949	961	B. terrestris
+12637	species568:20946918	108	113	dengue
+12637	species568:20946918	175	186	dengue virus
+12637	species568:20946918	410	421	dengue virus
+12637	species568:20946918	573	578	dengue
+12637	species568:20946918	1273	1284	dengue virus
+12637	species568:20946918	1329	1334	dengue
+35554	species570:21169487	118	141	Geobacter sulfurreducens
+35554	species570:21169487	171	194	Geobacter sulfurreducens
+35554	species570:21169487	1103	1119	G. sulfurreducens
+302453	species571:20817555	567	591	Baikalospongia intermedia
+394681	species571:20817555	594	613	Baikalospongia recta
+394682	species571:20817555	619	640	Lubomirskia incrustans
+244963	species571:20817555	967	987	Gyrodinium helveticum
+11234	species572:20980517	14	26	measles virus
+9544	species572:20980517	113	126	rhesus monkeys
+11234	species572:20980517	240	252	measles virus
+11234	species572:20980517	255	256	MV
+11234	species572:20980517	685	697	measles virus
+11234	species572:20980517	748	749	MV
+9544	species572:20980517	968	981	rhesus monkeys
+9544	species572:20980517	984	997	Macaca mulatta
+11234	species572:20980517	1045	1046	MV
+11234	species572:20980517	1141	1142	MV
+11234	species572:20980517	1426	1427	MV
+11234	species572:20980517	1547	1548	MV
+11234	species572:20980517	1733	1734	MV
+39416	species573:21094264	147	164	Tuber melanosporum
+39416	species573:21094264	453	470	Tuber melanosporum
+4932	species573:21094264	886	890	yeast
+4932	species573:21094264	1174	1178	yeast
+9606	species574:21047956	122	126	human
+9606	species574:21047956	171	175	human
+4932	species574:21047956	193	216	Saccharomyces cerevisiae
+4932	species574:21047956	404	408	yeast
+4932	species574:21047956	903	907	yeast
+212219	species575:20880022	48	74	giant Australian cuttlefish
+212219	species575:20880022	76	86	Sepia apama
+212219	species575:20880022	710	736	giant Australian cuttlefish
+212219	species575:20880022	738	748	Sepia apama
+588576	species576:20880023	105	115	rainbowfish
+588576	species576:20880023	118	139	Melanotaenia australis
+588576	species576:20880023	364	382	western rainbowfish
+588576	species576:20880023	384	405	Melanotaenia australis
+588576	species576:20880023	759	770	M. australis
+588576	species576:20880023	1039	1050	M. australis
+588576	species576:20880023	1431	1442	M. australis
+588576	species576:20880023	2189	2200	M. australis
+588576	species576:20880023	2276	2287	M. australis
+39416	species577:20965267	56	77	Perigord black truffle
+39416	species577:20965267	193	214	Perigord black truffle
+39416	species577:20965267	217	242	Tuber melanosporum Vittad.
+39416	species577:20965267	532	546	T. melanosporum
+39416	species577:20965267	758	772	T. melanosporum
+39416	species577:20965267	1109	1121	black truffle
+39416	species577:20965267	1185	1199	T. melanosporum
+39416	species577:20965267	1408	1422	T. melanosporum
+39416	species577:20965267	1762	1776	T. melanosporum
+1126575	species578:21802913	1152	1172	Vorticella infusionum
+552	species580:21097611	35	51	Erwinia amylovora
+338565	species580:21097611	122	141	Erwinia tasmaniensis
+552	species580:21097611	215	231	Erwinia amylovora
+552	species580:21097611	365	376	E. amylovora
+338565	species580:21097611	505	524	Erwinia tasmaniensis
+552	species580:21097611	558	569	E. amylovora
+338565	species580:21097611	650	664	E. tasmaniensis
+9337	species581:21155769	78	98	Trichosurus vulpecula
+156133	species582:20674490	374	395	Prasinoderma coloniale
+156133	species582:20674490	560	571	P. coloniale
+156133	species582:20674490	685	696	P. coloniale
+156133	species582:20674490	765	776	P. coloniale
+156133	species582:20674490	796	807	P. coloniale
+1305	species585:21036992	85	107	Streptococcus sanguinis
+1305	species585:21036992	112	134	Streptococcus sanguinis
+1305	species585:21036992	390	401	S. sanguinis
+1305	species585:21036992	1242	1253	S. sanguinis
+86304	species587:21036994	66	94	Saccharophagus degradans 2-40
+1423	species588:21036995	42	58	Bacillus subtilis
+1423	species588:21036995	227	243	Bacillus subtilis
+1148	species589:21036997	179	210	Synechocystis sp. strain PCC6803
+1148	species589:21036997	339	370	Synechocystis sp. strain PCC6803
+208216	species591:21037002	35	43	HTCC2503T
+208216	species591:21037002	48	71	Parvularcula bermudensis
+208216	species591:21037002	245	268	Parvularcula bermudensis
+208216	species591:21037002	425	460	Parvularcula bermudensis HTCC2503(T)
+1423	species592:21037003	88	104	Bacillus subtilis
+1423	species592:21037003	223	239	Bacillus subtilis
+562	species593:21037004	185	200	Escherichia coli
+1719	species594:21037006	28	65	Corynebacterium pseudotuberculosis I19
+9913	species594:21037006	93	95	cow
+1719	species594:21037006	205	242	Corynebacterium pseudotuberculosis I19
+9913	species594:21037006	276	278	cow
+562	species595:21037007	62	77	Escherichia coli
+562	species595:21037007	153	168	Escherichia coli
+562	species596:21037010	113	128	Escherichia coli
+28901	species596:21037010	134	152	Salmonella enterica
+562	species596:21037010	161	176	Escherichia coli
+562	species596:21037010	380	402	K-12 strains of E. coli
+562	species596:21037010	987	998	E. coli K-12
+562	species596:21037010	1102	1105	K-12
+562	species596:21037010	1236	1242	E. coli
+562	species596:21037010	1277	1283	E. coli
+562	species596:21037010	1325	1333	E. coli B
+28901	species596:21037010	1341	1359	Salmonella enterica
+562	species596:21037010	1556	1567	E. coli K-12
+28901	species597:21075923	89	107	Salmonella enterica
+28901	species597:21075923	691	709	Salmonella enterica
+382	species598:21075924	105	126	Sinorhizobium meliloti
+382	species598:21075924	326	347	Sinorhizobium meliloti
+358	species598:21075924	389	413	Agrobacterium tumefaciens
+29449	species598:21075924	416	429	Rhizobium etli
+381	species598:21075924	436	453	Mesorhizobium loti
+382	species598:21075924	676	686	S. meliloti
+562	species598:21075924	698	713	Escherichia coli
+382	species598:21075924	1196	1206	S. meliloti
+381	species598:21075924	1262	1268	M. loti
+29449	species598:21075924	1320	1326	R. etli
+358	species598:21075924	1332	1345	A. tumefaciens
+313603	species599:21037013	35	42	HTCC2170
+313603	species599:21037013	126	133	HTCC2170
+56765	species599:21037013	280	295	marine bacterium
+313603	species599:21037013	298	327	Maribacter sp. strain HTCC2170
+313603	species599:21037013	341	348	HTCC2170
+665133	species600:20154326	0	28	Flavobacterium ponti sp. nov.
+665133	species600:20154326	170	176	GSW-R14
+665133	species600:20154326	257	263	GSW-R14
+665133	species600:20154326	421	427	GSW-R14
+206041	species600:20154326	478	503	Flavobacterium gelidilacus
+665133	species600:20154326	567	573	GSW-R14
+206041	species600:20154326	632	645	F. gelidilacus
+665133	species600:20154326	745	751	GSW-R14
+665133	species600:20154326	836	842	GSW-R14
+206041	species600:20154326	870	883	F. gelidilacus
+665133	species600:20154326	929	935	GSW-R14
+206041	species600:20154326	987	1000	F. gelidilacus
+665133	species600:20154326	1032	1038	GSW-R14
+206041	species600:20154326	1071	1084	F. gelidilacus
+665133	species600:20154326	1257	1263	GSW-R14
+665133	species600:20154326	1359	1387	Flavobacterium ponti sp. nov.
+665133	species600:20154326	1421	1427	GSW-R14
+696763	species601:20154327	0	44	Thermasporomyces composti gen. nov., sp. nov.
+696763	species601:20154327	1573	1617	Thermasporomyces composti gen. nov., sp. nov.
+696763	species601:20154327	1679	1690	JCM 16421(T)
+443156	species602:20154328	1362	1392	Phycicoccus dokdonensis DS-8(T)
+433644	species602:20154328	1398	1433	Phycicoccus bigeumensis DSM 19264(T)
+28901	species603:21075929	109	147	Salmonella enterica serovar Typhimurium
+28901	species603:21075929	230	268	Salmonella enterica serovar Typhimurium
+4097	species605:21227486	1163	1169	tobacco
+9606	species606:21227489	616	620	human
+41139	species607:22182605	525	552	Coccinella septempunctata L.
+64696	species607:22182605	558	595	Hippodamia convergens Guerin-Meneville
+881457	species607:22182605	621	643	Geocoris bullatus (Say)
+881457	species607:22182605	884	891	Geocoris
+881457	species607:22182605	1030	1037	Geocoris
+881457	species607:22182605	1198	1205	Geocoris
+881457	species607:22182605	1480	1487	Geocoris
+5476	species609:21820070	78	88	C. albicans
+5476	species609:21820070	211	226	Candida albicans
+5476	species609:21820070	391	401	C. albicans
+4932	species609:21820070	474	478	yeast
+4932	species609:21820070	480	503	Saccharomyces cerevisiae
+9606	species610:21227494	1500	1504	human
+40559	species611:21839848	101	116	Botrytis cinerea
+4932	species611:21839848	302	306	yeast
+4932	species611:21839848	308	331	Saccharomyces cerevisiae
+40559	species611:21839848	526	541	Botrytis cinerea
+4932	species611:21839848	1274	1278	yeast
+40559	species611:21839848	1334	1343	B. cinerea
+9606	species612:21227499	0	4	Human
+9606	species612:21227499	69	73	human
+9606	species612:21227499	1009	1013	human
+9606	species612:21227499	1528	1532	human
+12721	species613:21227500	467	469	HIV
+12721	species613:21227500	625	627	HIV
+37124	species613:21227500	913	929	Chikungunya virus
+12092	species613:21227500	1050	1060	hepatitis A
+12461	species613:21227500	1066	1074	E viruses
+12721	species614:20980521	163	184	human immunodeficiency
+11103	species614:20980521	190	208	hepatitis C viruses
+11103	species614:20980521	296	298	HCV
+12721	species614:20980521	328	355	human immunodeficiency virus
+12721	species614:20980521	358	360	HIV
+11103	species614:20980521	435	437	HCV
+11103	species614:20980521	523	525	HCV
+12721	species614:20980521	714	716	HIV
+11103	species614:20980521	737	739	HCV
+12721	species614:20980521	741	743	HIV
+12721	species614:20980521	846	848	HIV
+11103	species614:20980521	943	945	HCV
+11103	species614:20980521	964	966	HCV
+12721	species614:20980521	1029	1031	HIV
+12721	species614:20980521	1098	1100	HIV
+12721	species614:20980521	1315	1317	HIV
+11103	species614:20980521	2271	2273	HCV
+12721	species614:20980521	2275	2277	HIV
+931554	species615:21112814	108	123	Copromyxa protea
+931554	species615:21112814	476	484	C. protea
+9913	species615:21112814	586	591	cattle
+931554	species615:21112814	661	669	C. protea
+931554	species615:21112814	885	900	Copromyxa protea
+239731	species615:21112814	941	968	Hartmannella cantabrigiensis
+303301	species615:21112814	1006	1030	Hartmannella sp. 4/3Da/10
+239731	species615:21112814	1064	1081	H. cantabrigiensis
+239731	species615:21112814	1209	1226	C. cantabrigiensis
+303301	species615:21112814	1262	1270	C. protea
+39416	species617:20964691	0	17	Tuber melanosporum
+39416	species617:20964691	207	224	Tuber melanosporum
+39416	species617:20964691	295	308	black truffles
+39416	species617:20964691	434	440	truffle
+39416	species617:20964691	567	573	truffle
+39416	species617:20964691	1416	1430	T. melanosporum
+39416	species617:20964691	1471	1477	truffle
+10090	species620:21401592	576	586	house mouse
+10090	species620:21401592	589	602	Mus domesticus
+10090	species620:21401592	824	828	mouse
+10090	species620:21401592	858	862	mouse
+3818	species620:21401592	956	961	peanut
+3818	species620:21401592	1051	1056	peanut
+10090	species620:21401592	1380	1383	mice
+10090	species620:21401592	1566	1570	Mouse
+10090	species620:21401592	1898	1901	mice
+137991	species621:21219328	336	345	Song Wrens
+137991	species621:21219328	348	372	Cyphorhinus phaeocephalus
+137991	species621:21219328	651	660	Song Wrens
+317	species623:20854394	45	75	Pseudomonas syringae pv. tomato
+4081	species623:20854394	108	113	tomato
+317	species623:20854394	136	173	Pseudomonas syringae pv. tomato DC3000
+317	species623:20854394	176	185	Pst DC3000
+4081	species623:20854394	248	253	tomato
+317	species623:20854394	434	443	Pst DC3000
+4100	species623:20854394	637	657	Nicotiana benthamiana
+4081	species623:20854394	862	867	tomato
+317	species623:20854394	1139	1148	Pst DC3000
+317	species623:20854394	1242	1251	Pst DC3000
+4081	species623:20854394	1428	1433	tomato
+7159	species624:21699593	38	50	Aedes aegypti
+7159	species624:21699593	403	415	Aedes aegypti
+7159	species624:21699593	1132	1142	Ae. aegypti
+12287	species624:21699593	1322	1341	Flock House virus B2
+7159	species624:21699593	1352	1362	Ae. aegypti
+7159	species624:21699593	1527	1537	Ae. aegypti
+7165	species625:21699594	42	58	Anopheles gambiae
+7165	species625:21699594	124	140	Anopheles gambiae
+7165	species625:21699594	403	413	An. gambiae
+7165	species625:21699594	1224	1234	An. gambiae
+360638	species626:21699595	46	73	Cotesia plutellae bracovirus
+360638	species626:21699595	461	488	Cotesia plutellae bracovirus
+360638	species626:21699595	491	494	CpBV
+217443	species626:21699595	516	527	C. plutellae
+51655	species626:21699595	576	594	Plutella xylostella
+9986	species626:21699595	726	731	rabbit
+46612	species628:20831730	868	878	bull sharks
+46612	species628:20831730	881	899	Carcharhinus leucas
+7819	species628:20831730	906	917	tiger sharks
+7819	species628:20831730	920	936	Galeocerdo cuvier
+7819	species628:20831730	1044	1055	tiger sharks
+7819	species628:20831730	1203	1214	tiger sharks
+46612	species628:20831730	1280	1290	bull sharks
+7819	species628:20831730	1651	1662	tiger sharks
+46612	species628:20831730	1668	1678	bull sharks
+52650	species629:21054381	148	163	willow ptarmigan
+52650	species629:21054381	233	248	willow ptarmigan
+52650	species629:21054381	250	264	Lagopus lagopus
+120794	species629:21054381	2101	2110	gyrfalcons
+120794	species629:21054381	2112	2127	Falco rusticolus
+120794	species629:21054381	2155	2164	gyrfalcons
+150705	species630:20964684	639	662	Dendropsophus ebraccatus
+318829	species631:21406243	75	92	Magnaporthe oryzae
+318829	species631:21406243	499	516	Magnaporthe oryzae
+4530	species631:21406243	655	658	rice
+4932	species631:21406243	948	971	Saccharomyces cerevisiae
+1358	species632:21115655	82	99	Lactococcus lactis
+1358	species632:21115655	148	165	Lactococcus lactis
+1358	species632:21115655	248	253	IL1403
+1358	species632:21115655	1237	1245	L. lactis
+30195	species633:21615578	58	74	Bombus terrestris
+30195	species633:21615578	469	485	Bombus terrestris
+288676	species633:21615578	539	553	Crithidia bombi
+288676	species633:21615578	762	769	C. bombi
+288676	species633:21615578	897	904	C. bombi
+959	species634:21148724	39	64	Bdellovibrio bacteriovorus
+959	species634:21148724	197	222	Bdellovibrio bacteriovorus
+666	species635:21115657	10	24	vibrio cholerae
+666	species635:21115657	200	214	Vibrio cholerae
+666	species635:21115657	812	822	V. cholerae
+666	species635:21115657	1160	1170	V. cholerae
+666	species635:21115657	1579	1589	V. cholerae
+959	species636:21148728	36	61	Bdellovibrio bacteriovorus
+959	species636:21148728	180	205	Bdellovibrio bacteriovorus
+959	species636:21148728	490	501	Bdellovibrio
+959	species636:21148728	542	553	Bdellovibrio
+959	species636:21148728	643	654	Bdellovibrio
+959	species636:21148728	665	676	Bdellovibrio
+959	species636:21148728	796	817	B. bacteriovorus HD100
+959	species636:21148728	1232	1243	Bdellovibrio
+959	species636:21148728	1874	1885	Bdellovibrio
+562	species637:21148729	64	79	Escherichia coli
+4530	species638:20840506	76	79	rice
+4530	species638:20840506	155	158	rice
+4530	species638:20840506	161	172	Oryza sativa
+4530	species638:20840506	175	188	cv Cho-Ko-Koku
+4932	species638:20840506	852	856	yeast
+4932	species638:20840506	912	916	yeast
+4932	species638:20840506	1047	1051	yeast
+4530	species638:20840506	1184	1194	rice plants
+4530	species638:20840506	1493	1496	rice
+28901	species639:21148731	33	51	Salmonella enterica
+562	species640:21148732	70	85	Escherichia coli
+562	species640:21148732	108	123	Escherichia coli
+562	species640:21148732	126	129	EHEC
+562	species640:21148732	253	259	E. coli
+562	species640:21148732	337	340	EHEC
+9606	species640:21148732	572	576	human
+562	species640:21148732	619	630	EHEC O157:H7
+562	species640:21148732	864	875	EHEC O157:H7
+562	species640:21148732	1613	1619	E. coli
+562	species640:21148732	1702	1708	O157:H7
+1773	species641:21148733	30	55	Mycobacterium tuberculosis
+1773	species641:21148733	138	163	Mycobacterium tuberculosis
+1773	species641:21148733	425	439	M. tuberculosis
+1773	species641:21148733	1166	1180	M. tuberculosis
+4530	species642:20840510	79	82	rice
+4530	species642:20840510	177	180	rice
+4530	species642:20840510	183	194	Oryza sativa
+4530	species642:20840510	231	234	rice
+4530	species642:20840510	346	356	rice plants
+4530	species642:20840510	1598	1601	rice
+10090	species644:21349440	360	364	mouse
+10090	species645:21349442	1221	1225	mouse
+9783	species646:21855306	81	95	Asian elephants
+9783	species646:21855306	185	199	Asian elephants
+692885	species646:21855306	772	782	T. selenica
+693421	species646:21855306	1239	1251	Raabena bella
+164328	species647:21272658	40	59	Phytophthora ramorum
+164328	species647:21272658	149	168	Phytophthora ramorum
+38865	species648:20955221	689	703	Quercus petraea
+13249	species649:20958806	67	83	Rhodnius prolixus
+13249	species649:20958806	152	168	Rhodnius prolixus
+13249	species649:20958806	476	486	R. prolixus
+13249	species649:20958806	678	688	R. prolixus
+9606	species649:20958806	966	970	human
+126270	species650:20958303	69	86	Alliaria petiolata
+126270	species650:20958303	502	519	Alliaria petiolata
+126270	species650:20958303	594	605	A. petiolata
+126270	species650:20958303	879	890	A. petiolata
+459250	species651:20708960	952	965	Colpoda aspera
+138949	species653:20974179	451	467	coxsackievirus A9
+138949	species653:20974179	470	473	CAV9
+138949	species653:20974179	814	817	CAV9
+138949	species653:20974179	994	997	CAV9
+138949	species653:20974179	1115	1118	CAV9
+138949	species653:20974179	1217	1220	CAV9
+648567	species654:20139281	0	29	Streptococcus ursoris sp. nov.
+1341	species654:20139281	538	567	Streptococcus ratti ATCC 19645
+1341	species654:20139281	716	723	S. ratti
+648567	species654:20139281	986	1015	Streptococcus ursoris sp. nov.
+648567	species654:20139281	1036	1045	S. ursoris
+648567	species654:20139281	1050	1060	NUM 1615(T)
+12267	species655:20980498	661	692	Red clover necrotic mosaic virus
+12267	species655:20980498	695	699	RCNMV
+12267	species655:20980498	703	707	RCNMV
+12267	species655:20980498	1328	1332	RCNMV
+337051	species657:20980500	27	53	human papillomavirus type 8
+337051	species657:20980500	109	146	Beta human papillomavirus (HPV) type 8
+337051	species657:20980500	356	369	genus Beta HPV
+9606	species657:20980500	709	713	human
+337051	species657:20980500	736	739	HPV8
+337051	species657:20980500	834	837	HPV8
+9606	species657:20980500	936	940	human
+337051	species657:20980500	968	971	HPV8
+337051	species657:20980500	1067	1070	HPV8
+337041	species657:20980500	1138	1142	HPV16
+337051	species657:20980500	1149	1152	HPV8
+9606	species657:20980500	1488	1492	human
+337051	species657:20980500	1647	1650	HPV8
+10407	species658:20950650	47	63	hepatitis B virus
+10407	species658:20950650	135	151	hepatitis B virus
+10407	species658:20950650	154	156	HBV
+10407	species658:20950650	421	423	HBV
+50298	species659:20854397	783	797	Rumex palustris
+12092	species660:20971134	69	85	hepatitis A virus
+12092	species660:20971134	147	163	hepatitis A virus
+12092	species660:20971134	166	168	HAV
+9031	species660:20971134	192	195	hens
+12092	species660:20971134	242	244	HAV
+12092	species660:20971134	258	260	HAV
+12092	species660:20971134	497	499	HAV
+12092	species660:20971134	836	838	HAV
+12092	species660:20971134	915	917	HAV
+12092	species660:20971134	1022	1024	HAV
+12092	species660:20971134	1118	1120	HAV
+9031	species660:20971134	1131	1134	hens
+12092	species660:20971134	1300	1316	hepatitis A virus
+1765	species662:21097608	31	49	Mycobacterium bovis
+1765	species662:21097608	136	154	Mycobacterium bovis
+9913	species662:21097608	188	193	cattle
+1765	species662:21097608	275	282	M. bovis
+1765	species662:21097608	330	337	M. bovis
+1765	species662:21097608	514	521	M. bovis
+1765	species662:21097608	701	708	M. bovis
+9913	species662:21097608	992	997	cattle
+1765	species662:21097608	1066	1073	M. bovis
+1765	species662:21097608	1178	1185	M. bovis
+9913	species662:21097608	1209	1214	cattle
+1423	species665:21097613	88	104	Bacillus subtilis
+1423	species665:21097613	870	886	Bacillus subtilis
+562	species665:21097613	1365	1380	Escherichia coli
+2104	species667:21097617	85	105	Mycoplasma pneumoniae
+2104	species667:21097617	110	130	Mycoplasma pneumoniae
+9606	species667:21097617	152	156	human
+2104	species667:21097617	348	357	mycoplasma
+13191	species668:21815956	95	107	pink bollworm
+13191	species668:21815956	110	133	Pectinophora gossypiella
+13191	species668:21815956	161	184	Pectinophora gossypiella
+1428	species668:21815956	237	258	Bacillus thuringiensis
+1428	species668:21815956	261	262	Bt
+9031	species668:21815956	363	369	chicken
+259256	species669:20880021	18	36	long-tailed finches
+44316	species669:20880021	80	93	Gouldian finch
+44316	species669:20880021	363	376	Gouldian finch
+44316	species669:20880021	379	396	Erythrura gouldiae
+259256	species669:20880021	413	429	long-tailed finch
+259256	species669:20880021	432	450	Poephila acuticauda
+44316	species669:20880021	650	657	Gouldian
+259256	species669:20880021	668	686	long-tailed finches
+44316	species669:20880021	741	754	Gouldian finch
+259256	species669:20880021	1005	1023	long-tailed finches
+44316	species669:20880021	1158	1171	Gouldian finch
+1423	species670:21097623	104	120	Bacillus subtilis
+1423	species670:21097623	290	306	Bacillus subtilis
+1423	species670:21097623	416	426	B. subtilis
+76058	species671:20880024	590	609	Somateria mollissima
+562	species672:21097625	75	90	Escherichia coli
+562	species672:21097625	98	113	Escherichia coli
+562	species672:21097625	1029	1045	FtsZ-I374V strain
+90979	species673:21514396	608	630	Cochliobolus luttrellii
+5016	species673:21514396	718	744	Cochliobolus heterostrophus
+5016	species673:21514396	817	833	C. heterostrophus
+90979	species673:21514396	892	904	C. luttrellii
+90979	species673:21514396	952	964	C. luttrellii
+90979	species673:21514396	1007	1019	C. luttrellii
+5016	species673:21514396	1048	1064	C. heterostrophus
+90979	species673:21514396	1081	1093	C. luttrellii
+5016	species673:21514396	1122	1138	C. heterostrophus
+90979	species673:21514396	1249	1261	C. luttrellii
+90979	species673:21514396	1306	1318	C. luttrellii
+5016	species673:21514396	1347	1363	C. heterostrophus
+90979	species673:21514396	1411	1423	C. luttrellii
+90979	species673:21514396	1566	1578	C. luttrellii
+5016	species673:21514396	1607	1623	C. heterostrophus
+90979	species673:21514396	1674	1686	C. luttrellii
+90979	species673:21514396	1766	1778	C. luttrellii
+5016	species673:21514396	1811	1827	C. heterostrophus
+90979	species673:21514396	2280	2292	C. luttrellii
+5016	species673:21514396	2357	2373	C. heterostrophus
+37329	species674:21097631	62	79	Nocardia farcinica
+37329	species674:21097631	296	323	Nocardia farcinica IFM 10152
+37329	species674:21097631	1376	1387	N. farcinica
+9606	species675:20840608	1586	1590	human
+7091	species677:21793956	116	128	silkworm moth
+7091	species677:21793956	131	141	Bombyx mori
+7091	species677:21793956	271	283	silkworm moth
+7091	species677:21793956	286	296	Bombyx mori
+7091	species677:21793956	517	524	silkworm
+7091	species677:21793956	828	835	silkworm
+7227	species678:21585578	42	64	Drosophila melanogaster
+40977	species681:21269677	262	268	tobacco
+9606	species682:21269682	1341	1345	human
+5755	species684:20650684	69	92	Acanthamoeba castellanii
+5755	species684:20650684	191	204	A. castellanii
+5755	species684:20650684	508	521	A. castellanii
+9606	species684:20650684	735	739	human
+5755	species684:20650684	786	799	A. castellanii
+5755	species684:20650684	886	899	A. castellanii
+3704	species684:20650684	963	973	Horseradish
+5755	species684:20650684	1058	1071	A. castellanii
+5755	species684:20650684	1162	1175	A. castellanii
+5755	species684:20650684	1308	1321	A. castellanii
+28314	species685:20951744	102	128	Aleutian mink disease virus
+28314	species685:20951744	133	166	Aleutian mink disease virus (AMDV)
+452646	species685:20951744	249	252	mink
+28314	species685:20951744	402	405	AMDV
+28314	species685:20951744	716	719	AMDV
+452646	species685:20951744	841	844	Mink
+452646	species685:20951744	1054	1057	mink
+28314	species685:20951744	1311	1322	AMDV strains
+28314	species685:20951744	1331	1342	AMDV strains
+51453	species686:21220037	146	163	Trichoderma reesei
+51453	species686:21220037	166	182	Hypocrea jecorina
+51453	species686:21220037	318	335	Trichoderma reesei
+51453	species686:21220037	338	354	Hypocrea jecorina
+111792	species687:20887752	33	86	infectious hypodermal and hematopoietic necrosis virus
+111792	species687:20887752	171	224	Infectious hypodermal and hematopoietic necrosis virus
+111792	species687:20887752	227	231	IHHNV
+29019	species687:20887752	291	310	Penaeus stylirostris
+6689	species687:20887752	368	383	Penaeus vannamei
+111792	species687:20887752	633	637	IHHNV
+111792	species687:20887752	1088	1092	IHHNV
+670155	species688:20173002	0	20	Litoreibacter albidus
+670154	species688:20173002	46	68	Litoreibacter janthinus
+670155	species688:20173002	227	234	KMM 3851
+670154	species688:20173002	243	250	KMM 3842
+335737	species688:20173002	312	328	Umbonium costatum
+670155	species688:20173002	498	505	KMM 3851
+670154	species688:20173002	514	521	KMM 3842
+670155	species688:20173002	984	991	KMM 3851
+670154	species688:20173002	1041	1048	KMM 3842
+670155	species688:20173002	1236	1243	KMM 3851
+670154	species688:20173002	1264	1271	KMM 3842
+670155	species688:20173002	1389	1396	KMM 3851
+670154	species688:20173002	1405	1412	KMM 3842
+670155	species688:20173002	1541	1561	Litoreibacter albidus
+670155	species688:20173002	1585	1592	KMM 3851
+670154	species688:20173002	1647	1669	Litoreibacter janthinus
+670154	species688:20173002	1693	1700	KMM 3842
+386456	species689:20173003	173	177	M2(T)
+386456	species689:20173003	327	331	M2(T)
+386456	species689:20173003	550	554	M2(T)
+408577	species689:20173003	635	665	Methanobacterium veterum MK4(T)
+2161	species689:20173003	671	695	Methanobacterium bryantii
+2161	species689:20173003	697	706	DSM 863(T)
+386456	species689:20173003	827	831	M2(T)
+386456	species689:20173003	880	884	M2(T)
+386456	species689:20173003	981	985	M2(T)
+545537	species690:20173005	0	18	Thiomonas islandica
+86027	species690:20173005	88	106	betaproteobacterium
+545537	species690:20173005	207	211	6C(T)
+545537	species690:20173005	941	945	6C(T)
+86027	species690:20173005	1000	1017	Betaproteobacteria
+926	species690:20173005	1050	1069	Thiomonas intermedia
+926	species690:20173005	1071	1082	DSM 18155(T)
+928	species690:20173005	1088	1110	Thiomonas perometabolis
+928	species690:20173005	1112	1123	DSM 18570(T)
+545537	species690:20173005	1163	1167	6C(T)
+926	species690:20173005	1173	1192	Thiomonas intermedia
+926	species690:20173005	1194	1205	DSM 18155(T)
+928	species690:20173005	1211	1233	Thiomonas perometabolis
+928	species690:20173005	1235	1246	DSM 18570(T)
+545537	species690:20173005	1363	1367	6C(T)
+545537	species690:20173005	1443	1461	Thiomonas islandica
+545537	species690:20173005	1504	1508	6C(T)
+545537	species690:20173005	1512	1523	DSM 21436(T)
+545537	species690:20173005	1526	1537	JCM 16107(T)
+444603	species691:20854479	617	637	Phyllotreta striolata
+7227	species691:20854479	796	818	Drosophila melanogaster
+444603	species691:20854479	1081	1092	P. striolata
+444603	species691:20854479	1519	1530	P. striolata
+576944	species692:20173008	0	27	Anoxybacillus tengchongensis
+651866	species692:20173008	42	66	Anoxybacillus eryuanensis
+576944	species692:20173008	204	207	T-11
+651866	species692:20173008	216	220	E-112
+576944	species692:20173008	421	424	T-11
+651866	species692:20173008	553	557	E-112
+576944	species692:20173008	673	676	T-11
+651866	species692:20173008	685	689	E-112
+576944	species692:20173008	1046	1049	T-11
+651866	species692:20173008	1058	1062	E-112
+576944	species692:20173008	1232	1235	T-11
+651866	species692:20173008	1244	1248	E-112
+576944	species692:20173008	1318	1321	T-11
+651866	species692:20173008	1330	1334	E-112
+576944	species692:20173008	1398	1425	Anoxybacillus tengchongensis
+576944	species692:20173008	1449	1452	T-11
+651866	species692:20173008	1496	1520	Anoxybacillus eryuanensis
+651866	species692:20173008	1544	1548	E-112
+607711	species693:20173010	0	20	Neisseria wadsworthii
+607712	species693:20173010	35	54	Neisseria shayeganii
+493	species693:20173010	405	419	Neisseria canis
+194197	species693:20173010	422	431	N. dentiae
+326523	species693:20173010	434	447	N. zoodegmatis
+326522	species693:20173010	450	462	N. animaloris
+28091	species693:20173010	468	477	N. weaveri
+194197	species693:20173010	982	991	N. dentiae
+267212	species693:20173010	994	1009	N. bacilliformis
+493	species693:20173010	1015	1022	N. canis
+607711	species693:20173010	1232	1252	Neisseria wadsworthii
+607711	species693:20173010	1276	1279	9715
+607712	species693:20173010	1318	1337	Neisseria shayeganii
+607712	species693:20173010	1361	1363	871
+1313	species695:21272792	36	47	pneumococcal
+1313	species695:21272792	101	112	pneumococcal
+1313	species695:21272792	243	254	pneumococcal
+1313	species695:21272792	582	593	pneumococcal
+1313	species695:21272792	793	804	pneumococcal
+1313	species695:21272792	1349	1360	pneumococcal
+1313	species695:21272792	1526	1537	pneumococcal
+562	species697:21131485	44	81	Escherichia coli O84:H4 strain 4795/97
+562	species697:21131485	113	128	Escherichia coli
+562	species697:21131485	131	134	STEC
+562	species697:21131485	257	260	STEC
+562	species697:21131485	636	642	E. coli
+562	species697:21131485	811	836	STEC O84:H4 strain 4795/97
+33952	species698:21131487	118	138	Acetobacterium woodii
+33952	species698:21131487	178	198	Acetobacterium woodii
+562	species698:21131487	1073	1088	Escherichia coli
+1392	species699:21131488	0	17	Bacillus anthracis
+1392	species699:21131488	68	85	Bacillus anthracis
+1423	species699:21131488	155	171	Bacillus subtilis
+1423	species699:21131488	208	218	B. subtilis
+1392	species699:21131488	290	301	B. anthracis
+1392	species699:21131488	411	422	B. anthracis
+1423	species699:21131488	463	473	B. subtilis
+1392	species699:21131488	524	535	B. anthracis
+1392	species699:21131488	607	618	B. anthracis
+1423	species699:21131488	624	634	B. subtilis
+1392	species699:21131488	655	666	B. anthracis
+1423	species699:21131488	704	714	B. subtilis
+1392	species699:21131488	837	848	B. anthracis
+1396	species699:21131488	963	991	Bacillus cereus group species
+1396	species699:21131488	1170	1178	B. cereus
+1392	species699:21131488	1184	1195	B. anthracis
+1392	species699:21131488	1277	1288	B. anthracis
+5518	species700:21397712	65	84	Fusarium graminearum
+9606	species700:21397712	109	113	human
+5518	species700:21397712	184	203	Fusarium graminearum
+9606	species700:21397712	405	409	human
+4565	species700:21397712	1178	1182	wheat
+34	species701:21131490	146	163	Myxococcus xanthus
+34	species701:21131490	297	314	Myxococcus xanthus
+412963	species703:21131495	28	51	Burkholderia rhizoxinica
+58291	species703:21131495	73	92	Rhizopus microsporus
+412963	species703:21131495	97	120	Burkholderia rhizoxinica
+58291	species703:21131495	181	200	Rhizopus microsporus
+412963	species703:21131495	472	494	B. rhizoxinica HKI 0454
+986	species704:21131497	0	24	Flavobacterium johnsoniae
+986	species704:21131497	132	156	Flavobacterium johnsoniae
+837	species704:21131497	876	899	Porphyromonas gingivalis
+837	species704:21131497	987	999	P. gingivalis
+986	species704:21131497	1008	1020	F. johnsoniae
+986	species704:21131497	1174	1186	F. johnsoniae
+206113	species705:21521137	58	80	Anopheles peditaeniatus
+206113	species705:21521137	123	145	Anopheles peditaeniatus
+89462	species705:21521137	235	241	buffalo
+206113	species705:21521137	935	951	An. peditaeniatus
+57298	species707:21521144	64	72	stink bug
+57298	species707:21521144	183	191	stink bug
+4944	species708:21558012	101	127	Saccharomycopsis fibuligera
+4944	species708:21558012	153	179	Saccharomycopsis fibuligera
+4944	species708:21558012	549	561	S. fibuligera
+4944	species708:21558012	1111	1123	S. fibuligera
+8032	species709:21198589	528	538	brown trout
+8032	species709:21198589	541	552	Salmo trutta
+8036	species709:21198589	625	636	Arctic charr
+8036	species709:21198589	639	656	Salvelinus alpinus
+8032	species709:21198589	787	797	brown trout
+8036	species709:21198589	820	831	Arctic charr
+8032	species709:21198589	837	847	brown trout
+8032	species709:21198589	995	1005	brown trout
+8036	species709:21198589	1008	1019	Arctic charr
+8032	species709:21198589	1125	1135	brown trout
+8036	species709:21198589	1138	1149	Arctic charr
+8032	species709:21198589	1293	1303	brown trout
+8032	species709:21198589	1436	1446	brown trout
+8036	species709:21198589	1468	1479	Arctic charr
+8032	species709:21198589	1536	1546	brown trout
+8032	species709:21198589	1571	1581	brown trout
+8032	species709:21198589	1668	1678	brown trout
+8036	species709:21198589	1684	1695	Arctic charr
+8032	species709:21198589	1709	1719	brown trout
+8036	species709:21198589	1801	1812	Arctic charr
+8036	species709:21198589	1830	1834	charr
+5061	species710:21176790	45	61	Aspergillus niger
+5061	species710:21176790	200	216	Aspergillus niger
+5061	species710:21176790	514	521	A. niger
+5061	species710:21176790	629	643	A. niger strain
+5061	species710:21176790	678	702	A. niger ATCC strain 1015
+746128	species710:21176790	839	859	Aspergillus fumigatus
+5061	species710:21176790	1023	1034	A. nigeralbA
+5061	species710:21176790	1190	1197	A. niger
+5061	species710:21176790	1238	1245	A. niger
+562	species712:21115656	66	81	Escherichia coli
+562	species712:21115656	183	198	Escherichia coli
+10245	species715:20980497	2	15	vaccinia virus
+10245	species715:20980497	396	409	vaccinia virus
+10245	species715:20980497	412	413	VV
+12643	species715:20980497	420	435	ectromelia virus
+10245	species715:20980497	725	738	vaccinia virus
+10245	species715:20980497	1248	1279	vaccinia virus strain Copenhagen
+10245	species715:20980497	1282	1286	VVCop
+10245	species715:20980497	1693	1706	vaccinia virus
+10245	species715:20980497	1849	1862	vaccinia virus
+10245	species715:20980497	1904	1917	vaccinia virus
+13249	species716:21906194	56	72	Rhodnius prolixus
+5693	species716:21906194	122	138	Trypanosoma cruzi
+13249	species716:21906194	276	292	Rhodnius prolixus
+562	species716:21906194	933	948	Escherichia coli
+5693	species716:21906194	1083	1099	Trypanosoma cruzi
+9606	species716:21906194	1106	1110	human
+13249	species716:21906194	1136	1146	R. prolixus
+230143	species717:20139283	0	17	Scardovia wiggsiae
+9606	species717:20139283	47	51	human
+78259	species717:20139283	140	158	Scardovia inopinata
+9606	species717:20139283	242	246	human
+78259	species717:20139283	497	515	Scardovia inopinata
+230143	species717:20139283	1138	1155	Scardovia wiggsiae
+683041	species718:20139284	0	15	Larkinella bovis
+332158	species718:20139284	124	143	Larkinella insperata
+683041	species718:20139284	208	214	M2T2B15
+683041	species718:20139284	609	615	M2T2B15
+332158	species718:20139284	648	667	Larkinella insperata
+683041	species718:20139284	1105	1111	M2T2B15
+683041	species718:20139284	1227	1233	M2T2B15
+683041	species718:20139284	1309	1324	Larkinella bovis
+683041	species718:20139284	1367	1373	M2T2B15
+332158	species718:20139284	1464	1483	Larkinella insperata
+9606	species719:21296405	125	129	human
+10535	species720:20980503	0	9	Adenovirus
+129951	species720:20980503	67	83	Adenovirus type 5
+129951	species720:20980503	86	88	Ad5
+129951	species720:20980503	461	463	Ad5
+9606	species720:20980503	503	507	human
+10090	species720:20980503	572	576	mouse
+129951	species720:20980503	639	641	Ad5
+10535	species720:20980503	940	941	Ad
+129951	species720:20980503	969	971	Ad5
+10535	species720:20980503	1069	1070	Ad
+129951	species720:20980503	1098	1100	Ad5
+12145	species721:20962095	461	484	Tomato bushy stunt virus
+12145	species721:20962095	487	490	TBSV
+4932	species721:20962095	498	521	Saccharomyces cerevisiae
+12145	species721:20962095	823	826	TBSV
+4932	species721:20962095	835	839	yeast
+4932	species721:20962095	880	884	yeast
+12145	species721:20962095	908	911	TBSV
+12145	species721:20962095	940	943	TBSV
+4932	species721:20962095	1007	1011	yeast
+4100	species721:20962095	1054	1074	Nicotiana benthamiana
+12145	species721:20962095	1124	1127	TBSV
+12145	species721:20962095	1186	1189	TBSV
+11723	species722:20962077	0	28	Simian immunodeficiency virus
+9531	species722:20962077	39	52	sooty mangabey
+9544	species722:20962077	58	71	rhesus macaque
+11723	species722:20962077	336	344	SIVmac239
+3489	species722:20962077	465	473	jackfruit
+11723	species722:20962077	598	606	SIVmac239
+11723	species722:20962077	642	650	SIVmac239
+11723	species722:20962077	755	783	simian immunodeficiency virus
+11723	species722:20962077	786	788	SIV
+11723	species722:20962077	910	918	SIVmac239
+11723	species722:20962077	1001	1009	SIVmac239
+11723	species722:20962077	1160	1162	SIV
+11723	species722:20962077	1209	1217	SIVmac239
+11676	species722:20962077	1239	1256	HIV-1 strain NL4-3
+11723	species722:20962077	1324	1329	SIVmac
+11723	species722:20962077	1335	1339	SIVsm
+11676	species722:20962077	1434	1438	HIV-1
+11723	species722:20962077	1452	1457	SIVcpz
+11723	species722:20962077	1494	1502	SIVmac239
+11723	species722:20962077	1651	1656	SIVmac
+11723	species722:20962077	1662	1666	SIVsm
+11723	species722:20962077	1716	1721	SIVcpz
+11676	species722:20962077	1727	1731	HIV-1
+11709	species722:20962077	1783	1787	HIV-2
+11723	species722:20962077	1939	1944	SIVmac
+11723	species722:20962077	1950	1954	SIVsm
+11676	species722:20962077	1995	1999	HIV-1
+11723	species722:20962077	2005	2010	SIVcpz
+11176	species723:20980510	41	63	Newcastle disease virus
+12814	species723:20980510	95	121	respiratory syncytial virus
+11250	species723:20980510	143	175	Human respiratory syncytial virus
+11250	species723:20980510	178	180	RSV
+11250	species723:20980510	313	315	RSV
+11250	species723:20980510	409	411	RSV
+11250	species723:20980510	458	460	RSV
+11176	species723:20980510	573	595	Newcastle disease virus
+11176	species723:20980510	598	600	NDV
+11250	species723:20980510	689	691	RSV
+11176	species723:20980510	764	766	NDV
+10090	species723:20980510	864	867	mice
+11250	species723:20980510	928	930	RSV
+11250	species723:20980510	1070	1072	RSV
+10090	species723:20980510	1235	1238	mice
+11250	species723:20980510	1245	1247	RSV
+11250	species723:20980510	1276	1278	RSV
+10090	species723:20980510	1318	1321	mice
+10090	species723:20980510	1406	1409	mice
+11250	species723:20980510	1447	1449	RSV
+11250	species723:20980510	1504	1506	RSV
+10090	species723:20980510	1520	1523	mice
+11250	species723:20980510	1562	1564	RSV
+11676	species724:20962079	35	39	HIV-1
+11676	species724:20962079	414	418	HIV-1
+11676	species724:20962079	757	761	HIV-1
+11676	species724:20962079	947	951	HIV-1
+11676	species724:20962079	1060	1064	HIV-1
+11676	species724:20962079	1465	1469	HIV-1
+11676	species724:20962079	1752	1756	HIV-1
+12721	species724:20962079	1974	1976	HIV
+12721	species725:20980513	3	5	HIV
+11276	species725:20980513	15	40	vesicular stomatitis virus
+12721	species725:20980513	148	150	HIV
+11276	species725:20980513	163	188	vesicular stomatitis virus
+11276	species725:20980513	201	203	VSV
+12037	species725:20980513	234	238	viral
+12721	species725:20980513	264	266	HIV
+11276	species725:20980513	279	281	VSV
+11276	species725:20980513	346	348	VSV
+12037	species725:20980513	364	368	virus
+12037	species725:20980513	416	420	viral
+12721	species725:20980513	486	488	HIV
+11276	species725:20980513	501	503	VSV
+12037	species725:20980513	543	547	viral
+12721	species725:20980513	608	610	HIV
+11276	species725:20980513	620	622	VSV
+12721	species725:20980513	732	734	HIV
+12721	species725:20980513	745	747	HIV
+10298	species726:20962082	194	220	herpes simplex virus type 1
+10298	species726:20962082	223	227	HSV-1
+10345	species726:20962082	234	251	pseudorabies virus
+10345	species726:20962082	254	256	PRV
+10335	species726:20962082	272	293	varicella-zoster virus
+10335	species726:20962082	296	298	VZV
+10298	species726:20962082	438	442	HSV-1
+10298	species726:20962082	619	623	HSV-1
+10335	species726:20962082	626	628	VZV
+10345	species726:20962082	635	637	PRV
+10335	species726:20962082	735	737	VZV
+10298	species726:20962082	876	880	HSV-1
+10345	species726:20962082	886	888	PRV
+10335	species726:20962082	930	932	VZV
+10335	species726:20962082	986	988	VZV
+10335	species726:20962082	1186	1188	VZV
+10335	species726:20962082	1229	1231	VZV
+10335	species726:20962082	1349	1351	VZV
+10298	species726:20962082	1552	1556	HSV-1
+10345	species726:20962082	1561	1563	PRV
+11619	species727:20980515	306	316	Junin virus
+11619	species727:20980515	319	322	JUNV
+11620	species727:20980515	329	339	Lassa virus
+11620	species727:20980515	342	345	LASV
+9606	species727:20980515	411	415	human
+11619	species727:20980515	532	535	JUNV
+11620	species727:20980515	746	749	LASV
+11619	species727:20980515	806	809	JUNV
+11620	species727:20980515	811	814	LASV
+11619	species727:20980515	1155	1158	JUNV
+11620	species727:20980515	1164	1167	LASV
+10090	species727:20980515	1298	1302	mouse
+11619	species727:20980515	1478	1481	JUNV
+11620	species727:20980515	1487	1490	LASV
+9337	species728:21366564	558	580	common brushtail possum
+9337	species728:21366564	583	603	Trichosurus vulpecula
+37296	species729:20980519	46	84	Kaposi's sarcoma-associated herpesvirus
+37296	species729:20980519	89	127	Kaposi's sarcoma-associated herpesvirus
+37296	species729:20980519	130	133	KSHV
+9606	species729:20980519	164	168	human
+37296	species729:20980519	306	309	KSHV
+37296	species729:20980519	869	872	KSHV
+37296	species729:20980519	949	952	KSHV
+37296	species729:20980519	993	996	KSHV
+9606	species729:20980519	1009	1013	human
+37296	species729:20980519	1053	1056	KSHV
+37296	species729:20980519	1312	1315	KSHV
+11786	species730:20980520	11	22	Friend virus
+10090	species730:20980520	69	72	mice
+10090	species730:20980520	210	213	mice
+11786	species730:20980520	220	236	Friend retrovirus
+11786	species730:20980520	239	240	FV
+10090	species730:20980520	765	769	mouse
+10090	species730:20980520	1074	1077	mice
+11786	species730:20980520	1152	1153	FV
+10090	species730:20980520	1279	1283	mouse
+9606	species731:21361929	2583	2587	human
+11176	species732:20962092	61	83	Newcastle disease virus
+11234	species732:20962092	96	108	measles virus
+11234	species732:20962092	196	208	Measles virus
+11234	species732:20962092	211	212	MV
+11234	species732:20962092	438	439	MV
+11234	species732:20962092	488	489	MV
+11234	species732:20962092	731	732	MV
+11234	species732:20962092	780	781	MV
+11176	species732:20962092	943	965	Newcastle disease virus
+11176	species732:20962092	968	970	NDV
+11234	species732:20962092	988	989	MV
+11176	species732:20962092	1006	1010	NDV-H
+11234	species732:20962092	1029	1030	MV
+11176	species732:20962092	1033	1037	NDV-H
+11176	species732:20962092	1162	1166	NDV-H
+11234	species732:20962092	1411	1412	MV
+11234	species732:20962092	1436	1437	MV
+11176	species732:20962092	1460	1462	NDV
+11234	species732:20962092	1679	1680	MV
+11176	species732:20962092	1687	1689	NDV
+11234	species732:20962092	1708	1709	MV
+11234	species732:20962092	1830	1831	MV
+185587	species733:22182621	226	238	Osmia cornuta
+185587	species733:22182621	358	367	O. cornuta
+10255	species734:20962097	0	6	Variola
+10244	species734:20962097	12	28	monkeypox viruses
+10245	species734:20962097	144	157	Vaccinia virus
+10245	species734:20962097	160	163	VacV
+9606	species734:20962097	755	760	humans
+10244	species734:20962097	818	832	monkeypox virus
+10244	species734:20962097	835	837	MPX
+10255	species734:20962097	844	856	variola virus
+10255	species734:20962097	859	862	VarV
+10090	species734:20962097	1021	1025	mouse
+10245	species734:20962097	1051	1054	VacV
+10245	species734:20962097	1309	1312	VacV
+10255	species734:20962097	1315	1318	VarV
+10244	species734:20962097	1325	1327	MPX
+10244	species734:20962097	1557	1559	MPX
+11320	species735:20962098	56	59	H1N1
+11320	species735:20962098	65	86	H5 influenza a viruses
+10090	species735:20962098	91	94	mice
+11320	species735:20962098	99	117	Influenza A viruses
+9606	species735:20962098	123	127	human
+11320	species735:20962098	228	231	H1N1
+11320	species735:20962098	287	290	H1N1
+11320	species735:20962098	301	307	H1N1pdm
+11320	species735:20962098	310	326	influenza A virus
+9606	species735:20962098	383	387	human
+9823	species735:20962098	401	405	swine
+11320	species735:20962098	487	501	H1N1pdm viruses
+9606	species735:20962098	506	511	humans
+10090	species735:20962098	671	675	mouse
+11320	species735:20962098	831	843	H1N1pdm virus
+9606	species735:20962098	893	897	human
+10090	species735:20962098	928	932	mouse
+10090	species735:20962098	1096	1100	mouse
+11320	species735:20962098	1271	1285	H1N1pdm viruses
+11320	species735:20962098	1421	1430	H5 viruses
+10090	species735:20962098	1435	1438	mice
+11320	species735:20962098	1500	1518	influenza A viruses
+11320	species735:20962098	1703	1721	influenza A viruses
+10090	species735:20962098	1730	1734	mouse
+9606	species735:20962098	1904	1908	human
+11320	species735:20962098	1910	1916	H1N1pdm
+11676	species736:20962100	36	49	HIV-1 CRF01_AE
+11676	species736:20962100	200	204	HIV-1
+11676	species736:20962100	331	335	HIV-1
+11676	species736:20962100	569	573	HIV-1
+11676	species736:20962100	707	714	CRF01_AE
+11676	species736:20962100	840	848	subtype B
+11676	species736:20962100	914	921	CRF01_AE
+12721	species736:20962100	1063	1065	HIV
+11676	species736:20962100	1127	1134	CRF01_AE
+11676	species736:20962100	1140	1148	subtype B
+12721	species736:20962100	1378	1380	HIV
+12721	species736:20962100	1550	1552	HIV
+43639	species737:21269301	78	100	striped plateau lizards
+43639	species737:21269301	103	121	Sceloporus virgatus
+43639	species737:21269301	539	561	striped plateau lizards
+43639	species737:21269301	564	582	Sceloporus virgatus
+43639	species737:21269301	923	933	S. virgatus
+43639	species737:21269301	1625	1635	S. virgatus
+7113	species738:21166910	85	99	cotton bollworm
+7113	species738:21166910	101	115	Helicoverpa zea
+7113	species738:21166910	156	170	Helicoverpa zea
+29058	species738:21166910	286	305	Helicoverpa armigera
+7113	species738:21166910	319	324	H. zea
+52344	species738:21166910	342	360	Helicoverpa assulta
+7113	species738:21166910	386	391	H. zea
+29058	species738:21166910	397	407	H. armigera
+29058	species738:21166910	453	463	H. armigera
+7113	species738:21166910	575	580	H. zea
+7113	species738:21166910	954	959	H. zea
+29058	species738:21166910	966	976	H. armigera
+7113	species738:21166910	1094	1099	H. zea
+99490	species739:21521216	1684	1701	Loxodonta cyclotis
+856889	species740:20884290	301	326	Mantamonas plastica sp. n.
+856889	species740:20884290	823	841	Mantamonas plastica
+446	species742:21169481	77	98	Legionella pneumophila
+446	species742:21169481	683	704	Legionella pneumophila
+446	species742:21169481	892	905	L. pneumophila
+446	species742:21169481	1382	1395	L. pneumophila
+446	species742:21169481	1688	1701	L. pneumophila
+9606	species742:21169481	1781	1785	human
+107243	species744:20880204	108	127	Thlaspi caerulescens
+107243	species744:20880204	321	357	Thlaspi caerulescens (Ganges ecotype)
+13686	species745:21797944	138	145	fire ant
+7460	species745:21797944	231	239	honey bee
+7460	species745:21797944	242	255	Apis mellifera
+13686	species745:21797944	575	582	fire ant
+13686	species745:21797944	584	601	Solenopsis invicta
+13686	species745:21797944	1537	1545	fire ants
+7460	species745:21797944	1630	1639	honey bees
+9860	species746:21182522	499	506	red deer
+7070	species747:21689183	54	72	Tribolium castaneum
+7070	species747:21689183	268	286	Tribolium castaneum
+7070	species747:21689183	467	478	T. castaneum
+34621	species748:21689185	91	107	American dog tick
+34621	species748:21689185	110	131	Dermacentor variabilis
+34621	species748:21689185	343	359	American dog tick
+34621	species748:21689185	362	383	Dermacentor variabilis
+4026	species751:20819175	513	520	sycamore
+4026	species751:20819175	523	541	Acer pseudoplatanus
+5476	species752:21601645	164	179	Candida albicans
+5476	species752:21601645	327	342	Candida albicans
+7227	species753:21029232	120	129	Drosophila
+7227	species753:21029232	653	675	Drosophila melanogaster
+7227	species753:21029232	719	728	Drosophila
+7227	species753:21029232	1071	1080	Drosophila
+7227	species753:21029232	1298	1307	Drosophila
+7227	species753:21029232	1560	1569	Drosophila
+83561	species755:20971898	25	43	Simkania negevensis
+83561	species755:20971898	422	449	Simkania negevensis strain Z
+83561	species755:20971898	646	658	S. negevensis
+562	species755:20971898	764	779	Escherichia coli
+83561	species755:20971898	1169	1181	S. negevensis
+339	species756:20971899	54	90	Xanthomonas campestris pv. campestris
+339	species756:20971899	147	183	Xanthomonas campestris pv. campestris
+339	species756:20971899	766	793	X. campestris pv. campestris
+339	species756:20971899	1363	1390	X. campestris pv. campestris
+5476	species759:21511047	14	29	Candida albicans
+5476	species759:21511047	201	216	Candida albicans
+5476	species759:21511047	269	279	C. albicans
+5476	species759:21511047	491	501	C. albicans
+5476	species759:21511047	628	638	C. albicans
+5476	species760:21511048	98	113	Candida albicans
+5476	species760:21511048	161	176	Candida albicans
+4932	species760:21511048	264	287	Saccharomyces cerevisiae
+5476	species760:21511048	410	420	C. albicans
+4932	species760:21511048	460	472	S. cerevisiae
+4932	species760:21511048	816	820	Yeast
+4932	species760:21511048	933	945	S. cerevisiae
+400223	species762:21526927	10	19	wSinvictaA
+13686	species762:21526927	62	69	fire ant
+13686	species762:21526927	71	88	Solenopsis invicta
+13686	species762:21526927	960	967	fire ant
+13686	species762:21526927	969	986	Solenopsis invicta
+13686	species762:21526927	1116	1125	S. invicta
+13686	species762:21526927	1191	1200	S. invicta
+400223	species762:21526927	1361	1370	wSinvictaA
+13686	species762:21526927	1439	1446	fire ant
+400223	species762:21526927	1517	1526	wSinvictaA
+536261	species763:21526929	51	63	predatory bug
+536261	species763:21526929	66	83	Pilophorus typicus
+536261	species763:21526929	133	183	Pilophorus typicus (Distant) (Heteroptera: Miridae)
+536261	species763:21526929	190	202	predatory bug
+536261	species763:21526929	279	288	P. typicus
+536261	species763:21526929	714	723	P. typicus
+536261	species763:21526929	1186	1195	P. typicus
+536261	species763:21526929	1761	1770	P. typicus
+378805	species764:21526930	93	104	P. tricuspis
+378805	species764:21526930	110	120	P. curvatus
+13686	species764:21526930	255	278	Solenopsis invicta Buren
+30203	species764:21526930	280	296	S. richteri Forel
+378805	species764:21526930	673	703	Pseudacteon tricuspis Borgmeier
+378805	species764:21526930	709	729	P. curvatus Borgmeier
+378805	species764:21526930	1363	1374	P. tricuspis
+13686	species764:21526930	1735	1756	red imported fire ants
+13686	species764:21526930	1759	1768	S. invicta
+378805	species764:21526930	1822	1832	P. curvatus
+30203	species764:21526930	1908	1912	black
+13686	species764:21526930	1971	1992	red imported fire ants
+3983	species765:21526935	32	38	cassava
+28588	species765:21526935	68	76	melon fly
+28588	species765:21526935	79	99	Bactrocera cucurbitae
+27457	species765:21526935	110	127	Oriental fruit fly
+27457	species765:21526935	130	140	B. dorsalis
+28588	species765:21526935	229	237	melon fly
+28588	species765:21526935	240	260	Bactrocera cucurbitae
+27457	species765:21526935	354	371	oriental fruit fly
+27457	species765:21526935	374	384	B. dorsalis
+28588	species765:21526935	588	600	B. cucurbitae
+3983	species765:21526935	659	665	cassava
+3983	species765:21526935	668	684	Manihot esculenta
+28588	species765:21526935	743	755	B. cucurbitae
+3983	species765:21526935	772	783	M. esculenta
+3983	species765:21526935	1035	1046	M. esculenta
+4577	species765:21526935	1145	1148	corn
+4577	species765:21526935	1151	1158	Zea mays
+28588	species765:21526935	1236	1248	B. cucurbitae
+3649	species765:21526935	1332	1337	papaya
+3649	species765:21526935	1339	1351	Carica papaya
+28588	species765:21526935	1428	1440	B. cucurbitae
+27457	species765:21526935	1446	1456	B. dorsalis
+3983	species765:21526935	1480	1491	M. esculenta
+3988	species765:21526935	1568	1578	castor bean
+3988	species765:21526935	1581	1596	Ricinus communis
+28588	species765:21526935	1702	1714	B. cucurbitae
+4577	species765:21526935	1724	1727	corn
+28588	species765:21526935	1791	1803	B. cucurbitae
+3983	species765:21526935	1845	1856	M. esculenta
+3988	species765:21526935	1901	1911	R. communis
+28588	species765:21526935	1921	1933	B. cucurbitae
+27457	species765:21526935	1939	1949	B. dorsalis
+3983	species765:21526935	2003	2014	M. esculenta
+3988	species765:21526935	2164	2174	castor bean
+4577	species765:21526935	2302	2305	corn
+11084	species766:20933016	33	61	tick-borne encephalitis virus
+11084	species766:20933016	148	182	Tick-borne encephalitis (TBE) virus
+9606	species766:20933016	246	250	human
+11084	species766:20933016	323	325	TBE
+11084	species766:20933016	429	431	TBE
+11084	species766:20933016	576	584	TBE virus
+11084	species766:20933016	628	636	TBE virus
+9606	species766:20933016	818	822	human
+11084	species766:20933016	835	843	TBE virus
+11084	species766:20933016	971	979	TBE virus
+11084	species766:20933016	1058	1066	TBE virus
+11084	species766:20933016	1204	1214	TBE viruses
+11084	species766:20933016	1451	1459	TBE virus
+11084	species766:20933016	1497	1499	TBE
+9606	species767:21147038	1199	1204	humans
+9606	species769:21295520	294	299	humans
+9913	species769:21295520	322	327	cattle
+110766	species769:21295520	738	751	Entamoeba coli
+110769	species769:21295520	762	778	Entamoeba polecki
+110767	species769:21295520	793	811	Entamoeba hartmanni
+9606	species769:21295520	997	1002	humans
+110769	species769:21295520	1014	1030	Entamoeba polecki
+110766	species769:21295520	1082	1095	Entamoeba coli
+562	species770:21097628	128	143	Escherichia coli
+562	species770:21097628	227	242	Escherichia coli
+5207	species773:21320625	34	56	Cryptococcus neoformans
+9606	species773:21320625	430	434	human
+5207	species773:21320625	452	474	Cryptococcus neoformans
+3708	species774:21241331	16	29	Brassica napus
+3708	species774:21241331	488	495	rapeseed
+3708	species774:21241331	498	511	Brassica napus
+3702	species774:21241331	699	709	Arabidopsis
+3708	species774:21241331	801	808	B. napus
+3708	species774:21241331	1266	1273	B. napus
+4097	species774:21241331	1451	1457	tobacco
+139	species775:20935092	47	66	Borrelia burgdorferi
+139	species775:20935092	70	89	Borrelia burgdorferi
+139	species775:20935092	196	219	B. burgdorferi strain 31
+139	species775:20935092	521	534	B. burgdorferi
+9606	species776:21155772	102	106	human
+9606	species776:21155772	156	160	human
+9606	species776:21155772	245	249	human
+9606	species776:21155772	388	392	human
+9606	species776:21155772	1025	1029	human
+9606	species776:21155772	1605	1609	human
+9606	species776:21155772	2018	2022	human
+70771	species777:21169482	859	884	Thermoproteus neutrophilus
+160233	species777:21169482	905	925	Ignicoccus hospitalis
+43687	species777:21169482	952	972	Metallosphaera sedula
+5353	species778:21281728	44	59	Lentinula edodes
+5353	species778:21281728	237	253	Shiitake mushroom
+5353	species778:21281728	256	271	Lentinula edodes
+5353	species778:21281728	317	325	L. edodes
+5353	species778:21281728	685	693	L. edodes
+5353	species778:21281728	1486	1494	L. edodes
+5353	species778:21281728	2136	2144	L. edodes
+5353	species778:21281728	2335	2352	Shiitake mushrooms
+882104	species779:19667393	0	22	Methanoregula formicica
+882104	species779:19667393	143	149	SMSP(T)
+882104	species779:19667393	1076	1082	SMSP(T)
+358766	species779:19667393	1225	1248	Methanoregula boonei 6A8
+882104	species779:19667393	1423	1429	SMSP(T)
+358766	species779:19667393	1435	1458	Methanoregula boonei 6A8
+882104	species779:19667393	1770	1776	SMSP(T)
+882104	species779:19667393	1863	1885	Methanoregula formicica
+882104	species779:19667393	1918	1924	SMSP(T)
+205488	species781:21084112	27	39	Ebola viruses
+186539	species781:21084112	231	248	Reston Ebola virus
+9606	species781:21084112	286	290	human
+205488	species781:21084112	333	343	Ebola virus
+205488	species781:21084112	517	527	Ebola virus
+205488	species781:21084112	727	737	Ebola virus
+1902	species782:21037009	34	56	Streptomyces coelicolor
+1902	species782:21037009	448	470	Streptomyces coelicolor
+562	species782:21037009	572	587	Escherichia coli
+562	species782:21037009	605	611	E. coli
+1902	species782:21037009	1849	1861	S. coelicolor
+5518	species783:21453780	801	835	Fusariumgraminearum species complex
+42676	species783:21453780	1385	1400	Fusariumsacchari
+39152	species784:21075925	88	112	Methanococcus maripaludis
+39152	species784:21075925	157	181	Methanococcus maripaludis
+1282	species785:21075926	49	74	Staphylococcus epidermidis
+1282	species785:21075926	923	948	Staphylococcus epidermidis
+34073	species786:21075928	72	91	Variovorax paradoxus
+34073	species786:21075928	134	153	Variovorax paradoxus
+34073	species786:21075928	1493	1504	V. paradoxus
+598549	species787:20154329	0	35	Streptomyces hyderabadensis sp. nov.
+598549	species787:20154329	115	119	OU-40
+598549	species787:20154329	425	429	OU-40
+68249	species787:20154329	502	520	Streptomyces pactum
+47716	species787:20154329	566	587	Streptomyces olivaceus
+146923	species787:20154329	616	636	Streptomyces parvulus
+598549	species787:20154329	669	673	OU-40
+598549	species787:20154329	891	895	OU-40
+598549	species787:20154329	973	1008	Streptomyces hyderabadensis sp. nov.
+598549	species787:20154329	1042	1046	OU-40
+686429	species788:20154330	0	21	Gordonia humi sp. nov.
+686429	species788:20154330	107	117	CC-12301(T)
+307931	species788:20154330	214	234	Agaricus brasiliensis
+686429	species788:20154330	290	300	CC-12301(T)
+40516	species788:20154330	396	416	Gordonia hydrophobica
+2055	species788:20154330	439	453	Gordonia terrae
+36821	species788:20154330	465	479	Gordonia amarae
+410332	species788:20154330	494	510	Gordonia malaquae
+686429	species788:20154330	1177	1187	CC-12301(T)
+686429	species788:20154330	1314	1324	CC-12301(T)
+686429	species788:20154330	1381	1391	CC-12301(T)
+686429	species788:20154330	1450	1471	Gordonia humi sp. nov.
+686429	species788:20154330	1507	1517	CC-12301(T)
+693965	species789:20154332	0	31	Marinobacterium coralli sp. nov.
+242724	species789:20154332	64	82	Mussismilia hispida
+693965	species789:20154332	135	141	R-40509
+242724	species789:20154332	198	216	Mussismilia hispida
+518898	species789:20154332	458	485	Marinobacterium sediminicola
+500162	species789:20154332	488	512	Marinobacterium maritimum
+49186	species789:20154332	518	541	Marinobacterium stanieri
+693965	species789:20154332	801	807	R-40509
+693965	species789:20154332	1678	1709	Marinobacterium coralli sp. nov.
+693965	species789:20154332	1777	1783	R-40509
+693965	species789:20154332	1790	1800	LMG 25435(T
+693965	species789:20154332	1804	1815	CAIM 1449(T)
+9606	species790:21227492	743	747	human
+4530	species792:20825577	58	61	rice
+4530	species792:20825577	240	243	rice
+4530	species792:20825577	329	332	rice
+4530	species792:20825577	544	547	rice
+4530	species792:20825577	751	754	rice
+4530	species792:20825577	912	915	rice
+4530	species792:20825577	933	936	rice
+4530	species792:20825577	1193	1196	rice
+4530	species792:20825577	1370	1373	rice
+3702	species793:21241326	76	95	Arabidopsis thaliana
+3702	species793:21241326	306	325	Arabidopsis thaliana
+3702	species793:21241326	341	351	Arabidopsis
+4236	species795:21241329	69	75	lettuce
+4081	species795:21241329	81	86	tomato
+4236	species795:21241329	145	151	lettuce
+4236	species795:21241329	262	268	lettuce
+4081	species795:21241329	274	279	tomato
+4081	species795:21241329	574	579	tomato
+4081	species795:21241329	651	656	tomato
+4236	species795:21241329	963	969	lettuce
+3702	species796:21241330	91	101	Arabidopsis
+3702	species796:21241330	109	119	Arabidopsis
+3702	species796:21241330	1240	1250	Arabidopsis
+8030	species800:21401593	90	104	Atlantic salmon
+8030	species800:21401593	596	610	Atlantic salmon
+8030	species800:21401593	613	623	Salmo salar
+8030	species800:21401593	761	775	Atlantic salmon
+8030	species800:21401593	1430	1444	Atlantic salmon
+8030	species800:21401593	2088	2102	Atlantic salmon

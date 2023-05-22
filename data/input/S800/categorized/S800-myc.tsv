@@ -1,0 +1,538 @@
+4929	species002	31	52	Candida guilliermondii
+4929	species002	57	78	Candida guilliermondii
+4932	species002	169	173	yeast
+4929	species002	455	471	C. guilliermondii
+4929	species002	627	643	C. guilliermondii
+4929	species002	932	948	C. guilliermondii
+4929	species002	1054	1070	C. guilliermondii
+4929	species002	1274	1290	C. guilliermondii
+4929	species002	1401	1417	C. guilliermondii
+4932	species002	1567	1571	yeast
+162425	species005	35	54	Aspergillus nidulans
+162425	species005	70	89	Aspergillus nidulans
+162425	species006	98	117	Aspergillus nidulans
+162425	species006	278	297	Aspergillus nidulans
+746128	species013	589	609	Aspergillus fumigatus
+5476	species013	615	630	Candida albicans
+5476	species028	4	19	Candida albicans
+5476	species028	325	340	Candida albicans
+5476	species028	532	542	C. albicans
+4932	species028	615	638	Saccharomyces cerevisiae
+5476	species028	1278	1288	C. albicans
+5039	species033	1109	1132	Blastomyces dermatitidis
+38033	species033	1339	1357	Chaetomium globosum
+5207	species034	56	78	Cryptococcus neoformans
+5207	species034	357	379	Cryptococcus neoformans
+4932	species034	572	595	Saccharomyces cerevisiae
+5207	species034	602	614	C. neoformans
+5207	species034	834	843	serotype A
+5207	species034	849	872	serotype D C. neoformans
+5270	species034	1381	1395	Ustilago maydis
+5207	species034	1437	1449	C. neoformans
+5207	species034	1564	1576	C. neoformans
+5141	species041	12	28	Neurospora crassa
+162425	species041	118	137	Aspergillus nidulans
+162425	species041	149	168	Aspergillus nidulans
+5141	species041	174	190	Neurospora crassa
+162425	species041	376	386	A. nidulans
+5141	species041	412	420	N. crassa
+162425	species041	738	748	A. nidulans
+5141	species041	759	767	N. crassa
+162425	species041	1078	1088	A. nidulans
+4959	species058	89	109	Debaryomyces hansenii
+4959	species058	114	134	Debaryomyces hansenii
+4959	species058	356	366	D. hansenii
+5207	species074	67	89	Cryptococcus neoformans
+9606	species074	124	128	human
+5207	species074	146	168	Cryptococcus neoformans
+5207	species074	701	713	C. neoformans
+4932	species074	730	753	Saccharomyces cerevisiae
+5207	species074	836	848	C. neoformans
+117187	species078	113	136	Fusarium verticillioides
+117187	species078	141	164	Fusarium verticillioides
+4577	species078	245	249	maize
+9606	species078	311	315	human
+117187	species078	451	468	F. verticillioides
+117187	species078	696	713	F. verticillioides
+5507	species078	748	759	F. oxysporum
+5518	species078	774	787	F. graminearum
+4577	species078	1012	1015	corn
+4577	species078	1184	1187	corn
+5207	species088	26	48	Cryptococcus neoformans
+5207	species088	104	126	Cryptococcus neoformans
+4932	species088	188	192	yeast
+5207	species088	284	296	C. neoformans
+5207	species088	700	712	C. neoformans
+4932	species088	740	763	Saccharomyces cerevisiae
+5270	species088	774	788	Ustilago maydis
+5207	species088	969	981	C. neoformans
+67593	species089	30	47	Phytophthora sojae
+67593	species089	426	443	Phytophthora sojae
+3847	species089	788	794	soybean
+746128	species098	66	86	Aspergillus fumigatus
+746128	species098	200	220	Aspergillus fumigatus
+746128	species098	600	611	A. fumigatus
+162425	species101	37	56	Aspergillus nidulans
+162425	species101	143	162	Aspergillus nidulans
+162425	species101	348	358	A. nidulans
+162425	species101	581	591	A. nidulans
+162425	species101	819	829	A. nidulans
+5270	species102	75	89	Ustilago maydis
+5270	species102	94	108	Ustilago maydis
+5270	species102	134	142	corn smut
+5270	species102	471	485	Ustilago maydis
+5270	species102	999	1007	U. maydis
+746128	species102	1540	1560	Aspergillus fumigatus
+38033	species102	1563	1581	Chaetomium globosum
+40559	species102	1587	1608	Botryotinia fuckeliana
+318829	species104	100	118	rice blast pathogen
+318829	species104	120	137	Magnaporthe oryzae
+318829	species104	177	194	Magnaporthe oryzae
+4530	species104	223	226	rice
+318829	species104	457	464	M.oryzae
+318829	species104	606	614	M. oryzae
+318829	species104	704	713	ATMT0225B6
+318829	species104	716	729	MoCDC15(T-DNA)
+4932	species104	811	815	yeast
+4932	species104	995	999	yeast
+318829	species104	1173	1181	M. oryzae
+318829	species104	1418	1434	wild type MoCDC15
+318829	species104	1579	1587	M. oryzae
+4876	species105	95	113	Glomus intraradices
+4876	species105	371	389	Glomus intraradices
+4876	species105	539	558	G. intraradicesNH(4)
+4932	species105	592	596	Yeast
+746128	species106	43	69	Aspergillus fumigatuscyp51A
+746128	species106	239	259	Aspergillus fumigatus
+746128	species106	696	707	A. fumigatus
+746128	species106	1306	1317	A. fumigatus
+746128	species138	93	113	Aspergillus fumigatus
+746128	species138	208	228	Aspergillus fumigatus
+39416	species151	40	57	Tuber melanosporum
+39416	species151	471	488	Tuber melanosporum
+4932	species151	611	616	yeasts
+4932	species151	1051	1056	yeasts
+40559	species152	49	64	Botrytis cinerea
+40559	species152	610	625	Botrytis cinerea
+746128	species163	69	89	Aspergillus fumigatus
+746128	species163	136	156	Aspergillus fumigatus
+4922	species163	343	356	Pichiapastoris
+746128	species164	55	75	Aspergillus fumigatus
+746128	species164	99	119	Aspergillus fumigatus
+746128	species164	247	258	A. fumigatus
+746128	species164	931	942	A. fumigatus
+5141	species165	91	107	Neurospora crassa
+5141	species165	225	241	Neurospora crassa
+5141	species165	281	289	N. crassa
+4896	species165	643	667	Schizosaccharomyces pombe
+5141	species165	823	831	N. crassa
+5141	species165	1143	1151	N. crassa
+5141	species165	1322	1330	N. crassa
+746128	species166	67	87	Aspergillus fumigatus
+9606	species166	127	131	human
+746128	species166	151	171	Aspergillus fumigatus
+746128	species166	428	439	A. fumigatus
+746128	species166	711	722	A. fumigatus
+746128	species166	952	963	A. fumigatus
+162425	species185	20	39	Aspergillus nidulans
+162425	species185	427	446	Aspergillus nidulans
+33178	species186	404	422	Aspergillus terreus
+5061	species186	1276	1292	Aspergillus niger
+33178	species186	1403	1412	A. terreus
+162425	species195	48	67	Aspergillus nidulans
+162425	species195	152	171	Aspergillus nidulans
+162425	species195	1530	1540	A. nidulans
+5518	species196	26	45	Fusarium graminearum
+5518	species196	153	172	Fusarium graminearum
+4113	species196	434	439	potato
+5518	species196	1036	1049	F. graminearum
+5518	species196	1298	1311	F. graminearum
+4565	species197	33	37	wheat
+4513	species197	43	48	barley
+34373	species197	183	214	Blumeria graminis f. sp. tritici
+34373	species197	217	228	B.g. tritici
+34373	species197	235	240	hordei
+34373	species197	243	253	B.g. hordei
+4565	species197	293	297	wheat
+4513	species197	302	307	barley
+34373	species197	601	612	B.g. tritici
+34373	species197	682	692	B.g. hordei
+34373	species197	928	939	B.g. tritici
+34373	species197	945	955	B.g. hordei
+34373	species197	1061	1072	B.g. tritici
+34373	species197	1078	1088	B.g. hordei
+4565	species197	1162	1166	wheat
+4513	species197	1172	1177	barley
+34373	species197	1213	1224	B.g. tritici
+34373	species197	1230	1240	B.g. hordei
+5062	species213	66	83	Aspergillus oryzae
+5062	species213	88	105	Aspergillus oryzae
+5059	species213	184	201	Aspergillus flavus
+5062	species213	278	286	A. oryzae
+5062	species213	453	461	A. oryzae
+5059	species213	559	567	A. flavus
+5062	species213	653	661	A. oryzae
+5062	species213	1264	1272	A. oryzae
+746128	species213	1275	1295	Aspergillus fumigatus
+162425	species213	1301	1320	Aspergillus nidulans
+3750	species221	115	119	apple
+5025	species221	127	145	Venturia inaequalis
+5025	species221	168	181	Spilocaea pomi
+3750	species221	219	223	apple
+3750	species221	517	521	apple
+5025	species221	670	682	V. inaequalis
+106549	species221	1186	1205	Malus baccata jackii
+147045	species221	1208	1220	M. micromalus
+4932	species233	71	75	yeast
+4932	species233	126	130	yeast
+4932	species233	226	249	Saccharomyces cerevisiae
+4932	species233	1525	1529	yeast
+39407	species300	46	51	morels
+39407	species300	173	178	morels
+368404	species300	1219	1239	Morchella rufobrunnea
+39930	species300	1279	1290	black morels
+39407	species300	1322	1334	yellow morels
+39407	species300	1842	1847	Morels
+4932	species306	32	55	Saccharomyces cerevisiae
+4926	species306	91	112	Pichia membranifaciens
+4926	species306	136	157	Pichia membranifaciens
+4932	species306	219	224	yeasts
+4932	species306	918	941	Saccharomyces cerevisiae
+4932	species306	1393	1405	S. cerevisiae
+39416	species313	4	25	Perigord black truffle
+39416	species313	127	144	Tuber melanosporum
+5062	species318	153	170	Aspergillus oryzae
+5062	species318	706	723	Aspergillus oryzae
+4932	species318	1404	1408	Yeast
+5062	species318	1600	1608	A. oryzae
+162425	species325	95	114	Aspergillus nidulans
+162425	species325	529	548	Aspergillus nidulans
+91943	species326	126	142	Hortaea werneckii
+4932	species326	150	173	Saccharomyces cerevisiae
+91943	species326	465	481	Hortaea werneckii
+4932	species326	640	651	S. cerevisae
+4932	species326	756	768	S. cerevisiae
+4932	species326	855	867	S. cerevisiae
+4932	species326	959	971	S. cerevisiae
+4932	species326	1177	1189	S. cerevisiae
+91943	species326	1245	1256	H. werneckii
+4932	species326	1310	1322	S. cerevisiae
+5346	species327	111	129	Coprinopsis cinerea
+5346	species327	203	221	Coprinopsis cinerea
+5270	species327	1574	1588	Ustilago maydis
+358	species342	0	25	Agrobacterium tumefasciens
+4808	species342	73	97	Blastocladiella emersonii
+358	species342	102	126	Agrobacterium tumefaciens
+4932	species342	223	227	yeast
+9606	species342	257	261	human
+4808	species342	371	395	Blastocladiella emersonii
+162425	species342	735	754	Aspergillus nidulans
+358	species342	926	950	Agrobacterium tumefsciens
+5076	species343	40	62	Penicillium chrysogenum
+5076	species343	221	243	Penicillium chrysogenum
+5076	species343	431	445	Strains G203R-T
+5076	species343	509	517	Deltapga1
+5076	species343	842	875	strains with the pga1(G42R) allele
+5076	species343	1263	1289	strains with an active Pga1
+5207	species344	55	77	Cryptococcus neoformans
+5207	species344	487	509	Cryptococcus neoformans
+5207	species344	712	724	C. neoformans
+5207	species344	835	847	C. neoformans
+5207	species344	1427	1439	C. neoformans
+5207	species344	1815	1827	C. neoformans
+5141	species346	51	67	Neurospora crassa
+5141	species346	75	90	Neurosporacrassa
+162425	species348	1771	1790	Aspergillus nidulans
+4565	species352	126	130	wheat
+9606	species352	256	261	humans
+5518	species352	817	830	F. graminearum
+4932	species375	138	161	Saccharomyces cerevisiae
+4932	species375	396	419	Saccharomyces cerevisiae
+4932	species375	497	509	S. cerevisiae
+5147	species397	29	47	Sordaria macrospora
+5147	species397	98	116	Sordaria macrospora
+5147	species397	321	333	S. macrospora
+5518	species398	236	263	Fusarium graminearum complex
+5518	species398	266	269	FGSC
+5518	species398	541	544	FGSC
+5518	species398	847	858	FGSC species
+5518	species398	861	878	Fusarium nepalense
+5518	species398	918	955	Fusarium ussurianum+Fusarium asiaticum
+5518	species398	989	992	FGSC
+5518	species398	995	1015	Fusarium louisianense
+5518	species398	1081	1113	Fusarium gerlachii+F. graminearum
+5518	species398	1296	1309	F. graminearum
+5518	species398	1428	1439	F. nepalense
+5518	species398	1445	1459	F. louisianense
+5476	species403	114	129	Candida albicans
+9606	species403	275	280	humans
+5476	species403	283	298	Candida albicans
+5476	species403	546	556	C. albicans
+5476	species403	742	752	C. albicans
+5476	species403	819	829	C. albicans
+5476	species403	1019	1029	C. albicans
+5476	species403	1346	1356	C. albicans
+746128	species404	56	76	Aspergillus fumigatus
+162425	species404	82	101	Aspergillus nidulans
+746128	species404	275	295	Aspergillus fumigatus
+162425	species404	301	320	Aspergillus nidulans
+746128	species404	383	394	A. fumigatus
+162425	species404	400	410	A. nidulans
+162425	species404	495	505	A. nidulans
+746128	species404	572	583	A. fumigatus
+746128	species404	779	790	A. fumigatus
+162425	species404	797	807	A. nidulans
+746128	species404	853	864	A. fumigatus
+162425	species404	980	990	A. nidulans
+4932	species404	1278	1282	yeast
+162425	species404	1609	1619	A. nidulans
+162425	species408	45	64	Aspergillus nidulans
+162425	species408	155	174	Aspergillus nidulans
+162425	species408	744	754	A. nidulans
+5061	species417	60	76	Aspergillus niger
+5061	species417	109	125	Aspergillus niger
+5061	species417	231	238	A. niger
+746128	species417	1051	1062	A. fumigatus
+5061	species417	1535	1542	A. niger
+5062	species425	129	146	Aspergillus oryzae
+5062	species425	194	211	Aspergillus oryzae
+60197	species437	53	87	Cronartium quercuum f.sp. fusiforme
+60197	species437	171	205	Cronartium quercuum f.sp. fusiforme
+3352	species437	313	325	loblolly pine
+5518	species438	16	51	Fusarium graminearum species complex
+4565	species438	58	62	wheat
+4513	species438	65	70	barley
+4577	species438	76	80	maize
+5518	species438	243	278	Fusarium graminearum species complex
+5518	species438	281	284	FGSC
+4565	species438	311	315	wheat
+4513	species438	318	323	barley
+4577	species438	329	333	maize
+5518	species438	656	659	FGSC
+4577	species438	715	719	maize
+4565	species438	766	770	wheat
+4513	species438	775	780	barley
+5518	species438	796	809	F. graminearum
+5518	species438	846	849	FGSC
+4565	species438	883	887	wheat
+4513	species438	893	898	barley
+4577	species438	963	967	maize
+282271	species438	1077	1091	Fusariumboothii
+5518	species438	1097	1110	F. graminearum
+4577	species438	1120	1124	maize
+282271	species438	1166	1175	F. boothii
+5518	species438	1198	1211	F. graminearum
+282271	species438	1261	1270	F. boothii
+5518	species438	1451	1454	FGSC
+5518	species438	1477	1490	F. graminearum
+4577	species438	1527	1531	maize
+5518	species438	1564	1567	FGSC
+103385	species439	62	83	Amylostereum areolatum
+103385	species439	732	753	Amylostereum areolatum
+103385	species439	1384	1395	A. areolatum
+5067	species444	690	712	Aspergillus parasiticus
+9606	species444	814	819	humans
+5518	species462	92	111	Fusarium graminearum
+5518	species462	367	386	Fusarium graminearum
+5518	species462	519	532	F. graminearum
+5518	species462	640	653	F. graminearum
+5518	species462	1092	1105	F. graminearum
+5518	species484	75	89	Gibberella zeae
+5518	species484	389	403	Gibberella zeae
+5141	species491	139	155	Neurospora crassa
+40127	species491	188	201	N. tetrasperma
+5141	species491	398	414	Neurospora crassa
+40127	species491	1473	1494	Neurospora tetrasperma
+5476	species492	28	43	Candida albicans
+5476	species492	105	120	Candida albicans
+5476	species492	252	262	C. albicans
+562	species492	478	482	yeast
+5476	species492	579	589	C. albicans
+5476	species492	1278	1288	C. albicans
+243206	species493	46	65	Leptogium saturninum
+243206	species493	332	351	Leptogium saturninum
+29892	species493	919	944	Auricularia auricula-judae
+37727	species493	1204	1224	Penicillium marneffei
+36630	species493	1230	1249	Neosartorya fischeri
+4932	species503	132	136	yeast
+4932	species503	138	161	Saccharomyces cerevisiae
+5037	species506	460	481	Histoplasma capsulatum
+121759	species506	487	515	Paracoccidioides brasiliensis
+5039	species506	643	666	Blastomyces dermatitidis
+73231	species506	672	685	Emmonsia parva
+5039	species506	845	859	B. dermatitidis
+73231	species506	862	869	E. parva
+121759	species506	875	905	P. brasiliensis species complex
+562	species506	959	974	Escherichia coli
+5141	species507	106	122	Neurospora crassa
+5141	species507	410	426	Neurospora crassa
+5141	species507	1648	1656	N. crassa
+162425	species507	1692	1711	Aspergillus nidulans
+5141	species508	218	234	Neurospora crassa
+5141	species508	1156	1164	N. crassa
+121759	species509	69	97	Paracoccidioides brasiliensis
+121759	species509	158	186	Paracoccidioides brasiliensis
+121759	species509	881	911	P. brasiliensis species complex
+1048829	species509	966	988	Paracoccidioides lutzii
+5207	species510	77	105	Cryptococcus neoformans JEC21
+5207	species510	285	289	JEC21
+5207	species510	306	310	JEC21
+5207	species510	464	468	JEC21
+5207	species510	594	598	JEC21
+5207	species510	873	875	H99
+5207	species510	911	913	H99
+5207	species510	997	1001	JEC21
+5207	species510	1050	1054	JEC21
+318829	species511	84	101	Magnaporthe oryzae
+4530	species511	192	195	rice
+318829	species511	503	520	Magnaporthe oryzae
+162425	species525	24	43	Aspergillus nidulans
+162425	species525	224	243	Aspergillus nidulans
+562	species525	294	309	Escherichia coli
+4932	species525	465	469	yeast
+4932	species525	471	494	Saccharomyces cerevisiae
+162425	species525	530	540	A. nidulans
+162425	species525	952	962	A. nidulans
+162425	species525	1292	1302	A. nidulans
+746128	species525	1307	1327	Aspergillus fumigatus
+318829	species541	79	95	Magnaporth oryzae
+318829	species541	484	501	Magnaporthe oryzae
+4530	species541	503	514	Oryza sativa
+318829	species541	641	649	M. oryzae
+318829	species541	882	890	M. oryzae
+4932	species554	301	313	S. cerevisiae
+358	species555	552	575	Agrobacteriumtumefaciens
+27337	species555	1530	1549	Verticillium dahliae
+247546	species558	117	142	Trichoderma brevicompactum
+247546	species558	147	172	Trichoderma brevicompactum
+29916	species558	343	354	Fusarium spp
+247546	species558	553	569	T. brevicompactum
+247546	species558	1111	1127	T. brevicompactum
+4932	species558	1200	1223	Saccharomyces cerevisiae
+4911	species558	1226	1248	Kluyveromyces marxianus
+5476	species558	1251	1266	Candida albicans
+5478	species558	1269	1284	Candida glabrata
+5482	species558	1287	1304	Candida tropicalis
+746128	species558	1310	1330	Aspergillus fumigatus
+247546	species558	1546	1562	T. brevicompactum
+63402	species559	784	802	Microsporum gypseum
+5551	species559	844	862	Trichophyton rubrum
+7137	species559	1246	1264	Galleria mellonella
+7137	species559	1267	1274	wax moth
+7137	species565	0	18	Galleria mellonella
+5507	species565	65	82	Fusarium oxysporum
+5507	species565	87	104	Fusarium oxysporum
+9606	species565	231	236	humans
+5507	species565	239	287	F. oxysporum f. sp. lycopersici isolate FGSC 9935
+4081	species565	312	324	tomato plants
+10090	species565	346	349	mice
+5507	species565	483	491	FGSC 9935
+7137	species565	517	532	greater wax moth
+7137	species565	534	552	Galleria mellonella
+9606	species565	629	633	human
+7137	species565	723	735	G. mellonella
+5507	species565	859	883	F. oxysporum transformant
+7137	species565	968	980	G. mellonella
+4081	species565	1101	1106	tomato
+10090	species565	1128	1132	mouse
+10090	species565	1213	1217	mouse
+5507	species565	1329	1340	F. oxysporum
+39416	species573	147	164	Tuber melanosporum
+39416	species573	453	470	Tuber melanosporum
+4932	species573	886	890	yeast
+4932	species573	1174	1178	yeast
+39416	species577	56	77	Perigord black truffle
+39416	species577	193	214	Perigord black truffle
+39416	species577	217	242	Tuber melanosporum Vittad.
+39416	species577	532	546	T. melanosporum
+39416	species577	758	772	T. melanosporum
+39416	species577	1109	1121	black truffle
+39416	species577	1185	1199	T. melanosporum
+39416	species577	1408	1422	T. melanosporum
+39416	species577	1762	1776	T. melanosporum
+5476	species609	78	88	C. albicans
+5476	species609	211	226	Candida albicans
+5476	species609	391	401	C. albicans
+4932	species609	474	478	yeast
+4932	species609	480	503	Saccharomyces cerevisiae
+40559	species611	101	116	Botrytis cinerea
+4932	species611	302	306	yeast
+4932	species611	308	331	Saccharomyces cerevisiae
+40559	species611	526	541	Botrytis cinerea
+4932	species611	1274	1278	yeast
+40559	species611	1334	1343	B. cinerea
+318829	species631	75	92	Magnaporthe oryzae
+318829	species631	499	516	Magnaporthe oryzae
+4530	species631	655	658	rice
+4932	species631	948	971	Saccharomyces cerevisiae
+164328	species647	40	59	Phytophthora ramorum
+164328	species647	149	168	Phytophthora ramorum
+90979	species673	608	630	Cochliobolus luttrellii
+5016	species673	718	744	Cochliobolus heterostrophus
+5016	species673	817	833	C. heterostrophus
+90979	species673	892	904	C. luttrellii
+90979	species673	952	964	C. luttrellii
+90979	species673	1007	1019	C. luttrellii
+5016	species673	1048	1064	C. heterostrophus
+90979	species673	1081	1093	C. luttrellii
+5016	species673	1122	1138	C. heterostrophus
+90979	species673	1249	1261	C. luttrellii
+90979	species673	1306	1318	C. luttrellii
+5016	species673	1347	1363	C. heterostrophus
+90979	species673	1411	1423	C. luttrellii
+90979	species673	1566	1578	C. luttrellii
+5016	species673	1607	1623	C. heterostrophus
+90979	species673	1674	1686	C. luttrellii
+90979	species673	1766	1778	C. luttrellii
+5016	species673	1811	1827	C. heterostrophus
+90979	species673	2280	2292	C. luttrellii
+5016	species673	2357	2373	C. heterostrophus
+51453	species686	146	163	Trichoderma reesei
+51453	species686	166	182	Hypocrea jecorina
+51453	species686	318	335	Trichoderma reesei
+51453	species686	338	354	Hypocrea jecorina
+5518	species700	65	84	Fusarium graminearum
+9606	species700	109	113	human
+5518	species700	184	203	Fusarium graminearum
+9606	species700	405	409	human
+4565	species700	1178	1182	wheat
+4944	species708	101	127	Saccharomycopsis fibuligera
+4944	species708	153	179	Saccharomycopsis fibuligera
+4944	species708	549	561	S. fibuligera
+4944	species708	1111	1123	S. fibuligera
+5061	species710	45	61	Aspergillus niger
+5061	species710	200	216	Aspergillus niger
+5061	species710	514	521	A. niger
+5061	species710	629	643	A. niger strain
+5061	species710	678	702	A. niger ATCC strain 1015
+746128	species710	839	859	Aspergillus fumigatus
+5061	species710	1023	1034	A. nigeralbA
+5061	species710	1190	1197	A. niger
+5061	species710	1238	1245	A. niger
+5476	species752	164	179	Candida albicans
+5476	species752	327	342	Candida albicans
+5476	species759	14	29	Candida albicans
+5476	species759	201	216	Candida albicans
+5476	species759	269	279	C. albicans
+5476	species759	491	501	C. albicans
+5476	species759	628	638	C. albicans
+5476	species760	98	113	Candida albicans
+5476	species760	161	176	Candida albicans
+4932	species760	264	287	Saccharomyces cerevisiae
+5476	species760	410	420	C. albicans
+4932	species760	460	472	S. cerevisiae
+4932	species760	816	820	Yeast
+4932	species760	933	945	S. cerevisiae
+5207	species773	34	56	Cryptococcus neoformans
+9606	species773	430	434	human
+5207	species773	452	474	Cryptococcus neoformans
+5353	species778	44	59	Lentinula edodes
+5353	species778	237	253	Shiitake mushroom
+5353	species778	256	271	Lentinula edodes
+5353	species778	317	325	L. edodes
+5353	species778	685	693	L. edodes
+5353	species778	1486	1494	L. edodes
+5353	species778	2136	2144	L. edodes
+5353	species778	2335	2352	Shiitake mushrooms
+5518	species783	801	835	Fusariumgraminearum species complex
+42676	species783	1385	1400	Fusariumsacchari

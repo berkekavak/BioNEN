@@ -1,0 +1,90 @@
+5833	species001	32	52	Plasmodium falciparum
+5833	species001	377	397	Plasmodium falciparum
+5833	species001	835	846	P falciparum
+5833	species001	1036	1047	P falciparum
+5833	species001	1288	1299	P falciparum
+4097	species010	126	132	tobacco
+5476	species063	298	313	Candida albicans
+5478	species063	345	360	Candida glabrata
+4909	species063	366	379	Candida krusei
+11676	species063	992	994	HIV
+9606	species063	1543	1547	human
+1280	species249	23	43	Staphylococcus aureus
+1280	species249	59	79	Staphylococcus aureus
+1280	species249	355	362	S aureus
+1280	species249	637	644	S aureus
+1280	species249	731	738	S aureus
+1280	species249	1116	1123	S aureus
+12721	species250	1520	1522	HIV
+9606	species312	507	511	human
+4097	species312	792	798	tobacco
+4097	species312	1137	1143	tobacco
+4097	species312	1215	1221	tobacco
+12475	species389	0	20	Hepatitis delta virus
+12475	species389	24	44	Hepatitis delta virus
+12475	species389	47	49	HDV
+10407	species389	126	142	hepatitis B virus
+10407	species389	145	147	HBV
+12475	species389	244	246	HDV
+12475	species389	334	344	hepatitis D
+10407	species389	378	380	HBV
+12475	species389	536	538	HDV
+10407	species389	595	597	HBV
+12475	species389	823	825	HDV
+12475	species389	945	947	HDV
+12475	species389	1071	1073	HDV
+9606	species392	0	4	Human
+9606	species392	1672	1676	human
+12814	species426	351	377	respiratory syncytial virus
+162145	species426	392	412	human metapneumovirus
+329641	species426	415	429	human bocavirus
+11676	species486	50	54	HIV-1
+12721	species486	242	244	HIV
+12721	species486	346	348	HIV
+12721	species486	446	448	HIV
+12721	species486	687	689	HIV
+12721	species486	1444	1446	HIV
+12721	species486	1550	1552	HIV
+9606	species515	702	706	human
+9606	species518	121	125	human
+12721	species538	56	58	HIV
+12721	species538	131	133	HIV
+9606	species538	266	270	human
+11676	species538	344	348	HIV-1
+9598	species538	353	363	chimpanzees
+11676	species538	434	438	HIV-1
+11676	species538	818	822	HIV-1
+9606	species538	875	879	human
+11676	species538	1151	1155	HIV-1
+4097	species605	1163	1169	tobacco
+9606	species606	616	620	human
+9606	species610	1500	1504	human
+9606	species612	0	4	Human
+9606	species612	69	73	human
+9606	species612	1009	1013	human
+9606	species612	1528	1532	human
+12721	species613	467	469	HIV
+12721	species613	625	627	HIV
+37124	species613	913	929	Chikungunya virus
+12092	species613	1050	1060	hepatitis A
+12461	species613	1066	1074	E viruses
+10090	species644	360	364	mouse
+10090	species645	1221	1225	mouse
+40977	species681	262	268	tobacco
+9606	species682	1341	1345	human
+1313	species695	36	47	pneumococcal
+1313	species695	101	112	pneumococcal
+1313	species695	243	254	pneumococcal
+1313	species695	582	593	pneumococcal
+1313	species695	793	804	pneumococcal
+1313	species695	1349	1360	pneumococcal
+1313	species695	1526	1537	pneumococcal
+9606	species719	125	129	human
+9606	species767	1199	1204	humans
+205488	species781	27	39	Ebola viruses
+186539	species781	231	248	Reston Ebola virus
+9606	species781	286	290	human
+205488	species781	333	343	Ebola virus
+205488	species781	517	527	Ebola virus
+205488	species781	727	737	Ebola virus
+9606	species790	743	747	human

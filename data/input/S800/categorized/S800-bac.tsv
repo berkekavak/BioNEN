@@ -1,0 +1,416 @@
+485	species011	121	141	Neisseria gonorrhoeae
+487	species011	215	236	Neisseria meningitidis
+487	species011	1634	1646	meningococcal
+562	species069	96	111	Escherichia coli
+562	species069	119	134	Escherichia coli
+1280	species071	0	20	Staphylococcus aureus
+1280	species071	84	89	newman
+1280	species071	132	137	UAMS-1
+1280	species071	153	158	Newman
+1280	species071	333	353	Staphylococcus aureus
+1280	species071	481	489	S. aureus
+1280	species071	560	568	S. aureus
+1280	species071	667	672	Newman
+1280	species071	932	937	Newman
+1280	species071	1288	1293	UAMS-1
+1280	species071	1431	1436	Newman
+1280	species071	1636	1641	Newman
+1280	species071	1650	1655	UAMS-1
+1280	species071	1736	1741	Newman
+1280	species071	1791	1796	UAMS-1
+615	species093	108	126	Serratia marcescens
+615	species093	420	438	Serratia marcescens
+615	species093	993	1005	S. marcescens
+562	species108	27	42	Escherichia coli
+487	species109	15	36	Neisseria meningitidis
+487	species109	202	223	Neisseria meningitidis
+9606	species109	328	332	human
+487	species109	387	401	N. meningitidis
+9986	species109	1140	1145	rabbit
+95486	species110	4	27	Burkholderia cenocepacia
+95486	species110	157	180	Burkholderia cenocepacia
+107832	species110	1454	1471	Rhizoctonia solani
+644	species111	141	160	Aeromonas hydrophila
+1773	species112	111	136	Mycobacterium tuberculosis
+1773	species112	465	479	M. tuberculosis
+1773	species112	936	950	M. tuberculosis
+1772	species112	1044	1055	M. smegmatis
+1773	species112	1289	1303	M. tuberculosis
+1772	species112	1318	1329	M. smegmatis
+1773	species112	1351	1365	M. tuberculosis
+1772	species112	1389	1400	M. smegmatis
+1773	species112	1522	1536	M. tuberculosis
+1772	species112	1578	1589	M. smegmatis
+1773	species112	1842	1856	M. tuberculosis
+348824	species113	47	72	Rhizobium sp. strain LPU83
+348824	species113	662	687	Rhizobium sp. strain LPU83
+3879	species113	733	739	alfalfa
+3866	species113	752	771	Leucena leucocephala
+3879	species113	896	902	alfalfa
+382	species113	925	946	Sinorhizobium meliloti
+110321	species113	952	972	Sinorhizobium medicae
+57676	species113	1074	1103	Rhizobium mongolense USDA 1844
+348824	species113	1127	1131	LPU83
+348824	species113	1228	1232	LPU83
+57676	species113	1254	1271	R. mongolense 1844
+348824	species113	1314	1339	Rhizobium sp. strain LPU83
+3879	species113	1366	1372	alfalfa
+348824	species113	1630	1634	LPU83
+348824	species113	1748	1754	LPU83-H
+348824	species113	1851	1855	LPU83
+3879	species113	1878	1884	alfalfa
+1390	species114	77	108	Bacillus amyloliquefaciens FZB42
+1390	species114	186	217	Bacillus amyloliquefaciens FZB42
+1390	species114	471	496	B. amyloliquefaciens FZB42
+1423	species115	51	67	Bacillus subtilis
+1423	species115	431	484	strain Bacillus subtilis YB955 (hisC952 metB5 leuC427)
+1423	species115	846	866	MutSL knockout strain
+1423	species115	1552	1562	B. subtilis
+1496	species116	44	64	Clostridium difficile
+1496	species116	90	110	Clostridium difficile
+1496	species116	162	173	C. difficile
+1496	species116	303	314	C. difficile
+1496	species116	438	449	C. difficile
+1496	species116	684	695	C. difficile
+1496	species116	1217	1228	C. difficile
+1496	species116	1260	1271	C. difficile
+1496	species116	1584	1595	C. difficile
+1496	species116	1631	1642	C. difficile
+1392	species117	64	81	Bacillus anthracis
+1392	species117	129	146	Bacillus anthracis
+1392	species117	1465	1476	B. anthracis
+1392	species118	32	49	Bacillus anthracis
+1392	species118	232	249	Bacillus anthracis
+1392	species118	275	281	anthrax
+1392	species118	502	513	B. anthracis
+1392	species118	943	961	B. anthracis strain
+10090	species118	1034	1038	mouse
+1392	species118	1223	1234	B. anthracis
+294	species120	73	103	Pseudomonas fluorescens Q8r1-96
+294	species120	108	138	Pseudomonas fluorescens Q8r1-96
+294	species120	419	425	Q8r1-96
+317	species120	591	610	Pseudomonas syringae
+294	species120	665	686	P. fluorescens strains
+294	species120	744	750	Q8r1-96
+317	species120	836	846	P. syringae
+317	species120	1057	1067	P. syringae
+294	species120	1073	1079	Q8r1-96
+294	species120	1092	1098	Q8r1-96
+294	species120	1231	1237	Q8r1-96
+210	species121	117	135	Helicobacter pylori
+210	species121	202	220	Helicobacter pylori
+837	species122	77	100	Porphyromonas gingivalis
+837	species122	105	128	Porphyromonas gingivalis
+837	species122	571	583	P. gingivalis
+1148	species123	94	126	Synechocystis sp. strain PCC 6803
+1148	species123	375	407	Synechocystis sp. strain PCC 6803
+196	species252	46	82	Campylobacter fetus subsp. venerealis
+196	species252	215	233	Campylobacter fetus
+195	species252	262	279	Campylobacter coli
+562	species252	357	372	Escherichia coli
+196	species252	378	385	C. fetus
+196	species252	577	602	C. fetus subsp. venerealis
+196	species252	700	707	C. fetus
+196	species252	1040	1047	C. fetus
+9606	species252	1155	1159	human
+196	species252	1474	1481	C. fetus
+104176	species285	75	111	Oscillochloris trichoides subsp. DG-6
+104176	species285	116	140	Oscillochloris trichoides
+104176	species285	405	441	Oscillochloris trichoides subsp. DG-6
+1423	species298	377	393	Bacillus subtilis
+1313	species328	53	76	Streptococcus pneumoniae
+1313	species328	101	124	Streptococcus pneumoniae
+1313	species328	252	264	S. pneumoniae
+1352	species357	75	94	Enterococcus faecium
+1352	species357	130	149	Enterococcus faecium
+1352	species357	495	510	E. faecium E1162
+1352	species357	513	517	E1162
+1352	species357	592	596	E1162
+1352	species357	1109	1118	E. faecium
+287	species359	36	57	Pseudomonas aeruginosa
+287	species359	265	286	Pseudomonas aeruginosa
+287	species359	289	301	P. aeruginosa
+287	species359	654	679	P. aeruginosa strain PA103
+10090	species359	1839	1843	mouse
+287	species359	2137	2149	P. aeruginosa
+1307	species361	99	116	Streptococcus suis
+9823	species361	545	549	swine
+1307	species361	560	577	Streptococcus suis
+1307	species361	943	964	S. suis strain 89/1591
+56636	species376	40	55	Aeropyrum pernix
+56636	species376	199	214	Aeropyrum pernix
+56636	species376	314	329	Aeropyrum pernix
+2287	species376	1698	1720	Sulfolobus solfataricus
+85698	species377	70	98	Achromobacter xylosoxidans A8
+85698	species377	103	138	Achromobacter xylosoxidans strain A8
+85698	species377	420	434	A. xylosoxidans
+1423	species379	26	42	Bacillus subtilis
+1423	species379	159	175	Bacillus subtilis
+1423	species379	1815	1825	B. subtilis
+621	species380	122	136	Shigella boydii
+9606	species380	517	521	human
+9606	species380	556	561	humans
+621	species380	581	595	Shigella boydii
+621	species380	802	816	Shigella boydii
+562	species380	1050	1065	Escherichia coli
+1423	species381	71	87	Bacillus subtilis
+1423	species381	92	108	Bacillus subtilis
+813	species382	52	72	Chlamydia trachomatis
+562	species383	47	62	Escherichia coli
+562	species383	541	556	Escherichia coli
+562	species383	858	864	E. coli
+562	species383	1230	1240	K-12 strain
+562	species383	1270	1277	B strain
+562	species383	1397	1404	B strain
+562	species384	92	107	Escherichia coli
+562	species384	521	536	Escherichia coli
+562	species384	732	738	E. coli
+562	species384	1493	1499	E. coli
+198240	species385	43	62	methanogenic archaea
+198240	species385	112	131	methanogenic archaea
+2190	species385	134	162	Methanocaldococcus jannaschii
+145262	species385	203	241	Methanothermobacter thermoautotrophicus
+198240	species385	309	328	methanogenic archaea
+2214	species385	364	389	Methanosarcina acetivorans
+39152	species385	395	419	Methanococcus maripaludis
+2214	species385	440	453	M. acetivorans
+39152	species385	606	619	M. maripaludis
+39152	species385	1487	1500	M. maripaludis
+39152	species385	1586	1599	M. maripaludis
+287	species388	63	84	Pseudomonas aeruginosa
+287	species388	129	150	Pseudomonas aeruginosa
+287	species388	325	337	P. aeruginosa
+562	species388	1154	1169	Escherichia coli
+562	species390	29	44	Escherichia coli
+562	species390	74	89	Escherichia coli
+287	species391	64	85	Pseudomonas aeruginosa
+287	species391	117	138	Pseudomonas aeruginosa
+38018	species391	570	582	bacteriophage
+562	species427	61	76	Escherichia coli
+584	species427	82	98	Proteus mirabilis
+562	species427	306	321	Escherichia coli
+584	species427	468	484	Proteus mirabilis
+562	species427	490	496	E. coli
+562	species427	968	974	E. coli
+562	species427	1092	1098	E. coli
+584	species427	1104	1115	P. mirabilis
+43687	species429	64	84	Metallosphaera sedula
+43687	species429	89	109	Metallosphaera sedula
+287	species431	112	133	Pseudomonas aeruginosa
+287	species431	138	159	Pseudomonas aeruginosa
+287	species431	546	558	P. aeruginosa
+287	species431	955	967	P. aeruginosa
+9606	species431	1027	1031	human
+573	species474	38	58	Klebsiella pneumoniae
+573	species474	129	149	Klebsiella pneumoniae
+3879	species476	281	295	Medicago sativa
+562	species505	79	94	Escherichia coli
+1718	species532	173	200	Corynebacterium glutamicum R
+1718	species532	205	232	Corynebacterium glutamicum R
+1681	species533	28	54	Bifidobacterium bifidum S17
+1681	species533	129	151	Bifidobacterium bifidum
+1681	species533	161	174	B. bifidum S17
+9606	species540	703	707	human
+35554	species570	118	141	Geobacter sulfurreducens
+35554	species570	171	194	Geobacter sulfurreducens
+35554	species570	1103	1119	G. sulfurreducens
+552	species580	35	51	Erwinia amylovora
+338565	species580	122	141	Erwinia tasmaniensis
+552	species580	215	231	Erwinia amylovora
+552	species580	365	376	E. amylovora
+338565	species580	505	524	Erwinia tasmaniensis
+552	species580	558	569	E. amylovora
+338565	species580	650	664	E. tasmaniensis
+1305	species585	85	107	Streptococcus sanguinis
+1305	species585	112	134	Streptococcus sanguinis
+1305	species585	390	401	S. sanguinis
+1305	species585	1242	1253	S. sanguinis
+86304	species587	66	94	Saccharophagus degradans 2-40
+1423	species588	42	58	Bacillus subtilis
+1423	species588	227	243	Bacillus subtilis
+1148	species589	179	210	Synechocystis sp. strain PCC6803
+1148	species589	339	370	Synechocystis sp. strain PCC6803
+208216	species591	35	43	HTCC2503T
+208216	species591	48	71	Parvularcula bermudensis
+208216	species591	245	268	Parvularcula bermudensis
+208216	species591	425	460	Parvularcula bermudensis HTCC2503(T)
+1423	species592	88	104	Bacillus subtilis
+1423	species592	223	239	Bacillus subtilis
+562	species593	185	200	Escherichia coli
+1719	species594	28	65	Corynebacterium pseudotuberculosis I19
+9913	species594	93	95	cow
+1719	species594	205	242	Corynebacterium pseudotuberculosis I19
+9913	species594	276	278	cow
+562	species595	62	77	Escherichia coli
+562	species595	153	168	Escherichia coli
+562	species596	113	128	Escherichia coli
+28901	species596	134	152	Salmonella enterica
+562	species596	161	176	Escherichia coli
+562	species596	380	402	K-12 strains of E. coli
+562	species596	987	998	E. coli K-12
+562	species596	1102	1105	K-12
+562	species596	1236	1242	E. coli
+562	species596	1277	1283	E. coli
+562	species596	1325	1333	E. coli B
+28901	species596	1341	1359	Salmonella enterica
+562	species596	1556	1567	E. coli K-12
+28901	species597	89	107	Salmonella enterica
+28901	species597	691	709	Salmonella enterica
+382	species598	105	126	Sinorhizobium meliloti
+382	species598	326	347	Sinorhizobium meliloti
+358	species598	389	413	Agrobacterium tumefaciens
+29449	species598	416	429	Rhizobium etli
+381	species598	436	453	Mesorhizobium loti
+382	species598	676	686	S. meliloti
+562	species598	698	713	Escherichia coli
+382	species598	1196	1206	S. meliloti
+381	species598	1262	1268	M. loti
+29449	species598	1320	1326	R. etli
+358	species598	1332	1345	A. tumefaciens
+313603	species599	35	42	HTCC2170
+313603	species599	126	133	HTCC2170
+56765	species599	280	295	marine bacterium
+313603	species599	298	327	Maribacter sp. strain HTCC2170
+313603	species599	341	348	HTCC2170
+28901	species603	109	147	Salmonella enterica serovar Typhimurium
+28901	species603	230	268	Salmonella enterica serovar Typhimurium
+1358	species632	82	99	Lactococcus lactis
+1358	species632	148	165	Lactococcus lactis
+1358	species632	248	253	IL1403
+1358	species632	1237	1245	L. lactis
+959	species634	39	64	Bdellovibrio bacteriovorus
+959	species634	197	222	Bdellovibrio bacteriovorus
+666	species635	10	24	vibrio cholerae
+666	species635	200	214	Vibrio cholerae
+666	species635	812	822	V. cholerae
+666	species635	1160	1170	V. cholerae
+666	species635	1579	1589	V. cholerae
+959	species636	36	61	Bdellovibrio bacteriovorus
+959	species636	180	205	Bdellovibrio bacteriovorus
+959	species636	490	501	Bdellovibrio
+959	species636	542	553	Bdellovibrio
+959	species636	643	654	Bdellovibrio
+959	species636	665	676	Bdellovibrio
+959	species636	796	817	B. bacteriovorus HD100
+959	species636	1232	1243	Bdellovibrio
+959	species636	1874	1885	Bdellovibrio
+562	species637	64	79	Escherichia coli
+28901	species639	33	51	Salmonella enterica
+562	species640	70	85	Escherichia coli
+562	species640	108	123	Escherichia coli
+562	species640	126	129	EHEC
+562	species640	253	259	E. coli
+562	species640	337	340	EHEC
+9606	species640	572	576	human
+562	species640	619	630	EHEC O157:H7
+562	species640	864	875	EHEC O157:H7
+562	species640	1613	1619	E. coli
+562	species640	1702	1708	O157:H7
+1773	species641	30	55	Mycobacterium tuberculosis
+1773	species641	138	163	Mycobacterium tuberculosis
+1773	species641	425	439	M. tuberculosis
+1773	species641	1166	1180	M. tuberculosis
+1765	species662	31	49	Mycobacterium bovis
+1765	species662	136	154	Mycobacterium bovis
+9913	species662	188	193	cattle
+1765	species662	275	282	M. bovis
+1765	species662	330	337	M. bovis
+1765	species662	514	521	M. bovis
+1765	species662	701	708	M. bovis
+9913	species662	992	997	cattle
+1765	species662	1066	1073	M. bovis
+1765	species662	1178	1185	M. bovis
+9913	species662	1209	1214	cattle
+1423	species665	88	104	Bacillus subtilis
+1423	species665	870	886	Bacillus subtilis
+562	species665	1365	1380	Escherichia coli
+2104	species667	85	105	Mycoplasma pneumoniae
+2104	species667	110	130	Mycoplasma pneumoniae
+9606	species667	152	156	human
+2104	species667	348	357	mycoplasma
+1423	species670	104	120	Bacillus subtilis
+1423	species670	290	306	Bacillus subtilis
+1423	species670	416	426	B. subtilis
+562	species672	75	90	Escherichia coli
+562	species672	98	113	Escherichia coli
+562	species672	1029	1045	FtsZ-I374V strain
+37329	species674	62	79	Nocardia farcinica
+37329	species674	296	323	Nocardia farcinica IFM 10152
+37329	species674	1376	1387	N. farcinica
+562	species697	44	81	Escherichia coli O84:H4 strain 4795/97
+562	species697	113	128	Escherichia coli
+562	species697	131	134	STEC
+562	species697	257	260	STEC
+562	species697	636	642	E. coli
+562	species697	811	836	STEC O84:H4 strain 4795/97
+33952	species698	118	138	Acetobacterium woodii
+33952	species698	178	198	Acetobacterium woodii
+562	species698	1073	1088	Escherichia coli
+1392	species699	0	17	Bacillus anthracis
+1392	species699	68	85	Bacillus anthracis
+1423	species699	155	171	Bacillus subtilis
+1423	species699	208	218	B. subtilis
+1392	species699	290	301	B. anthracis
+1392	species699	411	422	B. anthracis
+1423	species699	463	473	B. subtilis
+1392	species699	524	535	B. anthracis
+1392	species699	607	618	B. anthracis
+1423	species699	624	634	B. subtilis
+1392	species699	655	666	B. anthracis
+1423	species699	704	714	B. subtilis
+1392	species699	837	848	B. anthracis
+1396	species699	963	991	Bacillus cereus group species
+1396	species699	1170	1178	B. cereus
+1392	species699	1184	1195	B. anthracis
+1392	species699	1277	1288	B. anthracis
+34	species701	146	163	Myxococcus xanthus
+34	species701	297	314	Myxococcus xanthus
+412963	species703	28	51	Burkholderia rhizoxinica
+58291	species703	73	92	Rhizopus microsporus
+412963	species703	97	120	Burkholderia rhizoxinica
+58291	species703	181	200	Rhizopus microsporus
+412963	species703	472	494	B. rhizoxinica HKI 0454
+986	species704	0	24	Flavobacterium johnsoniae
+986	species704	132	156	Flavobacterium johnsoniae
+837	species704	876	899	Porphyromonas gingivalis
+837	species704	987	999	P. gingivalis
+986	species704	1008	1020	F. johnsoniae
+986	species704	1174	1186	F. johnsoniae
+562	species712	66	81	Escherichia coli
+562	species712	183	198	Escherichia coli
+446	species742	77	98	Legionella pneumophila
+446	species742	683	704	Legionella pneumophila
+446	species742	892	905	L. pneumophila
+446	species742	1382	1395	L. pneumophila
+446	species742	1688	1701	L. pneumophila
+9606	species742	1781	1785	human
+83561	species755	25	43	Simkania negevensis
+83561	species755	422	449	Simkania negevensis strain Z
+83561	species755	646	658	S. negevensis
+562	species755	764	779	Escherichia coli
+83561	species755	1169	1181	S. negevensis
+339	species756	54	90	Xanthomonas campestris pv. campestris
+339	species756	147	183	Xanthomonas campestris pv. campestris
+339	species756	766	793	X. campestris pv. campestris
+339	species756	1363	1390	X. campestris pv. campestris
+562	species770	128	143	Escherichia coli
+562	species770	227	242	Escherichia coli
+139	species775	47	66	Borrelia burgdorferi
+139	species775	70	89	Borrelia burgdorferi
+139	species775	196	219	B. burgdorferi strain 31
+139	species775	521	534	B. burgdorferi
+70771	species777	859	884	Thermoproteus neutrophilus
+160233	species777	905	925	Ignicoccus hospitalis
+43687	species777	952	972	Metallosphaera sedula
+1902	species782	34	56	Streptomyces coelicolor
+1902	species782	448	470	Streptomyces coelicolor
+562	species782	572	587	Escherichia coli
+562	species782	605	611	E. coli
+1902	species782	1849	1861	S. coelicolor
+39152	species784	88	112	Methanococcus maripaludis
+39152	species784	157	181	Methanococcus maripaludis
+1282	species785	49	74	Staphylococcus epidermidis
+1282	species785	923	948	Staphylococcus epidermidis
+34073	species786	72	91	Variovorax paradoxus
+34073	species786	134	153	Variovorax paradoxus
+34073	species786	1493	1504	V. paradoxus

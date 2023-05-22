@@ -1,0 +1,614 @@
+69820	species025	465	491	Spodoptera litura Fabricius
+69820	species025	726	734	S. litura
+279896	species045	41	64	Maize mosaic rhabdovirus
+222432	species045	90	106	Peregrinus maidis
+222432	species045	180	195	corn planthopper
+222432	species045	198	214	Peregrinus maidis
+279896	species045	270	299	Maize mosaic rhabdovirus (MMV)
+279896	species045	337	339	MMV
+279896	species045	569	571	MMV
+222432	species045	693	701	P. maidis
+222432	species045	755	763	P. maidis
+222432	species045	968	976	P. maidis
+222432	species045	1036	1044	P. maidis
+108931	species045	1111	1127	brown planthopper
+108931	species045	1129	1146	Nilaparvata lugens
+222432	species045	1167	1175	P. maidis
+222432	species045	1405	1413	P. maidis
+108931	species045	1536	1545	Ni. lugens
+7029	species045	1801	1819	Acyrthosiphon pisum
+222432	species045	1866	1874	P. maidis
+1071257	species046	44	62	Megaphorura arctica
+1071257	species046	112	128	Arctic springtail
+1071257	species046	131	149	Megaphorura arctica
+1071257	species046	363	372	M. arctica
+7111	species047	300	314	Trichoplusia ni
+7091	species047	320	330	Bombyx mori
+7091	species047	337	343	B. mori
+7111	species047	669	673	T. ni
+7111	species047	698	702	T. ni
+32264	species048	80	98	Tetranychus urticae
+1428	species077	46	84	Bacillus thuringiensis var. israelensis
+7370	species077	151	165	Musca domestica
+7370	species077	237	247	house flies
+7370	species077	250	264	Musca domestica
+1428	species077	358	399	Bacillus thuringiensis variety israelensis
+1428	species077	402	404	Bti
+7370	species077	552	563	M. domestica
+9031	species077	604	611	chickens
+7370	species077	708	719	M. domestica
+1428	species077	766	768	Bti
+1428	species077	857	859	Bti
+1428	species077	949	951	Bti
+1428	species077	1063	1065	Bti
+1428	species077	1176	1178	Bti
+9031	species077	1183	1189	chicken
+7370	species077	1266	1276	house flies
+7539	species090	389	410	Colorado potato beetle
+7539	species090	413	443	Leptinotarsa decemlineata (Say)
+122892	species090	461	473	plum curculio
+122892	species090	476	506	Conotrachelus nenuphar (Herbst)
+50389	species090	528	548	western corn rootworm
+50389	species090	551	590	Diabrotica virgifera virgifera (LeConte)
+7539	species090	708	730	Colorado potato beetles
+122892	species090	849	862	plum curculios
+50389	species090	868	889	western corn rootworms
+122892	species090	945	957	plum curculio
+50389	species090	1348	1368	western corn rootworm
+63687	species091	76	93	poplar leaf beetle
+63687	species091	95	113	Chrysomela tremulae
+63687	species091	234	244	C. tremulae
+63687	species091	322	332	C. tremulae
+63687	species091	751	761	C. tremulae
+1428	species091	763	784	Bacillus thuringiensis
+1428	species091	787	788	Bt
+1428	species091	812	813	Bt
+3641	species092	98	112	Theobroma Cacao
+3641	species092	223	227	cacao
+3641	species092	236	250	Theobroma cacao
+3641	species092	302	306	cacao
+3641	species092	438	442	cacao
+3641	species092	1577	1581	cacao
+3641	species092	1728	1732	cacao
+9606	species096	383	388	humans
+7159	species096	436	448	Aedes aegypti
+11034	species096	575	581	Sindbis
+11034	species096	625	628	SINV
+7047	species097	25	42	Sitophilus zeamais
+7047	species097	125	136	maize weevil
+7047	species097	139	156	Sitophilus zeamais
+7047	species097	671	680	S. zeamais
+7047	species097	840	849	S. zeamais
+7047	species097	989	998	S. zeamais
+7047	species097	1182	1191	S. zeamais
+7047	species097	1492	1501	S. zeamais
+369451	species127	71	87	sycamore lace bug
+369451	species127	90	107	Corythucha ciliata
+369451	species127	116	132	sycamore lace bug
+369451	species127	135	152	Corythucha ciliata
+369451	species127	348	357	C. ciliata
+369451	species127	499	508	C. ciliata
+140101	species127	530	546	London plane tree
+140101	species127	549	569	Platanus x acerifolia
+369451	species127	981	990	C. ciliata
+369451	species127	1639	1648	C. ciliata
+369451	species127	1770	1779	C. ciliata
+4577	species128	204	216	Zea mays (L.)
+4558	species128	243	262	Sorghum bicolor (L.)
+4577	species128	673	677	maize
+89807	species128	853	878	Cotesia sesamiae (Cameron)
+89805	species128	884	902	C. flavipes Cameron
+9606	species129	29	33	human
+115425	species129	57	76	New World screw-worm
+115425	species129	79	101	Cochliomyia hominivorax
+9606	species129	241	245	human
+115425	species129	290	312	Cochliomyia hominivorax
+115425	species129	568	581	C. hominivorax
+7370	species167	87	101	Musca domestica
+7370	species167	312	319	housefly
+7370	species167	321	335	Musca domestica
+7370	species167	393	400	housefly
+59312	species167	641	663	Sarcophaga crassipalpis
+7370	species167	759	766	housefly
+562	species167	891	906	Escherichia coli
+176275	species172	21	38	Beauveria bassiana
+74065	species172	95	109	corn leafhopper
+74065	species172	112	126	Dalbulus maidis
+1032455	species172	149	168	Delphacodes kuscheli
+4577	species172	251	254	corn
+176275	species172	1070	1087	Beauveria bassiana
+74065	species172	1215	1223	D. maidis
+1032455	species172	1229	1239	D. kuscheli
+176275	species172	1336	1346	B. bassiana
+176275	species172	1403	1413	B. bassiana
+74065	species172	1448	1456	D. maidis
+176275	species172	1503	1513	B. bassiana
+1032455	species172	1540	1550	D. kuscheli
+1428	species172	1616	1637	Bacillus thuringiensis
+1423	species172	1679	1689	B. subtilis
+1405	species172	1709	1719	B. mycoides
+1404	species172	1747	1759	B. megaterium
+1408	species172	1787	1795	B.pumilus
+1402	species172	1832	1847	B. licheniformis
+1423	species172	1890	1900	B. subtilis
+13686	species175	46	63	Solenopsis invicta
+13686	species175	401	418	Solenopsis invicta
+73399	species175	427	437	Hymenoptera
+33431	species176	85	100	Heliconius erato
+33431	species176	940	955	Heliconius erato
+33431	species176	991	998	H. erato
+121225	species187	19	33	human body lice
+121225	species187	574	582	body lice
+7091	species206	91	98	silkmoth
+7091	species206	262	272	Bombyx mori
+562	species206	439	454	Escherichia coli
+7460	species207	19	27	honeybees
+7460	species207	30	43	Apis mellifera
+7460	species207	102	110	Honeybees
+7460	species207	711	731	Africanized honeybees
+329032	species208	100	107	bean bug
+329032	species208	109	127	Riptortus pedestris
+329032	species208	562	569	bean bug
+329032	species208	571	589	Riptortus pedestris
+33408	species214	129	149	Asian rice gall midge
+33408	species214	152	166	Orseolia oryzae
+33408	species214	175	195	Asian rice gall midge
+33408	species214	198	212	Orseolia oryzae
+7159	species214	959	971	Aedes aegypti
+367774	species215	34	53	Eupolyphaga sinensis
+367774	species215	594	613	Eupolyphaga sinensis
+367774	species215	870	880	E. sinensis
+367774	species215	1741	1751	E. sinensis
+4232	species217	905	921	Helianthus annuus
+73302	species217	924	935	H. nuttallii
+382521	species217	938	951	H. pauciflorus
+4234	species217	958	970	H. petiolaris
+4232	species217	1016	1024	H. annuus
+4232	species217	1477	1485	H. annuus
+4234	species217	1491	1503	H. petiolaris
+73302	species217	1604	1615	H. nuttallii
+382521	species217	1620	1633	H. pauciflorus
+4234	species217	1724	1736	H. petiolaris
+4232	species217	1743	1751	H. annuus
+197043	species218	52	77	Glassy-Winged Sharpshooter
+197043	species218	80	102	Homalodisca vitripennis
+197043	species218	137	162	glassy-winged sharpshooter
+197043	species218	165	196	Homalodisca vitripennis (Germar)
+197043	species218	282	295	H. vitripennis
+2371	species218	479	504	Xylella fastidiosa (Wells)
+197043	species218	619	632	H. vitripennis
+197043	species218	1156	1169	H. vitripennis
+4093	species219	77	93	Nicotiana rustica
+27380	species219	657	673	Glomus etunicatum
+77855	species219	707	726	silver leaf whitefly
+77855	species219	729	748	Bemisia argentifolii
+272444	species219	818	837	Eretmocerus eremicus
+192188	species220	131	148	Grapholita molesta
+3760	species220	180	184	Peach
+3760	species220	570	574	peach
+3760	species220	577	602	Prunus persica (L.) Batcsh
+192188	species220	668	686	oriental fruit moth
+192188	species220	689	714	Grapholita molesta (Busck)
+192188	species220	741	750	G. molesta
+3760	species220	762	766	peach
+192188	species220	919	928	G. molesta
+43066	species220	1039	1066	Trichogramma minutum (Riley)
+192188	species220	1107	1116	G. molesta
+192188	species220	1455	1464	G. molesta
+176275	species222	71	88	Beauveria bassiana
+500148	species222	94	113	Metarhizium brunneum
+176275	species222	144	161	Beauveria bassiana
+500148	species222	187	206	Metarhizium brunneum
+176275	species222	370	380	B. bassiana
+176275	species222	607	617	B. bassiana
+500148	species222	821	831	M. brunneum
+176275	species222	947	957	B. bassiana
+500148	species222	963	973	M. brunneum
+176275	species222	1420	1430	B. bassiana
+500148	species222	1504	1514	M. brunneum
+176275	species222	1655	1665	B. bassiana
+500148	species222	1780	1790	M. brunneum
+7137	species222	2204	2219	greater wax moth
+7137	species222	2222	2240	Galleria mellonella
+176275	species222	2430	2440	B. bassiana
+500148	species222	2446	2456	M. brunneum
+378805	species223	40	60	Pseudacteon tricuspis
+378805	species223	772	792	Pseudacteon tricuspis
+378805	species223	1141	1152	P. tricuspis
+378805	species223	1237	1248	P. tricuspis
+378805	species223	1580	1591	P. tricuspis
+7070	species224	38	56	Tribolium castaneum
+7070	species224	154	181	Tribolium castaneum (Herbst)
+7070	species224	1051	1062	T. castaneum
+35570	species225	80	89	stable fly
+162946	species225	152	169	Spalangia cameroni
+162947	species225	180	195	Spalangia endius
+51938	species225	209	232	Muscidifurax raptorellus
+35570	species225	272	281	stable fly
+35570	species225	357	366	stable fly
+35570	species225	720	729	stable fly
+51938	species225	901	914	M. raptorellus
+162946	species225	989	999	S. cameroni
+162947	species225	1005	1013	S. endius
+51938	species225	1109	1122	M. raptorellus
+527671	species228	75	93	Elatobium abietinum
+3332	species228	327	338	Sitka spruce
+527671	species228	370	381	E. abietinum
+527671	species228	671	682	E. abietinum
+527671	species228	1053	1064	E. abietinum
+7038	species229	81	94	Bemisia tabaci
+7038	species229	162	181	sweetpotato whitefly
+7038	species229	184	197	Bemisia tabaci
+7038	species229	258	266	B. tabaci
+7038	species229	1543	1551	B. tabaci
+7038	species230	35	48	Bemisia tabaci
+88556	species230	64	88	Trialeurodes vaporariorum
+7038	species230	118	131	Bemisia tabaci
+88556	species230	159	183	Trialeurodes vaporariorum
+7038	species230	305	313	B. tabaci
+88556	species230	418	432	T. vaporariorum
+4081	species230	618	623	tomato
+7038	species230	678	686	B. tabaci
+4081	species230	827	832	tomato
+3635	species230	835	840	cotton
+4097	species230	847	853	tobacco
+7038	species230	856	864	B. tabaci
+88556	species230	993	1007	T. vaporariorum
+7038	species230	1070	1078	B. tabaci
+88556	species230	1083	1097	T. vaporariorum
+7038	species230	1153	1161	B. tabaci
+88556	species230	1197	1211	T. vaporariorum
+4081	species230	1216	1221	tomato
+7038	species230	1283	1291	B. tabaci
+7038	species230	1382	1390	B. tabaci
+88556	species230	1407	1421	T. vaporariorum
+7038	species230	1659	1667	B. tabaci
+7038	species234	71	84	Bemisia tabaci
+88556	species234	100	124	Trialeurodes vaporariorum
+7038	species234	129	142	Bemisia tabaci
+88556	species234	170	194	Trialeurodes vaporariorum
+7038	species234	322	330	B. tabaci
+88556	species234	363	377	T. vaporariorum
+88556	species234	412	426	T. vaporariorum
+88556	species234	637	651	T. vaporariorum
+88556	species234	918	932	T. vaporariorum
+88556	species234	1071	1085	T. vaporariorum
+4081	species234	1155	1160	tomato
+4081	species234	1195	1200	tomato
+3635	species234	1205	1210	cotton
+3712	species234	1216	1222	cabbage
+88556	species234	1346	1360	T. vaporariorum
+4081	species234	1601	1606	tomato
+3635	species234	1612	1617	cotton
+88556	species234	1704	1718	T. vaporariorum
+88556	species234	1867	1881	T. vaporariorum
+88556	species234	1919	1933	T. vaporariorum
+58886	species235	46	63	Mexican palo verde
+58886	species235	66	85	Parkinsonia aculeata
+58886	species235	234	251	Mexican palo verde
+58886	species235	254	273	Parkinsonia aculeata
+708047	species235	583	600	Platynota stultana
+58886	species235	1025	1035	P. aculeata
+58886	species235	1270	1280	P. aculeata
+7091	species236	116	123	silkworm
+7091	species236	126	136	Bombyx mori
+7091	species236	150	157	Silkworm
+7091	species236	340	352	Bombyx mori L
+7091	species236	756	763	silkworm
+7091	species236	927	934	silkworm
+7091	species236	1138	1145	silkworm
+7091	species236	1486	1493	silkworm
+7091	species236	1495	1505	Bombyx mori
+7102	species237	751	769	Heliothis virescens
+669555	species238	113	125	Mygona irmina
+669555	species238	192	204	Mygona irmina
+48992	species238	365	386	Chusquea c.f. scandens
+9157	species239	717	726	great tits
+9157	species239	729	742	Parus major L.
+51531	species240	98	117	Toxoneuron nigriceps
+51531	species240	299	318	Toxoneuron nigriceps
+51531	species240	550	561	T. nigriceps
+51531	species240	734	745	T. nigriceps
+7102	species240	763	777	tobacco budworm
+7102	species240	780	798	Heliothis virescens
+51531	species240	920	931	T. nigriceps
+51531	species240	1403	1414	T. nigriceps
+7067	species241	354	369	Tenebrio molitor
+176275	species241	477	494	Beauveria bassiana
+5530	species241	563	584	Metarhizium anisopliae
+40383	species241	660	685	lsaria (=Paecilomyces) sp.
+176275	species241	719	729	B. bassiana
+5530	species241	801	813	M. anisopliae
+59752	species241	1044	1062	Cuban laurel thrips
+88556	species241	1135	1153	greenhouse whitefly
+88556	species241	1156	1180	Trialeurodes vaporariorum
+176275	species241	1219	1229	B. bassiana
+176275	species241	1488	1498	B. bassiana
+5530	species241	1504	1516	M. anisopliae
+29057	species242	93	111	European corn borer
+29057	species242	114	131	Ostrinia nubilalis
+29057	species242	359	376	Ostrinia nubilalis
+7091	species244	34	41	silkworm
+7091	species244	426	433	silkworm
+7091	species244	449	456	silkworm
+121225	species246	526	535	human lice
+7091	species295	139	146	silkworm
+7091	species295	149	159	Bombyx mori
+7091	species295	167	177	Bombyx mori
+13632	species310	58	73	Lucilia sericata
+7227	species310	188	210	Drosophila melanogaster
+13632	species310	319	334	Lucilia sericata
+7227	species310	351	360	Drosophila
+13632	species310	366	376	L. sericata
+7227	species310	498	512	D. melanogaster
+13632	species310	554	564	L. sericata
+13632	species310	684	694	L. sericata
+7227	species310	730	744	D. melanogaster
+13632	species310	766	776	L. sericata
+7227	species310	819	828	Drosophila
+7029	species334	17	25	pea aphid
+138074	species334	81	99	Serratia symbiotica
+7029	species334	130	139	pea aphids
+7029	species334	142	160	Acyrthosiphon pisum
+138074	species334	422	434	S. symbiotica
+7029	species334	589	597	pea aphid
+138074	species334	728	740	S. symbiotica
+138074	species334	932	944	S. symbiotica
+138074	species334	1082	1094	S. symbiotica
+7461	species335	77	94	Apis cerana cerana
+7461	species335	372	395	Apis cerana cerana (Acc)
+7461	species335	701	716	worker honeybees
+7461	species335	1072	1080	honeybees
+7460	species341	57	65	honey bee
+7460	species341	68	81	Apis mellifera
+7460	species341	645	653	honey bee
+7460	species341	882	891	honey bees
+7227	species341	904	913	Drosophila
+7159	species345	69	89	yellow fever mosquito
+7159	species345	92	104	Aedes aegypti
+7159	species345	347	359	Aedes aegypti
+9606	species345	403	407	human
+7159	species345	875	885	Ae. aegypti
+6999	species347	125	143	Gryllus bimaculatus
+6999	species347	389	414	Gryllus bimaculatus DeGeer
+7175	species440	66	88	northern house mosquito
+7175	species440	91	103	Culex pipiens
+7175	species440	257	279	northern house mosquito
+7175	species440	282	294	Culex pipiens
+7175	species440	523	532	C. pipiens
+7227	species440	694	716	Drosophila melanogaster
+7091	species440	843	853	Bombyx mori
+7227	species470	207	229	Drosophila melanogaster
+7109	species470	341	361	Spodoptera littoralis
+7227	species470	419	433	D. melanogaster
+7091	species470	439	449	Bombyx mori
+7091	species470	684	690	B. mori
+7227	species470	696	710	D. melanogaster
+7109	species470	1012	1024	S. littoralis
+50023	species480	73	87	citrus red mite
+50023	species480	89	104	Panonychus citri
+32264	species480	316	334	Tetranychus urticae
+50023	species480	508	523	Panonychus citri
+50023	species480	648	655	P. citri
+30195	species495	68	84	Bombus terrestris
+30195	species495	203	219	Bombus terrestris
+30195	species495	343	355	B. terrestris
+7159	species496	280	292	Aedes aegypti
+7159	species496	308	320	Aedes aegypti
+7165	species496	323	339	Anopheles gambiae
+7166	species496	346	370	Anopheles quadrimaculatus
+7159	species496	780	790	Ae. aegypti
+7165	species496	799	809	An. gambiae
+7102	species502	58	72	tobacco budworm
+7102	species502	74	92	Heliothis virescens
+7102	species502	130	148	Heliothis virescens
+7102	species502	616	627	H. virescens
+7102	species502	777	788	H. virescens
+7102	species502	820	831	H. virescens
+7102	species504	419	437	Heliothis virescens
+7102	species504	440	441	Hv
+38041	species504	448	465	Heliothis subflexa
+38041	species504	468	469	Hs
+38041	species504	982	992	H. subflexa
+29058	species517	324	343	Helicoverpa armigera
+7159	species522	76	99	Aedes aegypti mosquitoes
+7159	species522	278	290	Aedes aegypti
+7159	species522	769	779	Ae. aegypti
+7159	species522	995	1005	Ae. aegypti
+91021	species527	80	99	Antheraea assamensis
+91021	species527	159	178	Antheraea assamensis
+466588	species527	403	418	Persea bombycina
+344080	species527	465	481	Litsea monopetala
+466588	species527	937	948	P. bombycina
+344080	species527	1044	1056	L. monopetala
+91021	species527	1306	1318	A. assamensis
+7227	species528	97	119	Drosophila melanogaster
+7227	species528	1122	1144	Drosophila melanogaster
+34631	species529	106	133	Rhipicephalus appendiculatus
+34631	species529	359	386	Rhipicephalus appendiculatus
+6941	species529	453	487	Rhipicephalus (Boophilus) microplus
+34631	species529	494	510	R. appendiculatus
+108931	species530	113	129	brown planthopper
+108931	species530	132	149	Nilaparvata lugens
+108931	species530	158	174	brown planthopper
+108931	species530	177	194	Nilaparvata lugens
+4530	species530	236	239	rice
+108931	species530	386	394	N. lugens
+108931	species530	710	718	N. lugens
+108931	species530	1032	1040	N. lugens
+108931	species530	1233	1241	N. lugens
+108931	species530	1392	1400	N. lugens
+10469	species562	0	10	Baculovirus
+10469	species562	256	266	baculovirus
+749652	species562	335	356	Chrysodeixis chalcites
+7107	species562	359	375	Spodoptera exigua
+7111	species562	381	395	Trichoplusia ni
+10469	species562	449	459	baculovirus
+10469	species562	594	606	baculoviruses
+359919	species562	732	751	Spodoptera litura GV
+30195	species567	109	125	Bombus terrestris
+30195	species567	130	146	Bombus terrestris
+30195	species567	949	961	B. terrestris
+41139	species607	525	552	Coccinella septempunctata L.
+64696	species607	558	595	Hippodamia convergens Guerin-Meneville
+881457	species607	621	643	Geocoris bullatus (Say)
+881457	species607	884	891	Geocoris
+881457	species607	1030	1037	Geocoris
+881457	species607	1198	1205	Geocoris
+881457	species607	1480	1487	Geocoris
+7159	species624	38	50	Aedes aegypti
+7159	species624	403	415	Aedes aegypti
+7159	species624	1132	1142	Ae. aegypti
+12287	species624	1322	1341	Flock House virus B2
+7159	species624	1352	1362	Ae. aegypti
+7159	species624	1527	1537	Ae. aegypti
+7165	species625	42	58	Anopheles gambiae
+7165	species625	124	140	Anopheles gambiae
+7165	species625	403	413	An. gambiae
+7165	species625	1224	1234	An. gambiae
+360638	species626	46	73	Cotesia plutellae bracovirus
+360638	species626	461	488	Cotesia plutellae bracovirus
+360638	species626	491	494	CpBV
+217443	species626	516	527	C. plutellae
+51655	species626	576	594	Plutella xylostella
+9986	species626	726	731	rabbit
+30195	species633	58	74	Bombus terrestris
+30195	species633	469	485	Bombus terrestris
+288676	species633	539	553	Crithidia bombi
+288676	species633	762	769	C. bombi
+288676	species633	897	904	C. bombi
+13249	species649	67	83	Rhodnius prolixus
+13249	species649	152	168	Rhodnius prolixus
+13249	species649	476	486	R. prolixus
+13249	species649	678	688	R. prolixus
+9606	species649	966	970	human
+13191	species668	95	107	pink bollworm
+13191	species668	110	133	Pectinophora gossypiella
+13191	species668	161	184	Pectinophora gossypiella
+1428	species668	237	258	Bacillus thuringiensis
+1428	species668	261	262	Bt
+9031	species668	363	369	chicken
+7091	species677	116	128	silkworm moth
+7091	species677	131	141	Bombyx mori
+7091	species677	271	283	silkworm moth
+7091	species677	286	296	Bombyx mori
+7091	species677	517	524	silkworm
+7091	species677	828	835	silkworm
+7227	species678	42	64	Drosophila melanogaster
+444603	species691	617	637	Phyllotreta striolata
+7227	species691	796	818	Drosophila melanogaster
+444603	species691	1081	1092	P. striolata
+444603	species691	1519	1530	P. striolata
+206113	species705	58	80	Anopheles peditaeniatus
+206113	species705	123	145	Anopheles peditaeniatus
+89462	species705	235	241	buffalo
+206113	species705	935	951	An. peditaeniatus
+57298	species707	64	72	stink bug
+57298	species707	183	191	stink bug
+13249	species716	56	72	Rhodnius prolixus
+5693	species716	122	138	Trypanosoma cruzi
+13249	species716	276	292	Rhodnius prolixus
+562	species716	933	948	Escherichia coli
+5693	species716	1083	1099	Trypanosoma cruzi
+9606	species716	1106	1110	human
+13249	species716	1136	1146	R. prolixus
+185587	species733	226	238	Osmia cornuta
+185587	species733	358	367	O. cornuta
+7113	species738	85	99	cotton bollworm
+7113	species738	101	115	Helicoverpa zea
+7113	species738	156	170	Helicoverpa zea
+29058	species738	286	305	Helicoverpa armigera
+7113	species738	319	324	H. zea
+52344	species738	342	360	Helicoverpa assulta
+7113	species738	386	391	H. zea
+29058	species738	397	407	H. armigera
+29058	species738	453	463	H. armigera
+7113	species738	575	580	H. zea
+7113	species738	954	959	H. zea
+29058	species738	966	976	H. armigera
+7113	species738	1094	1099	H. zea
+13686	species745	138	145	fire ant
+7460	species745	231	239	honey bee
+7460	species745	242	255	Apis mellifera
+13686	species745	575	582	fire ant
+13686	species745	584	601	Solenopsis invicta
+13686	species745	1537	1545	fire ants
+7460	species745	1630	1639	honey bees
+7070	species747	54	72	Tribolium castaneum
+7070	species747	268	286	Tribolium castaneum
+7070	species747	467	478	T. castaneum
+34621	species748	91	107	American dog tick
+34621	species748	110	131	Dermacentor variabilis
+34621	species748	343	359	American dog tick
+34621	species748	362	383	Dermacentor variabilis
+7227	species753	120	129	Drosophila
+7227	species753	653	675	Drosophila melanogaster
+7227	species753	719	728	Drosophila
+7227	species753	1071	1080	Drosophila
+7227	species753	1298	1307	Drosophila
+7227	species753	1560	1569	Drosophila
+400223	species762	10	19	wSinvictaA
+13686	species762	62	69	fire ant
+13686	species762	71	88	Solenopsis invicta
+13686	species762	960	967	fire ant
+13686	species762	969	986	Solenopsis invicta
+13686	species762	1116	1125	S. invicta
+13686	species762	1191	1200	S. invicta
+400223	species762	1361	1370	wSinvictaA
+13686	species762	1439	1446	fire ant
+400223	species762	1517	1526	wSinvictaA
+536261	species763	51	63	predatory bug
+536261	species763	66	83	Pilophorus typicus
+536261	species763	133	183	Pilophorus typicus (Distant) (Heteroptera: Miridae)
+536261	species763	190	202	predatory bug
+536261	species763	279	288	P. typicus
+536261	species763	714	723	P. typicus
+536261	species763	1186	1195	P. typicus
+536261	species763	1761	1770	P. typicus
+378805	species764	93	104	P. tricuspis
+378805	species764	110	120	P. curvatus
+13686	species764	255	278	Solenopsis invicta Buren
+30203	species764	280	296	S. richteri Forel
+378805	species764	673	703	Pseudacteon tricuspis Borgmeier
+378805	species764	709	729	P. curvatus Borgmeier
+378805	species764	1363	1374	P. tricuspis
+13686	species764	1735	1756	red imported fire ants
+13686	species764	1759	1768	S. invicta
+378805	species764	1822	1832	P. curvatus
+30203	species764	1908	1912	black
+13686	species764	1971	1992	red imported fire ants
+3983	species765	32	38	cassava
+28588	species765	68	76	melon fly
+28588	species765	79	99	Bactrocera cucurbitae
+27457	species765	110	127	Oriental fruit fly
+27457	species765	130	140	B. dorsalis
+28588	species765	229	237	melon fly
+28588	species765	240	260	Bactrocera cucurbitae
+27457	species765	354	371	oriental fruit fly
+27457	species765	374	384	B. dorsalis
+28588	species765	588	600	B. cucurbitae
+3983	species765	659	665	cassava
+3983	species765	668	684	Manihot esculenta
+28588	species765	743	755	B. cucurbitae
+3983	species765	772	783	M. esculenta
+3983	species765	1035	1046	M. esculenta
+4577	species765	1145	1148	corn
+4577	species765	1151	1158	Zea mays
+28588	species765	1236	1248	B. cucurbitae
+3649	species765	1332	1337	papaya
+3649	species765	1339	1351	Carica papaya
+28588	species765	1428	1440	B. cucurbitae
+27457	species765	1446	1456	B. dorsalis
+3983	species765	1480	1491	M. esculenta
+3988	species765	1568	1578	castor bean
+3988	species765	1581	1596	Ricinus communis
+28588	species765	1702	1714	B. cucurbitae
+4577	species765	1724	1727	corn
+28588	species765	1791	1803	B. cucurbitae
+3983	species765	1845	1856	M. esculenta
+3988	species765	1901	1911	R. communis
+28588	species765	1921	1933	B. cucurbitae
+27457	species765	1939	1949	B. dorsalis
+3983	species765	2003	2014	M. esculenta
+3988	species765	2164	2174	castor bean
+4577	species765	2302	2305	corn

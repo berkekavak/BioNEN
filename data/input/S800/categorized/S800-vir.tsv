@@ -1,0 +1,946 @@
+11320	species029	98	113	influenza A H1N1
+11320	species029	724	742	influenza A viruses
+11320	species029	772	787	influenza A H1N1
+11320	species029	830	845	influenza A H1N1
+11320	species029	947	957	influenza A
+11320	species029	960	975	influenza A H1N1
+11320	species029	1024	1039	influenza A H1N1
+11176	species030	19	41	Newcastle disease virus
+9031	species030	70	76	chicken
+11176	species030	141	163	Newcastle disease virus
+11176	species030	166	168	NDV
+9031	species030	236	242	poultry
+11176	species030	968	970	NDV
+9031	species030	1019	1025	chicken
+11176	species030	1276	1278	NDV
+11176	species030	1319	1321	NDV
+3760	species031	719	723	peach
+12049	species130	337	355	Soybean dwarf virus
+12049	species130	358	361	SbDV
+12041	species130	365	383	Bean leafroll virus
+12041	species130	386	389	BLRV
+131082	species130	393	412	Beet chlorosis virus
+131082	species130	415	418	BChV
+156690	species130	422	446	Beet mild yellowing virus
+156690	species130	449	452	BMYV
+12042	species130	456	481	Beet western yellows virus
+12042	species130	484	487	BWYV
+191217	species130	491	519	Cereal yellow dwarf virus-RPV
+191217	species130	522	529	CYDV-RPV
+91753	species130	533	566	Cucurbit aphid-borne yellows virus
+91753	species130	569	573	CABYV
+12045	species130	577	597	Potato leafroll virus
+12045	species130	600	603	PLRV
+131083	species130	610	629	Turnip yellows virus
+131083	species130	632	635	TuYV
+191217	species130	1141	1148	CYDV-RPV
+131083	species130	1154	1157	TuYV
+12049	species130	1222	1225	SbDV
+12041	species130	1228	1231	BLRV
+131082	species130	1234	1237	BChV
+156690	species130	1240	1243	BMYV
+91753	species130	1246	1250	CABYV
+12045	species130	1263	1266	PLRV
+12042	species130	1271	1274	BWYV
+9612	species131	28	33	canine
+9612	species131	200	205	canine
+905828	species159	45	59	duck astrovirus
+905828	species159	102	116	Duck astrovirus
+905828	species159	119	123	DAstV
+562	species159	350	365	Escherichia coli
+691956	species159	590	611	duck hepatitis A virus
+104388	species159	614	636	duck plague herpesvirus
+38170	species159	639	651	duck reovirus
+11176	species159	654	676	Newcastle disease virus
+34085	species159	683	712	Riemerella anatipestifer 12/19
+34085	species159	726	730	26/51
+905828	species159	790	794	DAstV
+905828	species159	850	854	DAstV
+905828	species159	901	905	DAstV
+905828	species159	1082	1086	DAstV
+11082	species181	70	78	West Nile
+11082	species181	157	164	WN virus
+11072	species181	405	431	Japanese encephalitis virus
+11082	species181	493	494	WN
+11082	species181	682	683	WN
+11082	species181	899	901	WNV
+11082	species181	1265	1267	WNV
+11072	species181	1274	1276	JEV
+10258	species183	298	306	orf virus
+10258	species183	309	312	ORFV
+10258	species183	331	334	ORFV
+31931	species189	246	255	retroviral
+11786	species189	640	669	murine leukemia virus (F-MuLV)
+693997	species190	17	51	transmissible gastroenteritis virus
+9986	species190	163	168	rabbit
+693997	species190	213	247	transmissible gastroenteritis virus
+693997	species190	250	253	TGEV
+694009	species190	366	410	severe acute respiratory syndrome coronavirus
+693997	species190	436	439	TGEV
+693997	species190	530	533	TGEV
+9986	species190	650	655	rabbit
+693997	species190	812	815	TGEV
+11320	species192	43	59	influenza A virus
+11320	species192	203	219	influenza A virus
+11320	species192	439	447	influenza
+11320	species192	449	482	A/Duck/Hubei/L-1/2004 (H5N1) virus
+9606	species192	499	503	human
+11320	species192	603	606	H5N1
+11320	species192	861	877	influenza A virus
+9606	species192	890	894	human
+11320	species192	1031	1075	swine-origin influenza A virus (S-OIV) (H1N1)
+11320	species192	1301	1317	influenza A virus
+10535	species193	49	64	human adenovirus
+10535	species193	93	116	Human adenoviruses (Ads)
+10535	species193	1367	1376	adenovirus
+10535	species193	1565	1574	adenovirus
+10535	species193	1758	1767	adenoviral
+11309	species199	413	427	influenza virus
+9606	species199	493	497	human
+11309	species199	1630	1644	influenza virus
+11103	species199	1656	1672	hepatitis C virus
+9606	species199	1816	1820	human
+12110	species211	122	151	foot-and-mouth disease virus O
+12110	species211	154	154	A
+12110	species211	160	165	Asia 1
+12110	species211	242	269	foot-and-mouth disease virus
+12110	species211	272	275	FMDV
+12110	species211	288	288	O
+12110	species211	291	291	A
+12110	species211	297	302	Asia 1
+9986	species211	330	336	rabbits
+12110	species211	405	412	O/CHA/99
+12110	species211	415	424	A/GS/LX/66
+12110	species211	427	439	Asia 1/CHN/05
+10090	species211	455	459	mouse
+12110	species211	484	492	O/AV99(L)
+12110	species211	495	503	A/AV88(L)
+12110	species211	506	519	Asia 1/YNBS/58
+12110	species211	627	627	O
+12110	species211	630	630	A
+12110	species211	636	641	Asia 1
+12110	species211	1081	1084	FMDV
+12110	species211	1096	1096	O
+12110	species211	1099	1099	A
+12110	species211	1105	1110	Asia 1
+12110	species211	1232	1247	FMDV type Asia 1
+11320	species212	30	53	pandemic influenza virus
+11320	species212	254	270	Influenza A virus
+9823	species226	43	47	swine
+12845	species226	73	87	influenza virus
+11320	species226	148	159	H1N1 viruses
+11320	species226	261	297	swine-origin influenza A (H1N1) virus
+12845	species226	386	400	influenza virus
+9606	species226	416	420	human
+9823	species226	500	504	swine
+11320	species226	756	765	H9N2 virus
+9031	species226	890	897	chickens
+9823	species226	1043	1047	swine
+11320	species226	1072	1099	A/turkey/OH/313053/04 (H3N2)
+11320	species226	1334	1337	H1N1
+9606	species226	2082	2087	humans
+9606	species231	26	30	human
+10335	species231	84	105	varicella-zoster virus
+10335	species231	144	146	VZV
+10335	species231	322	324	VZV
+10335	species231	696	706	VZV-induced
+12238	species232	155	182	Odontoglossum ringspot virus
+12238	species232	197	224	Odontoglossum ringspot virus
+12238	species232	227	230	ORSV
+12238	species232	352	355	ORSV
+562	species232	385	400	Escherichia coli
+12238	species232	529	532	ORSV
+12238	species232	754	757	ORSV
+12238	species232	1087	1090	ORSV
+12238	species232	1130	1133	ORSV
+12238	species232	1282	1285	ORSV
+10390	species243	0	27	Marek's disease virus type 1
+9606	species243	236	240	human
+10390	species243	552	574	Marek's disease virus 1
+10390	species243	577	580	MDV1
+9031	species243	586	592	chicken
+9031	species243	666	673	chickens
+10390	species243	812	815	MDV1
+10390	species243	818	821	MDV1
+10390	species243	932	935	MDV1
+11320	species247	35	75	lethal 2009 pandemic H1N1 influenza virus
+11309	species247	144	158	influenza virus
+11309	species247	309	323	influenza virus
+11320	species247	424	437	H1N1 influenza
+11320	species247	524	535	H1N1 viruses
+11320	species247	598	616	2009 pandemic virus
+11309	species247	797	798	H1
+11320	species247	804	821	H3 influenza virus
+11320	species247	884	909	2009 H1N1 A/CA/04/09 virus
+11309	species247	981	982	H1
+11320	species247	1489	1517	pandemic H1N1 influenza virus
+11676	species251	91	95	HIV-1
+11676	species251	274	276	HIV
+11676	species251	461	465	HIV-1
+11676	species251	512	516	HIV-1
+9606	species251	600	604	human
+11676	species251	716	720	HIV-1
+11676	species251	750	754	HIV-1
+11676	species251	892	896	HIV-1
+11676	species251	1060	1064	HIV-1
+11676	species251	1563	1565	HIV
+11676	species251	1626	1628	HIV
+11676	species251	1693	1697	HIV-1
+11676	species254	223	257	human immunodeficiency virus type 1
+11676	species254	260	264	HIV-1
+138950	species255	0	9	Poliovirus
+138950	species255	122	131	poliovirus
+138950	species255	773	782	poliovirus
+4932	species256	0	4	Yeast
+12721	species256	44	46	HIV
+4932	species256	500	523	Saccharomyces cerevisiae
+9986	species256	615	621	rabbits
+4932	species256	629	633	yeast
+4932	species256	870	874	yeast
+4932	species256	1443	1447	yeast
+28304	species257	410	428	rat cytomegalovirus
+28304	species257	431	434	RCMV
+28304	species257	765	768	RCMV
+28304	species257	954	957	RCMV
+10366	species257	1048	1068	mouse cytomegalovirus
+28304	species257	1170	1173	RCMV
+28304	species257	1423	1426	RCMV
+28304	species257	1617	1620	RCMV
+10090	species258	1232	1235	mice
+10359	species259	81	101	human cytomegalovirus
+10298	species259	248	274	herpes simplex virus type 1
+37296	species259	313	340	Kaposi's sarcoma herpesvirus
+10359	species259	382	402	human cytomegalovirus
+10359	species259	405	408	HCMV
+10359	species259	508	511	HCMV
+10359	species259	807	810	HCMV
+9606	species259	829	833	human
+10359	species259	1190	1193	HCMV
+10359	species259	1215	1218	HCMV
+10359	species259	1777	1780	HCMV
+10359	species259	1867	1870	HCMV
+10376	species260	15	32	Epstein-Barr virus
+10376	species260	144	161	Epstein-Barr virus
+10376	species260	164	166	EBV
+10376	species260	243	245	EBV
+10090	species260	311	315	mouse
+9606	species260	338	342	human
+10376	species260	435	437	EBV
+10376	species260	962	964	EBV
+10090	species260	1000	1003	mice
+10376	species260	1384	1386	EBV
+10090	species261	52	55	mice
+694009	species261	117	161	severe acute respiratory syndrome coronavirus
+9606	species261	284	289	humans
+694009	species261	389	433	severe acute respiratory syndrome coronavirus
+694009	species261	436	443	SARS-CoV
+11036	species261	861	896	Venezuelan equine encephalitis virus
+11036	species261	899	901	VEE
+11036	species261	1076	1078	VEE
+10090	species261	1124	1127	mice
+694009	species261	1159	1166	SARS-CoV
+694009	species261	1250	1257	SARS-CoV
+11082	species261	1916	1930	West Nile virus
+11103	species262	32	48	hepatitis C virus
+11103	species262	97	99	HCV
+11103	species262	352	359	anti-HCV
+11103	species262	619	621	HCV
+11103	species262	704	706	HCV
+351073	species263	157	181	Mammalian orthoreoviruses
+10090	species263	1291	1295	mouse
+37124	species264	0	16	Chikungunya virus
+37124	species264	125	141	Chikungunya virus
+37124	species264	144	148	CHIKV
+37124	species264	393	397	CHIKV
+37124	species264	499	503	CHIKV
+9606	species264	508	512	human
+37124	species264	603	607	CHIKV
+37124	species264	1213	1217	CHIKV
+37124	species264	1545	1549	CHIKV
+37124	species264	1791	1795	CHIKV
+11276	species265	110	135	Vesicular stomatitis virus
+11276	species265	138	140	VSV
+11276	species265	261	263	VSV
+11276	species265	481	483	VSV
+11276	species265	1508	1510	VSV
+11276	species265	1669	1671	VSV
+11676	species266	117	121	HIV-1
+11676	species266	134	138	HIV-1
+10335	species267	0	21	Varicella-zoster virus
+9606	species267	95	99	human
+10335	species267	131	152	Varicella-zoster virus
+10335	species267	155	157	VZV
+10335	species267	195	197	VZV
+9606	species267	212	216	human
+10335	species267	364	366	VZV
+10385	species267	788	790	VZV
+10385	species267	1934	1936	VZV
+11620	species268	20	30	Lassa virus
+11620	species268	302	312	Lassa virus
+11620	species268	620	633	Lassa virus AV
+11620	species268	1439	1449	Lassa virus
+11676	species269	29	63	human immunodeficiency virus type 1
+11676	species269	110	144	Human immunodeficiency virus type 1
+11676	species269	147	151	HIV-1
+11676	species269	271	275	HIV-1
+11676	species269	590	594	HIV-1
+11676	species269	675	679	HIV-1
+11676	species269	783	787	HIV-1
+11676	species269	930	934	HIV-1
+11676	species269	1037	1041	HIV-1
+11676	species269	1184	1188	HIV-1
+11676	species269	1303	1307	HIV-1
+11676	species269	1418	1422	HIV-1
+11676	species269	1580	1584	HIV-1
+10090	species270	384	387	Mice
+10407	species271	31	47	hepatitis B virus
+10407	species271	230	246	hepatitis B virus
+10407	species271	249	251	HBV
+138950	species272	0	9	Poliovirus
+138950	species272	272	281	Poliovirus
+138950	species272	284	285	PV
+138950	species272	387	388	PV
+138950	species272	490	491	PV
+138950	species272	658	659	PV
+138950	species272	1347	1348	PV
+138950	species272	1480	1489	poliovirus
+10090	species273	48	51	mice
+9606	species273	280	284	human
+10090	species273	789	792	mice
+11320	species273	1276	1279	H5N1
+10090	species273	1360	1363	mice
+11320	species273	1547	1558	H5N1 viruses
+204711	species275	154	188	Theiler's murine encephalitis virus
+204711	species275	191	194	TMEV
+10090	species275	277	280	mice
+10090	species275	382	385	mice
+10090	species275	514	517	mice
+10090	species275	860	863	mice
+11676	species276	25	59	human immunodeficiency virus type 1
+11676	species276	198	232	human immunodeficiency virus type 1
+11676	species276	235	239	HIV-1
+11676	species276	320	324	HIV-1
+11676	species276	380	384	HIV-1
+11676	species276	1075	1079	HIV-1
+11676	species276	1715	1719	HIV-1
+11723	species277	100	128	simian immunodeficiency virus
+12721	species277	133	160	Human immunodeficiency virus
+12721	species277	163	165	HIV
+12721	species277	275	277	HIV
+9544	species277	511	532	Indian rhesus macaques
+11723	species277	674	688	virus SIVmac239
+11723	species277	1318	1346	simian immunodeficiency virus
+11723	species277	1349	1351	SIV
+4896	species279	97	121	Schizosaccharomyces pombe
+4896	species279	325	349	Schizosaccharomyces pombe
+12637	species280	50	61	dengue virus
+12637	species280	92	105	dengue viruses
+12637	species280	395	400	Dengue
+12637	species280	451	456	dengue
+12637	species280	545	550	dengue
+12637	species280	855	866	dengue virus
+12637	species280	1214	1219	dengue
+12637	species280	1405	1410	dengue
+12637	species280	1661	1666	dengue
+12637	species280	1691	1696	dengue
+11723	species281	83	111	simian immunodeficiency virus
+11723	species281	127	137	SIVagmTan-1
+31931	species281	142	151	Retroviral
+11723	species281	409	437	simian immunodeficiency virus
+11723	species281	440	442	SIV
+11723	species281	634	646	SIV(agmTan-1)
+10407	species283	46	62	hepatitis B virus
+10407	species283	92	102	hepatitis B
+12475	species283	108	130	hepatitis delta viruses
+10407	species283	135	151	Hepatitis B virus
+10407	species283	154	156	HBV
+12475	species283	163	183	hepatitis delta virus
+12475	species283	186	188	HDV
+10407	species283	281	283	HBV
+10407	species283	415	417	HBV
+12475	species283	507	509	HDV
+10407	species283	524	526	HBV
+12475	species283	536	538	HDV
+12475	species283	607	609	HDV
+10407	species283	678	680	HBV
+10407	species283	774	776	HBV
+12475	species283	885	887	HDV
+12475	species283	1056	1058	HDV
+10407	species283	1125	1127	HBV
+10407	species283	1269	1271	HBV
+12475	species283	1327	1329	HDV
+12475	species283	1395	1397	HDV
+12475	species283	1583	1585	HDV
+12475	species283	1615	1617	HDV
+10407	species283	1772	1774	HBV
+9606	species283	1824	1828	human
+11103	species284	0	16	Hepatitis C virus
+11103	species284	168	184	hepatitis C virus
+11103	species284	187	189	HCV
+11103	species284	346	348	HCV
+129951	species302	41	58	human adenoviruses
+10632	species302	64	80	JC polyomaviruses
+129951	species302	333	350	human adenoviruses
+10632	species302	371	387	JC polyomaviruses
+9606	species302	981	985	human
+138949	species304	84	100	coxsackievirus B3
+138949	species304	633	649	coxsackievirus B3
+138949	species304	652	655	CVB3
+9606	species304	707	712	humans
+138949	species304	907	910	CVB3
+138949	species304	1349	1352	CVB3
+11320	species305	80	109	pandemic influenza A/H1N1 2009
+11320	species305	112	136	seasonal influenza A/H1N1
+11320	species305	143	175	seasonal influenza A/H3N2 viruses
+11320	species305	180	227	Pandemic influenza A/H1N1 2009 (A/H1N1pdm) virus
+11320	species305	359	373	A/H1N1pdm virus
+11320	species305	534	548	A/H1N1pdm virus
+9606	species305	600	604	human
+11320	species305	606	620	seasonal A/H1N1
+11320	species305	645	668	A/H3N2 influenza viruses
+11320	species305	992	1017	viral strains of A/H1N1pdm
+11320	species305	1028	1053	A/Aichi/472/2009 (H1N1)pdm
+11320	species305	1059	1083	A/Sakai/89/2009 (H1N1)pdm
+11320	species305	1378	1384	A/H1pdm
+11320	species305	1387	1390	A/H3
+11320	species305	1397	1400	A/H1
+11320	species305	1452	1470	influenza A viruses
+11309	species305	1610	1626	influenza viruses
+11309	species305	1662	1678	influenza viruses
+282786	species307	13	40	infectious myonecrosis virus
+282786	species307	210	237	infectious myonecrosis virus
+282786	species307	240	243	IMNV
+562	species307	549	560	BL21 E. coli
+282786	species307	936	939	IMNV
+342409	species307	1115	1139	white spot syndrome virus
+342409	species307	1142	1145	WSSV
+96491	species307	1149	1165	yellow head virus
+96491	species307	1168	1170	YHV
+142102	species307	1174	1193	Taura syndrome virus
+142102	species307	1196	1198	TSV
+259389	species307	1202	1237	Penaeus monodon nucleopolyhedrovirus
+259389	species307	1240	1246	PemoNPV
+282786	species307	1791	1794	IMNV
+10266	species308	167	180	sheep poxvirus
+10266	species308	183	186	SPPV
+186805	species308	190	202	goat poxvirus
+186805	species308	205	208	GTPV
+59509	species308	215	238	lumpy skin disease virus
+59509	species308	241	244	LSDV
+9940	species308	257	261	sheep
+9925	species308	264	268	goats
+9913	species308	274	279	cattle
+9940	species308	340	344	sheep
+9925	species308	350	354	goats
+186805	species308	513	519	goatpox
+10266	species308	525	540	sheeppox viruses
+12110	species309	37	75	serotype A foot-and-mouth disease virus
+12110	species309	285	287	FMD
+12110	species309	949	951	FMD
+369960	species316	35	63	porcine endogenous retrovirus
+369960	species316	166	196	Porcine endogenous retroviruses
+369960	species316	199	203	PERVs
+9606	species316	314	318	human
+9823	species316	381	384	pigs
+369960	species316	394	398	PERVs
+31931	species316	630	639	retroviral
+369960	species316	665	668	PERV
+369960	species316	787	792	PERV-B
+31931	species316	909	918	retroviral
+369960	species316	984	989	PERV-B
+369960	species316	1135	1140	PERV-A
+11320	species331	41	51	type A H1N1
+11520	species331	57	84	type B human influenza virus
+11320	species331	129	139	type A H1N1
+11520	species331	145	172	type B human influenza virus
+11320	species331	323	333	type A H1N1
+11520	species331	339	362	type B influenza viruses
+11520	species331	668	682	influenza virus
+9606	species331	692	697	humans
+138948	species332	40	57	Coxsackievirus A16
+138948	species332	84	101	Coxsackievirus A16
+138948	species332	104	107	CA16
+138948	species332	366	369	CA16
+138948	species332	430	433	CA16
+138948	species332	495	498	CA16
+138948	species332	697	700	CA16
+138948	species332	1062	1065	CA16
+138948	species332	1140	1143	CA16
+138948	species332	1215	1218	CA16
+10245	species374	9	22	vaccinia virus
+10090	species374	115	118	mice
+10245	species374	423	436	vaccinia virus
+10245	species374	439	440	VV
+10245	species374	668	669	VV
+10090	species374	683	687	mouse
+10090	species374	750	753	mice
+10245	species374	807	808	VV
+10245	species374	811	812	VV
+10090	species374	870	874	mouse
+10090	species374	991	994	mice
+10090	species374	1058	1061	mice
+10090	species374	1181	1184	mice
+10090	species374	1233	1236	mice
+10090	species374	1335	1338	mice
+10090	species374	1485	1489	mouse
+10359	species387	46	66	human cytomegalovirus
+10359	species387	87	107	Human cytomegalovirus
+10359	species387	110	113	HCMV
+10359	species387	372	375	HCMV
+10359	species387	619	622	HCMV
+4932	species387	646	650	yeast
+10359	species387	840	843	HCMV
+10359	species387	1164	1167	HCMV
+10359	species387	1246	1249	HCMV
+10359	species387	1309	1312	HCMV
+11103	species394	56	72	hepatitis C virus
+11103	species394	149	151	HCV
+11103	species394	195	197	HCV
+11103	species394	336	338	HCV
+11103	species394	358	360	HCV
+11103	species394	853	855	HCV
+11103	species394	883	885	HCV
+11103	species394	980	982	HCV
+11103	species394	1006	1008	HCV
+11103	species394	1405	1407	HCV
+11103	species394	1489	1491	HCV
+85708	species416	87	111	porcine circovirus type 2
+85708	species416	233	264	porcine circovirus type 2 (PCV2)
+9823	species416	789	791	pig
+9823	species416	1092	1095	pigs
+9823	species416	1115	1117	pig
+9823	species416	1210	1212	pig
+511117	species420	470	487	narcissus bulb fly
+511117	species420	489	505	Merodon equestris
+7370	species420	515	523	house fly
+7370	species420	525	539	Musca domestica
+7398	species420	786	805	Glossinia pallidipes
+7370	species420	820	834	Musca domestica
+9606	species485	0	4	Human
+11676	species485	76	80	HIV-1
+11676	species485	431	435	HIV-1
+11676	species485	503	507	HIV-1
+9606	species485	595	599	human
+11676	species485	904	908	HIV-1
+11676	species485	969	973	HIV-1
+11676	species485	1071	1075	HIV-1
+11676	species485	1376	1380	HIV-1
+3983	species534	49	55	cassava
+478098	species534	177	193	Manihot glaziovii
+3983	species534	212	218	cassava
+137758	species534	343	368	Cassava brown streak virus
+137758	species534	371	374	CBSV
+946046	species534	382	415	Ugandan cassava brown streak virus
+946046	species534	418	422	UCBSV
+137758	species534	647	650	CBSV
+946046	species534	656	660	UCBSV
+946046	species534	852	856	UCBSV
+137758	species534	1018	1021	CBSV
+946046	species534	1027	1031	UCBSV
+3983	species534	1055	1061	cassava
+137758	species534	1093	1096	CBSV
+478098	species534	1141	1157	Manihot glaziovii
+3983	species534	1253	1259	cassava
+137758	species534	1290	1293	CBSV
+946046	species534	1299	1303	UCBSV
+3983	species534	1401	1407	cassava
+11176	species544	60	66	class I
+11176	species544	72	105	class II Newcastle disease viruses
+11176	species544	180	186	class I
+11176	species544	192	240	class II strains of Newcastle disease virus (NDV)
+11176	species544	371	373	NDV
+11176	species544	599	601	NDV
+11176	species544	651	653	NDV
+11176	species544	682	688	class I
+11176	species544	738	744	class I
+11176	species544	822	830	NDV09-034
+11176	species544	869	889	class II NDV isolates
+11176	species544	1488	1499	NDV isolates
+9606	species545	236	240	human
+1314	species545	340	361	Streptococcus pyogenes
+446	species545	389	410	Legionella pneumophila
+11320	species545	463	485	human influenza virus A
+12814	species545	520	546	respiratory syncytial virus
+446	species545	1038	1051	L. pneumophila
+1314	species545	1178	1188	S. pyogenes
+11320	species545	1332	1352	human influenza virus
+12814	species545	1358	1384	respiratory syncytial virus
+12275	species546	13	35	Tomato black ring virus
+12275	species546	156	178	Tomato black ring virus
+12275	species546	181	184	TBRV
+12275	species546	422	425	TBRV
+12275	species546	612	615	TBRV
+11103	species547	32	34	HCV
+9606	species547	52	56	human
+11103	species547	84	86	HCV
+11103	species547	309	311	HCV
+11103	species547	353	355	HCV
+11103	species547	471	473	HCV
+11103	species547	579	581	HCV
+9606	species547	1133	1137	human
+9606	species547	1276	1280	human
+11676	species548	120	124	HIV-1
+11676	species548	146	150	HIV-1
+11676	species548	310	314	HIV-1
+11676	species548	439	443	HIV-1
+12721	species548	809	811	HIV
+932662	species552	68	89	mud crab dicistrovirus
+932662	species552	94	115	Mud crab dicistrovirus
+932662	species552	118	121	MCDV
+6761	species552	244	251	mud crab
+932662	species552	281	284	MCDV
+932662	species552	333	336	MCDV
+932662	species552	1063	1066	MCDV
+932662	species552	1138	1141	MCDV
+932662	species552	1245	1248	MCDV
+12637	species568	108	113	dengue
+12637	species568	175	186	dengue virus
+12637	species568	410	421	dengue virus
+12637	species568	573	578	dengue
+12637	species568	1273	1284	dengue virus
+12637	species568	1329	1334	dengue
+11234	species572	14	26	measles virus
+9544	species572	113	126	rhesus monkeys
+11234	species572	240	252	measles virus
+11234	species572	255	256	MV
+11234	species572	685	697	measles virus
+11234	species572	748	749	MV
+9544	species572	968	981	rhesus monkeys
+9544	species572	984	997	Macaca mulatta
+11234	species572	1045	1046	MV
+11234	species572	1141	1142	MV
+11234	species572	1426	1427	MV
+11234	species572	1547	1548	MV
+11234	species572	1733	1734	MV
+9606	species574	122	126	human
+9606	species574	171	175	human
+4932	species574	193	216	Saccharomyces cerevisiae
+4932	species574	404	408	yeast
+4932	species574	903	907	yeast
+12721	species614	163	184	human immunodeficiency
+11103	species614	190	208	hepatitis C viruses
+11103	species614	296	298	HCV
+12721	species614	328	355	human immunodeficiency virus
+12721	species614	358	360	HIV
+11103	species614	435	437	HCV
+11103	species614	523	525	HCV
+12721	species614	714	716	HIV
+11103	species614	737	739	HCV
+12721	species614	741	743	HIV
+12721	species614	846	848	HIV
+11103	species614	943	945	HCV
+11103	species614	964	966	HCV
+12721	species614	1029	1031	HIV
+12721	species614	1098	1100	HIV
+12721	species614	1315	1317	HIV
+11103	species614	2271	2273	HCV
+12721	species614	2275	2277	HIV
+138949	species653	451	467	coxsackievirus A9
+138949	species653	470	473	CAV9
+138949	species653	814	817	CAV9
+138949	species653	994	997	CAV9
+138949	species653	1115	1118	CAV9
+138949	species653	1217	1220	CAV9
+12267	species655	661	692	Red clover necrotic mosaic virus
+12267	species655	695	699	RCNMV
+12267	species655	703	707	RCNMV
+12267	species655	1328	1332	RCNMV
+337051	species657	27	53	human papillomavirus type 8
+337051	species657	109	146	Beta human papillomavirus (HPV) type 8
+337051	species657	356	369	genus Beta HPV
+9606	species657	709	713	human
+337051	species657	736	739	HPV8
+337051	species657	834	837	HPV8
+9606	species657	936	940	human
+337051	species657	968	971	HPV8
+337051	species657	1067	1070	HPV8
+337041	species657	1138	1142	HPV16
+337051	species657	1149	1152	HPV8
+9606	species657	1488	1492	human
+337051	species657	1647	1650	HPV8
+10407	species658	47	63	hepatitis B virus
+10407	species658	135	151	hepatitis B virus
+10407	species658	154	156	HBV
+10407	species658	421	423	HBV
+12092	species660	69	85	hepatitis A virus
+12092	species660	147	163	hepatitis A virus
+12092	species660	166	168	HAV
+9031	species660	192	195	hens
+12092	species660	242	244	HAV
+12092	species660	258	260	HAV
+12092	species660	497	499	HAV
+12092	species660	836	838	HAV
+12092	species660	915	917	HAV
+12092	species660	1022	1024	HAV
+12092	species660	1118	1120	HAV
+9031	species660	1131	1134	hens
+12092	species660	1300	1316	hepatitis A virus
+28314	species685	102	128	Aleutian mink disease virus
+28314	species685	133	166	Aleutian mink disease virus (AMDV)
+452646	species685	249	252	mink
+28314	species685	402	405	AMDV
+28314	species685	716	719	AMDV
+452646	species685	841	844	Mink
+452646	species685	1054	1057	mink
+28314	species685	1311	1322	AMDV strains
+28314	species685	1331	1342	AMDV strains
+111792	species687	33	86	infectious hypodermal and hematopoietic necrosis virus
+111792	species687	171	224	Infectious hypodermal and hematopoietic necrosis virus
+111792	species687	227	231	IHHNV
+29019	species687	291	310	Penaeus stylirostris
+6689	species687	368	383	Penaeus vannamei
+111792	species687	633	637	IHHNV
+111792	species687	1088	1092	IHHNV
+10245	species715	2	15	vaccinia virus
+10245	species715	396	409	vaccinia virus
+10245	species715	412	413	VV
+12643	species715	420	435	ectromelia virus
+10245	species715	725	738	vaccinia virus
+10245	species715	1248	1279	vaccinia virus strain Copenhagen
+10245	species715	1282	1286	VVCop
+10245	species715	1693	1706	vaccinia virus
+10245	species715	1849	1862	vaccinia virus
+10245	species715	1904	1917	vaccinia virus
+10535	species720	0	9	Adenovirus
+129951	species720	67	83	Adenovirus type 5
+129951	species720	86	88	Ad5
+129951	species720	461	463	Ad5
+9606	species720	503	507	human
+10090	species720	572	576	mouse
+129951	species720	639	641	Ad5
+10535	species720	940	941	Ad
+129951	species720	969	971	Ad5
+10535	species720	1069	1070	Ad
+129951	species720	1098	1100	Ad5
+12145	species721	461	484	Tomato bushy stunt virus
+12145	species721	487	490	TBSV
+4932	species721	498	521	Saccharomyces cerevisiae
+12145	species721	823	826	TBSV
+4932	species721	835	839	yeast
+4932	species721	880	884	yeast
+12145	species721	908	911	TBSV
+12145	species721	940	943	TBSV
+4932	species721	1007	1011	yeast
+4100	species721	1054	1074	Nicotiana benthamiana
+12145	species721	1124	1127	TBSV
+12145	species721	1186	1189	TBSV
+11723	species722	0	28	Simian immunodeficiency virus
+9531	species722	39	52	sooty mangabey
+9544	species722	58	71	rhesus macaque
+11723	species722	336	344	SIVmac239
+3489	species722	465	473	jackfruit
+11723	species722	598	606	SIVmac239
+11723	species722	642	650	SIVmac239
+11723	species722	755	783	simian immunodeficiency virus
+11723	species722	786	788	SIV
+11723	species722	910	918	SIVmac239
+11723	species722	1001	1009	SIVmac239
+11723	species722	1160	1162	SIV
+11723	species722	1209	1217	SIVmac239
+11676	species722	1239	1256	HIV-1 strain NL4-3
+11723	species722	1324	1329	SIVmac
+11723	species722	1335	1339	SIVsm
+11676	species722	1434	1438	HIV-1
+11723	species722	1452	1457	SIVcpz
+11723	species722	1494	1502	SIVmac239
+11723	species722	1651	1656	SIVmac
+11723	species722	1662	1666	SIVsm
+11723	species722	1716	1721	SIVcpz
+11676	species722	1727	1731	HIV-1
+11709	species722	1783	1787	HIV-2
+11723	species722	1939	1944	SIVmac
+11723	species722	1950	1954	SIVsm
+11676	species722	1995	1999	HIV-1
+11723	species722	2005	2010	SIVcpz
+11176	species723	41	63	Newcastle disease virus
+12814	species723	95	121	respiratory syncytial virus
+11250	species723	143	175	Human respiratory syncytial virus
+11250	species723	178	180	RSV
+11250	species723	313	315	RSV
+11250	species723	409	411	RSV
+11250	species723	458	460	RSV
+11176	species723	573	595	Newcastle disease virus
+11176	species723	598	600	NDV
+11250	species723	689	691	RSV
+11176	species723	764	766	NDV
+10090	species723	864	867	mice
+11250	species723	928	930	RSV
+11250	species723	1070	1072	RSV
+10090	species723	1235	1238	mice
+11250	species723	1245	1247	RSV
+11250	species723	1276	1278	RSV
+10090	species723	1318	1321	mice
+10090	species723	1406	1409	mice
+11250	species723	1447	1449	RSV
+11250	species723	1504	1506	RSV
+10090	species723	1520	1523	mice
+11250	species723	1562	1564	RSV
+11676	species724	35	39	HIV-1
+11676	species724	414	418	HIV-1
+11676	species724	757	761	HIV-1
+11676	species724	947	951	HIV-1
+11676	species724	1060	1064	HIV-1
+11676	species724	1465	1469	HIV-1
+11676	species724	1752	1756	HIV-1
+12721	species724	1974	1976	HIV
+12721	species725	3	5	HIV
+11276	species725	15	40	vesicular stomatitis virus
+12721	species725	148	150	HIV
+11276	species725	163	188	vesicular stomatitis virus
+11276	species725	201	203	VSV
+12037	species725	234	238	viral
+12721	species725	264	266	HIV
+11276	species725	279	281	VSV
+11276	species725	346	348	VSV
+12037	species725	364	368	virus
+12037	species725	416	420	viral
+12721	species725	486	488	HIV
+11276	species725	501	503	VSV
+12037	species725	543	547	viral
+12721	species725	608	610	HIV
+11276	species725	620	622	VSV
+12721	species725	732	734	HIV
+12721	species725	745	747	HIV
+10298	species726	194	220	herpes simplex virus type 1
+10298	species726	223	227	HSV-1
+10345	species726	234	251	pseudorabies virus
+10345	species726	254	256	PRV
+10335	species726	272	293	varicella-zoster virus
+10335	species726	296	298	VZV
+10298	species726	438	442	HSV-1
+10298	species726	619	623	HSV-1
+10335	species726	626	628	VZV
+10345	species726	635	637	PRV
+10335	species726	735	737	VZV
+10298	species726	876	880	HSV-1
+10345	species726	886	888	PRV
+10335	species726	930	932	VZV
+10335	species726	986	988	VZV
+10335	species726	1186	1188	VZV
+10335	species726	1229	1231	VZV
+10335	species726	1349	1351	VZV
+10298	species726	1552	1556	HSV-1
+10345	species726	1561	1563	PRV
+11619	species727	306	316	Junin virus
+11619	species727	319	322	JUNV
+11620	species727	329	339	Lassa virus
+11620	species727	342	345	LASV
+9606	species727	411	415	human
+11619	species727	532	535	JUNV
+11620	species727	746	749	LASV
+11619	species727	806	809	JUNV
+11620	species727	811	814	LASV
+11619	species727	1155	1158	JUNV
+11620	species727	1164	1167	LASV
+10090	species727	1298	1302	mouse
+11619	species727	1478	1481	JUNV
+11620	species727	1487	1490	LASV
+37296	species729	46	84	Kaposi's sarcoma-associated herpesvirus
+37296	species729	89	127	Kaposi's sarcoma-associated herpesvirus
+37296	species729	130	133	KSHV
+9606	species729	164	168	human
+37296	species729	306	309	KSHV
+37296	species729	869	872	KSHV
+37296	species729	949	952	KSHV
+37296	species729	993	996	KSHV
+9606	species729	1009	1013	human
+37296	species729	1053	1056	KSHV
+37296	species729	1312	1315	KSHV
+11786	species730	11	22	Friend virus
+10090	species730	69	72	mice
+10090	species730	210	213	mice
+11786	species730	220	236	Friend retrovirus
+11786	species730	239	240	FV
+10090	species730	765	769	mouse
+10090	species730	1074	1077	mice
+11786	species730	1152	1153	FV
+10090	species730	1279	1283	mouse
+11176	species732	61	83	Newcastle disease virus
+11234	species732	96	108	measles virus
+11234	species732	196	208	Measles virus
+11234	species732	211	212	MV
+11234	species732	438	439	MV
+11234	species732	488	489	MV
+11234	species732	731	732	MV
+11234	species732	780	781	MV
+11176	species732	943	965	Newcastle disease virus
+11176	species732	968	970	NDV
+11234	species732	988	989	MV
+11176	species732	1006	1010	NDV-H
+11234	species732	1029	1030	MV
+11176	species732	1033	1037	NDV-H
+11176	species732	1162	1166	NDV-H
+11234	species732	1411	1412	MV
+11234	species732	1436	1437	MV
+11176	species732	1460	1462	NDV
+11234	species732	1679	1680	MV
+11176	species732	1687	1689	NDV
+11234	species732	1708	1709	MV
+11234	species732	1830	1831	MV
+10255	species734	0	6	Variola
+10244	species734	12	28	monkeypox viruses
+10245	species734	144	157	Vaccinia virus
+10245	species734	160	163	VacV
+9606	species734	755	760	humans
+10244	species734	818	832	monkeypox virus
+10244	species734	835	837	MPX
+10255	species734	844	856	variola virus
+10255	species734	859	862	VarV
+10090	species734	1021	1025	mouse
+10245	species734	1051	1054	VacV
+10245	species734	1309	1312	VacV
+10255	species734	1315	1318	VarV
+10244	species734	1325	1327	MPX
+10244	species734	1557	1559	MPX
+11320	species735	56	59	H1N1
+11320	species735	65	86	H5 influenza a viruses
+10090	species735	91	94	mice
+11320	species735	99	117	Influenza A viruses
+9606	species735	123	127	human
+11320	species735	228	231	H1N1
+11320	species735	287	290	H1N1
+11320	species735	301	307	H1N1pdm
+11320	species735	310	326	influenza A virus
+9606	species735	383	387	human
+9823	species735	401	405	swine
+11320	species735	487	501	H1N1pdm viruses
+9606	species735	506	511	humans
+10090	species735	671	675	mouse
+11320	species735	831	843	H1N1pdm virus
+9606	species735	893	897	human
+10090	species735	928	932	mouse
+10090	species735	1096	1100	mouse
+11320	species735	1271	1285	H1N1pdm viruses
+11320	species735	1421	1430	H5 viruses
+10090	species735	1435	1438	mice
+11320	species735	1500	1518	influenza A viruses
+11320	species735	1703	1721	influenza A viruses
+10090	species735	1730	1734	mouse
+9606	species735	1904	1908	human
+11320	species735	1910	1916	H1N1pdm
+11676	species736	36	49	HIV-1 CRF01_AE
+11676	species736	200	204	HIV-1
+11676	species736	331	335	HIV-1
+11676	species736	569	573	HIV-1
+11676	species736	707	714	CRF01_AE
+11676	species736	840	848	subtype B
+11676	species736	914	921	CRF01_AE
+12721	species736	1063	1065	HIV
+11676	species736	1127	1134	CRF01_AE
+11676	species736	1140	1148	subtype B
+12721	species736	1378	1380	HIV
+12721	species736	1550	1552	HIV
+11084	species766	33	61	tick-borne encephalitis virus
+11084	species766	148	182	Tick-borne encephalitis (TBE) virus
+9606	species766	246	250	human
+11084	species766	323	325	TBE
+11084	species766	429	431	TBE
+11084	species766	576	584	TBE virus
+11084	species766	628	636	TBE virus
+9606	species766	818	822	human
+11084	species766	835	843	TBE virus
+11084	species766	971	979	TBE virus
+11084	species766	1058	1066	TBE virus
+11084	species766	1204	1214	TBE viruses
+11084	species766	1451	1459	TBE virus
+11084	species766	1497	1499	TBE
