@@ -195,7 +195,7 @@ class BioNEN:
 
 
     def apply_similarity(self, df):
-        df['jaccard_id'] = df['dbscan_id']
+        df['textsim_id'] = df['dbscan_id']
 
         for index, row in df.iterrows():
             if pd.isna(row['dbscan_id']):
@@ -216,7 +216,7 @@ class BioNEN:
 
                 if most_similar_id is not None:
                     if max_similarity > 0.7:
-                        df.loc[df['cluster'] == cluster_id, 'jaccard_id'] = most_similar_id
+                        df.loc[df['cluster'] == cluster_id, 'textsim_id'] = most_similar_id
 
         return df
 
@@ -420,20 +420,20 @@ class BioNEN:
                 df_copy = df.copy()
                 df_copy = df_copy.reset_index(drop=True)
                 df_copy = df_copy.fillna(pd.NA)
-                df_copy['dict_id_2'] = df_copy['jaccard_id']
-                df_copy['relaxed_dict_id_2'] = df_copy['jaccard_id']
+                df_copy['dictsim_id'] = df_copy['textsim_id']
+                df_copy['dict_id_2'] = df_copy['textsim_id']
 
-                preprocessed_mentions = [(i, self.remove_stopwords(mention.lower().strip()), self.stem_text(self.remove_stopwords(mention.lower().strip()))) for i, mention in enumerate(df_copy['mentions']) if pd.isnull(df_copy.loc[i, 'jaccard_id'])]
+                preprocessed_mentions = [(i, self.remove_stopwords(mention.lower().strip()), self.stem_text(self.remove_stopwords(mention.lower().strip()))) for i, mention in enumerate(df_copy['mentions']) if pd.isnull(df_copy.loc[i, 'textsim_id'])]
 
                 for i, mention, preprocessed_mention in preprocessed_mentions:
                     dict_id = dct.get(preprocessed_mention, None)
                     if dict_id:
                         df_copy.loc[i, 'dict_id_2'] = dict_id
-                        df_copy.loc[i, 'relaxed_dict_id_2'] = dict_id
+                        df_copy.loc[i, 'dictsim_id'] = dict_id
                     else:
                         # Only call get_taxonomy_id if the preprocessed mention is not in the dictionary
                         df_copy.loc[i, 'dict_id_2'] = self.get_taxonomy_id(mention, False, dct)
-                        df_copy.loc[i, 'relaxed_dict_id_2'] = self.get_taxonomy_id(mention, True, dct)
+                        df_copy.loc[i, 'dictsim_id'] = self.get_taxonomy_id(mention, True, dct)
 
                 df_dict[key] = df_copy
         return df_dict
@@ -482,9 +482,11 @@ if __name__ == '__main__':
     dfs_test3 = experiment_pipeline.cluster_results(dfs_test2, args.epsilon, 'dict_id')
     dfs_test4 = experiment_pipeline.similarity_results(dfs_test3)
     dfs_test5 = experiment_pipeline.dictionary_similarity(dfs_test4, dictionary)
+
+    print(dfs_test5['df2'])
     
     accuracy1 = experiment_pipeline.calculate_accuracy(dfs_test5, 'dict_id')
     accuracy2 = experiment_pipeline.calculate_accuracy(dfs_test5, 'dbscan_id')
-    accuracy3 = experiment_pipeline.calculate_accuracy(dfs_test5, 'jaccard_id')
-    accuracy4 = experiment_pipeline.calculate_accuracy(dfs_test5, 'relaxed_dict_id_2')
-    print(f"Accuracy of dictionary: {accuracy1}, Accuracy of dbscan: {accuracy2}, Accuracy of file based similarity: {accuracy3}, Accuracy of relaxed dictionary similarity: {accuracy4}")
+    accuracy3 = experiment_pipeline.calculate_accuracy(dfs_test5, 'textsim_id')
+    accuracy4 = experiment_pipeline.calculate_accuracy(dfs_test5, 'dictsim_id')
+    print(f"Accuracy of dictionary: {accuracy1}, Accuracy of dbscan: {accuracy2}, Accuracy of context similarity: {accuracy3}, Accuracy of dictionary similarity: {accuracy4}")
