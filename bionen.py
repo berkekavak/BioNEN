@@ -417,7 +417,6 @@ class BioNEN:
         df_dict = df_dictionary.copy()
         for key, df in tqdm(df_dict.items()):
             if not df.empty:
-                # Optimization: Vectorize the operations where possible
                 df_copy = df.copy()
                 df_copy = df_copy.reset_index(drop=True)
                 df_copy = df_copy.fillna(pd.NA)
