@@ -29,7 +29,7 @@ import argparse
 
 
 class BioNEN:
-    def __init__(self, model_name, dictionary, dfs_data, epsilon):
+    def __init__(self, model_name, dictionary, dfs_data, epsilon, function_name):
         self.model_name = model_name
         self.dictionary = dictionary
         self.dfs_data = dfs_data
@@ -37,6 +37,7 @@ class BioNEN:
         self.stemmer = SnowballStemmer("english")
         self.nlp = spacy.load("en_core_web_sm")
         self.stop_words = stopwords.words('english')
+        self.function_name = function_name
 
     def pubtator_to_dict(self, path):
         dataframes_with_ta = {}
@@ -171,7 +172,7 @@ class BioNEN:
         # If relaxed, retrieve similarities
         if relaxed:
             # Use the selected function or default to jaro_similarity
-            similarity_function = args.function or 'Jaro'
+            similarity_function = args.function_name or 'Jaro'
             for key, value in dct.items():
                 similarity_score = self.run_selected_function(similarity_function, self.stem_text(self.remove_stopwords(scientific_name)), self.stem_text(self.remove_stopwords(key)))
                 if similarity_score > max_score:
@@ -205,7 +206,7 @@ class BioNEN:
                 max_similarity = 0
 
                 # Use the selected function or default to jaro_similarity
-                similarity_function = args.function or 'Jaro'
+                similarity_function = args.function_name or 'Jaro'
                 for other_index, other_row in df.iterrows():
                     if not pd.isna(other_row['dbscan_id']) and index != other_index and other_row['cluster'] != cluster_id:
                         similarity_score = self.run_selected_function(similarity_function, row['mentions'], other_row['mentions'])
@@ -412,22 +413,32 @@ class BioNEN:
         jaro_winkler_similarity = jaro_similarity + (prefix_length * 0.1 * (1 - jaro_similarity))
         return jaro_winkler_similarity  
 
-    def dictionary_results2(self, df_dictionary, dct):
+    def dictionary_similarity(self, df_dictionary, dct):
         df_dict = df_dictionary.copy()
         for key, df in tqdm(df_dict.items()):
-            if (df.empty == False):
+            if not df.empty:
+                # Optimization: Vectorize the operations where possible
                 df_copy = df.copy()
                 df_copy = df_copy.reset_index(drop=True)
                 df_copy = df_copy.fillna(pd.NA)
                 df_copy['dict_id_2'] = df_copy['jaccard_id']
                 df_copy['relaxed_dict_id_2'] = df_copy['jaccard_id']
-                for i in range(len(df_copy['mentions'])):
-                    if pd.isnull(df_copy.loc[i, 'jaccard_id']):
-                        df_copy.loc[i, 'dict_id_2'] = self.get_taxonomy_id(df_copy.loc[i, 'mentions'].lower().strip(), False, dct)
-                        df_copy.loc[i, 'relaxed_dict_id_2'] = self.get_taxonomy_id(df_copy.loc[i, 'mentions'].lower().strip(), True, dct)
+
+                preprocessed_mentions = [(i, self.remove_stopwords(mention.lower().strip()), self.stem_text(self.remove_stopwords(mention.lower().strip()))) for i, mention in enumerate(df_copy['mentions']) if pd.isnull(df_copy.loc[i, 'jaccard_id'])]
+
+                for i, mention, preprocessed_mention in preprocessed_mentions:
+                    dict_id = dct.get(preprocessed_mention, None)
+                    if dict_id:
+                        df_copy.loc[i, 'dict_id_2'] = dict_id
+                        df_copy.loc[i, 'relaxed_dict_id_2'] = dict_id
+                    else:
+                        # Only call get_taxonomy_id if the preprocessed mention is not in the dictionary
+                        df_copy.loc[i, 'dict_id_2'] = self.get_taxonomy_id(mention, False, dct)
+                        df_copy.loc[i, 'relaxed_dict_id_2'] = self.get_taxonomy_id(mention, True, dct)
+
                 df_dict[key] = df_copy
         return df_dict
-    
+
 
     def run_selected_function(self, function_name, str1, str2):
         # Map function names to their implementations
@@ -440,7 +451,7 @@ class BioNEN:
 
         # Get the selected function, or use the default function (jaro_similarity)
         selected_function = function_mapping.get(function_name, self.jaro_similarity)
-
+        # print(selected_function)
         # Call the selected function
         result = selected_function(str1, str2)
 
@@ -454,10 +465,10 @@ if __name__ == '__main__':
     parser.add_argument('--dict_file', type=str, required=True, help='Please specify the dictionary path to the pickle file that you want to use')
     parser.add_argument('--dfs_data',type=str, required=True, help='Please specify the path to the dataframe dictionary')
     parser.add_argument('--epsilon', type=float, required=True, help='Please specify the epsilon value for DBSCAN')
-    parser.add_argument('--function', choices=['Jaro Winkler', 'Jaro', 'Levenshtein', 'Jaccard'], help='Choose a function')
+    parser.add_argument('--function_name', choices=['Jaro Winkler', 'Jaro', 'Levenshtein', 'Jaccard'], help='Choose a function')
     args = parser.parse_args()
     
-    experiment_pipeline = BioNEN(args.model_name, args.dict_file, args.dfs_data, args.epsilon)
+    experiment_pipeline = BioNEN(args.model_name, args.dict_file, args.dfs_data, args.epsilon, args.function_name)
 
     with open(args.dict_file, 'rb') as file:
         dictionary = pickle.load(file)
@@ -471,7 +482,7 @@ if __name__ == '__main__':
     print('Dictionary Acc:', experiment_pipeline.calculate_accuracy(dfs_test2, 'dict_id'))
     dfs_test3 = experiment_pipeline.cluster_results(dfs_test2, args.epsilon, 'dict_id')
     dfs_test4 = experiment_pipeline.similarity_results(dfs_test3)
-    dfs_test5 = experiment_pipeline.dictionary_results2(dfs_test4, dictionary)
+    dfs_test5 = experiment_pipeline.dictionary_similarity(dfs_test4, dictionary)
     
     accuracy1 = experiment_pipeline.calculate_accuracy(dfs_test5, 'dict_id')
     accuracy2 = experiment_pipeline.calculate_accuracy(dfs_test5, 'dbscan_id')
