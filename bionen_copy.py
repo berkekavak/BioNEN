@@ -195,29 +195,26 @@ class BioNEN:
 
 
     def apply_similarity(self, df):
-        df['textsim_id'] = df['dbscan_id']
+
+        df['textsim_id'] = df['dict_id']
+        similarity_function = args.function_name or 'Jaro' 
 
         for index, row in df.iterrows():
-            if pd.isna(row['dbscan_id']):
-                cluster_id = row['cluster']
-                cluster_mentions = df[df['cluster'] == cluster_id]['mentions'].values.tolist()
+            if pd.isna(row['dict_id']):
 
                 most_similar_id = None
                 max_similarity = 0
-
-                # Use the selected function or default to jaro_similarity
-                similarity_function = args.function_name or 'Jaro'
+                
                 for other_index, other_row in df.iterrows():
-                    if not pd.isna(other_row['dbscan_id']) and index != other_index and other_row['cluster'] != cluster_id:
+                    if not pd.isna(other_row['dict_id']) and index != other_index:
                         similarity_score = self.run_selected_function(similarity_function, row['mentions'], other_row['mentions'])
                         if similarity_score > max_similarity:
                             max_similarity = similarity_score
-                            most_similar_id = other_row['dbscan_id']
+                            most_similar_id = other_row['dict_id']
 
                 if most_similar_id is not None:
                     if max_similarity > 0.7:
-                        df.loc[df['cluster'] == cluster_id, 'textsim_id'] = most_similar_id
-
+                        df.loc[index, 'textsim_id'] = most_similar_id
         return df
 
 
@@ -421,18 +418,15 @@ class BioNEN:
                 df_copy = df_copy.reset_index(drop=True)
                 df_copy = df_copy.fillna(pd.NA)
                 df_copy['dictsim_id'] = df_copy['textsim_id']
-                df_copy['dict_id_2'] = df_copy['textsim_id']
 
                 preprocessed_mentions = [(i, self.remove_stopwords(mention.lower().strip()), self.stem_text(self.remove_stopwords(mention.lower().strip()))) for i, mention in enumerate(df_copy['mentions']) if pd.isnull(df_copy.loc[i, 'textsim_id'])]
 
                 for i, mention, preprocessed_mention in preprocessed_mentions:
                     dict_id = dct.get(preprocessed_mention, None)
                     if dict_id:
-                        df_copy.loc[i, 'dict_id_2'] = dict_id
                         df_copy.loc[i, 'dictsim_id'] = dict_id
                     else:
                         # Only call get_taxonomy_id if the preprocessed mention is not in the dictionary
-                        df_copy.loc[i, 'dict_id_2'] = self.get_taxonomy_id(mention, False, dct)
                         df_copy.loc[i, 'dictsim_id'] = self.get_taxonomy_id(mention, True, dct)
 
                 df_dict[key] = df_copy
@@ -479,14 +473,14 @@ if __name__ == '__main__':
 
     dfs_test2 = experiment_pipeline.dictionary_results(dfs_test, dictionary)
     print('Dictionary Acc:', experiment_pipeline.calculate_accuracy(dfs_test2, 'dict_id'))
-    dfs_test3 = experiment_pipeline.cluster_results(dfs_test2, args.epsilon, 'dict_id')
-    dfs_test4 = experiment_pipeline.context_similarity(dfs_test3)
+    dfs_test3 = experiment_pipeline.context_similarity(dfs_test2)
+    dfs_test4 = experiment_pipeline.cluster_results(dfs_test3, args.epsilon, 'textsim_id')
     dfs_test5 = experiment_pipeline.dictionary_similarity(dfs_test4, dictionary)
 
-    #print(dfs_test5['df2'])
+    #print(dfs_test5)
     
     accuracy1 = experiment_pipeline.calculate_accuracy(dfs_test5, 'dict_id')
-    accuracy2 = experiment_pipeline.calculate_accuracy(dfs_test5, 'dbscan_id')
-    accuracy3 = experiment_pipeline.calculate_accuracy(dfs_test5, 'textsim_id')
+    accuracy2 = experiment_pipeline.calculate_accuracy(dfs_test5, 'textsim_id')
+    accuracy3 = experiment_pipeline.calculate_accuracy(dfs_test5, 'dbscan_id')
     accuracy4 = experiment_pipeline.calculate_accuracy(dfs_test5, 'dictsim_id')
-    print(f"Accuracy of dictionary: {accuracy1}, Accuracy of dbscan: {accuracy2}, Accuracy of context similarity: {accuracy3}, Accuracy of dictionary similarity: {accuracy4}")
+    print(f"Accuracy of dictionary: {accuracy1}, Accuracy of context similarity: {accuracy2}, Accuracy of dbscan: {accuracy3}, Accuracy of dictionary similarity: {accuracy4}")
