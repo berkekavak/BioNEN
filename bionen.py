@@ -421,18 +421,15 @@ class BioNEN:
                 df_copy = df_copy.reset_index(drop=True)
                 df_copy = df_copy.fillna(pd.NA)
                 df_copy['dictsim_id'] = df_copy['textsim_id']
-                df_copy['dict_id_2'] = df_copy['textsim_id']
 
                 preprocessed_mentions = [(i, self.remove_stopwords(mention.lower().strip()), self.stem_text(self.remove_stopwords(mention.lower().strip()))) for i, mention in enumerate(df_copy['mentions']) if pd.isnull(df_copy.loc[i, 'textsim_id'])]
 
                 for i, mention, preprocessed_mention in preprocessed_mentions:
                     dict_id = dct.get(preprocessed_mention, None)
                     if dict_id:
-                        df_copy.loc[i, 'dict_id_2'] = dict_id
                         df_copy.loc[i, 'dictsim_id'] = dict_id
                     else:
                         # Only call get_taxonomy_id if the preprocessed mention is not in the dictionary
-                        df_copy.loc[i, 'dict_id_2'] = self.get_taxonomy_id(mention, False, dct)
                         df_copy.loc[i, 'dictsim_id'] = self.get_taxonomy_id(mention, True, dct)
 
                 df_dict[key] = df_copy
