@@ -149,6 +149,10 @@ class BioNEN:
         words = scientific_name.split()
         n = len(words)
 
+            # Check if the words list is empty
+        if n == 0:
+            return None  # or some other appropriate action
+
         # If not found, proceed with searching len-1, len-2, ..., 1 words in the dictionary
         for i in range(n - 1, 0, -1):
             partial_name = ' '.join(words[:i])
