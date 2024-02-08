@@ -138,7 +138,6 @@ class BioNEN:
         punctuation_pattern = r'[!\"#$%&\'()*+,-./:;<=>?@[\\]^_`{|}~]'
         scientific_name = re.sub(punctuation_pattern, '', scientific_name)
 
-
         max_score_value = None
         max_score = 0
 
@@ -157,17 +156,18 @@ class BioNEN:
                     return dct[partial_name]
 
         # If still not found, check 'es' and 's' from the end of the last word and check again
-        if len(words[-1]) > 1:
-            if words[-1][-2:] == 'es':
-                words[-1] = words[-1][:-2]
-                partial_name = " ".join(words)
-                if partial_name in dct:
-                    return dct[partial_name]
-            if words[-1][-1] == 's':
-                words[-1] = words[-1][:-1]
-                partial_name = " ".join(words)
-                if partial_name in dct:
-                    return dct[partial_name]
+        if words:
+            if len(words[-1]) > 1:
+                if words[-1][-2:] == 'es':
+                    words[-1] = words[-1][:-2]
+                    partial_name = " ".join(words)
+                    if partial_name in dct:
+                        return dct[partial_name]
+                if words[-1][-1] == 's':
+                    words[-1] = words[-1][:-1]
+                    partial_name = " ".join(words)
+                    if partial_name in dct:
+                        return dct[partial_name]
 
         # If relaxed, retrieve similarities
         if relaxed:
