@@ -109,9 +109,13 @@ class BioNEN:
         dbscan = DBSCAN(eps=ep, min_samples=1, metric='cosine')
         mention_embeddings = self.get_bert_embeddings(args.model_name, df['mentions'].to_list())
         df['cluster'] = dbscan.fit_predict(mention_embeddings)
-        cluster_mapping = df.groupby('cluster')[col].agg(lambda x: x.mode().iloc[0] if not x.mode().empty else np.nan).reset_index()
-        df = df.merge(cluster_mapping, on='cluster', suffixes=('', '_common'))
+        df['cluster_mention'] = df['dict_mention']
+        cluster_mapping_id = df.groupby('cluster')[col].agg(lambda x: x.mode().iloc[0] if not x.mode().empty else np.nan).reset_index()
+        cluster_mapping_mention = df.groupby('cluster')['cluster_mention'].agg(lambda x: x.mode().iloc[0] if not x.mode().empty else np.nan).reset_index()
+        df = df.merge(cluster_mapping_id, on='cluster', suffixes=('', '_common'))
+        df = df.merge(cluster_mapping_mention, on='cluster', suffixes=('', '_common'))
         df['dbscan_id'] = df.apply(lambda row: row[str(col) + '_common'] if pd.isna(row[col]) else row[col], axis=1)
+        df['dbscan_mention'] = df.apply(lambda row: row['cluster_mention_common'] if pd.isna(row['dict_mention']) else row['dict_mention'], axis=1)
         df.drop(columns=str(col) + '_common', inplace=True)
         df['mentions'] = df['mentions'].apply(lambda x: re.sub('[^0-9a-zA-Z]+', ' ', x).lower())
         # If the abbreviation is found, if the clusters are different assign them into same clusters
@@ -129,7 +133,9 @@ class BioNEN:
                     abbreviation_cluster = df[df['mentions'] == key]['cluster'].values[0]
                     df.loc[idx,'cluster'] = abbreviation_cluster
                     abbreviation_id = df[df['mentions'] == key]['dbscan_id'].values[0]
-                    df.loc[idx, 'dbscan_id'] = abbreviation_id    
+                    abbreviation_mention = df[df['mentions'] == key]['dbscan_mention'].values[0]
+                    df.loc[idx, 'dbscan_id'] = abbreviation_id
+                    df.loc[idx, 'dbscan_mention'] = abbreviation_mention
         return df
 
 
@@ -143,7 +149,7 @@ class BioNEN:
 
         # Try searching the dictionary first
         if scientific_name in dct:
-            return dct[scientific_name]
+            return dct[scientific_name], scientific_name
 
         words = scientific_name.split()
         n = len(words)
@@ -153,7 +159,7 @@ class BioNEN:
             partial_name = ' '.join(words[:i])
             if len(partial_name.split()) > 1:
                 if partial_name in dct:
-                    return dct[partial_name]
+                    return dct[partial_name], partial_name
 
         # If still not found, check 'es' and 's' from the end of the last word and check again
         if words:
@@ -162,12 +168,12 @@ class BioNEN:
                     words[-1] = words[-1][:-2]
                     partial_name = " ".join(words)
                     if partial_name in dct:
-                        return dct[partial_name]
+                        return dct[partial_name], partial_name
                 if words[-1][-1] == 's':
                     words[-1] = words[-1][:-1]
                     partial_name = " ".join(words)
                     if partial_name in dct:
-                        return dct[partial_name]
+                        return dct[partial_name], partial_name
 
         # If relaxed, retrieve similarities
         if relaxed:
@@ -178,12 +184,13 @@ class BioNEN:
                 if similarity_score > max_score:
                     max_score_value = value
                     max_score = similarity_score
+                    max_key = key
 
             if max_score > 0.7:
-                return max_score_value
+                return max_score_value, max_key
             else:
-                return None
-        return None
+                return None, None
+        return None, None
 
 
     def jaccard_similarity(self, str1, str2):
@@ -196,6 +203,7 @@ class BioNEN:
 
     def apply_similarity(self, df):
         df['textsim_id'] = df['dbscan_id']
+        df['textsim_mention'] = df['dbscan_mention']
 
         for index, row in df.iterrows():
             if pd.isna(row['dbscan_id']):
@@ -213,10 +221,12 @@ class BioNEN:
                         if similarity_score > max_similarity:
                             max_similarity = similarity_score
                             most_similar_id = other_row['dbscan_id']
+                            most_similar_mention = other_row['dbscan_mention']
 
                 if most_similar_id is not None:
                     if max_similarity > 0.7:
                         df.loc[df['cluster'] == cluster_id, 'textsim_id'] = most_similar_id
+                        df.loc[df['cluster'] == cluster_id, 'textsim_mention'] = most_similar_mention
 
         return df
 
@@ -271,7 +281,9 @@ class BioNEN:
             df_copy = df_copy.reset_index(drop=True)
             df_copy = df_copy.fillna(pd.NA)
             for i in range(len(df_copy['mentions'])):
-                df_copy.loc[i, 'dict_id'] = self.get_taxonomy_id(df_copy.loc[i, 'mentions'].lower().strip(), False, dct)
+                tax_id, tax_key = self.get_taxonomy_id(df_copy.loc[i, 'mentions'].lower().strip(), False, dct)
+                df_copy.loc[i, 'dict_id'] = tax_id
+                df_copy.loc[i, 'dict_mention'] = tax_key
                 # print(df_copy.loc[i,'id'], df_copy.loc[i, 'dict_id'], df_copy.loc[i, 'mentions'])
                 # df_copy.loc[i, 'relaxed_dict_id'] = self.get_taxonomy_id(df_copy.loc[i, 'mentions'].lower().strip(), True, dct)
             df_dict[key] = df_copy
@@ -421,6 +433,7 @@ class BioNEN:
                 df_copy = df_copy.reset_index(drop=True)
                 df_copy = df_copy.fillna(pd.NA)
                 df_copy['dictsim_id'] = df_copy['textsim_id']
+                df_copy['dictsim_mention'] = df_copy['textsim_mention']
 
                 preprocessed_mentions = [(i, self.remove_stopwords(mention.lower().strip()), self.stem_text(self.remove_stopwords(mention.lower().strip()))) for i, mention in enumerate(df_copy['mentions']) if pd.isnull(df_copy.loc[i, 'textsim_id'])]
 
@@ -428,9 +441,13 @@ class BioNEN:
                     dict_id = dct.get(preprocessed_mention, None)
                     if dict_id:
                         df_copy.loc[i, 'dictsim_id'] = dict_id
+                        df_copy.loc[i, 'dictsim_mention'] = preprocessed_mention
                     else:
                         # Only call get_taxonomy_id if the preprocessed mention is not in the dictionary
-                        df_copy.loc[i, 'dictsim_id'] = self.get_taxonomy_id(mention, True, dct)
+                        tax_id, tax_key = self.get_taxonomy_id(mention, True, dct)
+                        df_copy.loc[i, 'dictsim_id'] = tax_id
+                        df_copy.loc[i, 'dictsim_mention'] = tax_key
+
 
                 df_dict[key] = df_copy
         return df_dict
